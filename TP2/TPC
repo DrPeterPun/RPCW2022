@@ -1,0 +1,33 @@
+1.
+    ler o json
+    gerar uma pagina HTML para cada registo
+
+2.
+criar um servidor para servir as paginas
+localhost:xxxxx/filmes/"title movei1"
+                      /"pokemon the movie"
+                      /...
+
+3.
+criar a rota:
+localhost:xxxxx/filmes
+index.html
+responde com uma pagica web com uma lista de tipos por ordem alfabetica, se clicares no titulo saltas para  pagina correspondente
+
+
+
+ex do filme 28 8 dias:
+
+28 days
+<a href="http::localhost:xxxxx/filmes/f2> 28days <a/>"
+
+
+4.
+mesma coisa mas para os atores
+xxxxx/atores
+
+
+5.
+
+xxxxx/atores/a1
+
