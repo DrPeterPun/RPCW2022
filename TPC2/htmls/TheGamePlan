@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>The Game Plan</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>The Game Plan</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Dwayne Johnson</il>
+			<il>Madison Pettis</il>
+			<il>Kyra Sedgwick</il>
+			<il>Morris Chestnut</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Family</il>
+			<il>Sports</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2007
+    </body>
+</html>

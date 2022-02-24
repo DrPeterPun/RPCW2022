@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Lucky Number Slevin</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Lucky Number Slevin</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Josh Hartnett</il>
+			<il>Morgan Freeman</il>
+			<il>Ben Kingsley</il>
+			<il>Lucy Liu</il>
+			<il>Stanley Tucci</il>
+			<il>Bruce Willis</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Crime</il>
+			<il>Drama</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2006
+    </body>
+</html>

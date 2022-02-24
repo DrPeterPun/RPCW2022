@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>While We're Young</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>While We're Young</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Ben Stiller</il>
+			<il>Naomi Watts</il>
+			<il>Amanda Seyfried</il>
+			<il>Adam Driver</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Comedy</il>
+			<il>Drama</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2015
+    </body>
+</html>

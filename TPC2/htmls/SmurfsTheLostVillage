@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Smurfs: The Lost Village</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Smurfs: The Lost Village</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Demi Lovato</il>
+			<il>Mandy Patinkin</il>
+			<il>Jack McBrayer</il>
+			<il>Danny Pudi</il>
+			<il>Joe Manganiello</il>
+			<il>Rainn Wilson</il>
+			<il>Ariel Winter</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Animated</il>
+			<il>Comedy</il>
+			<il>Fantasy</il>
+			<il>Family</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2017
+    </body>
+</html>

@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Strange Magic</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Strange Magic</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Alan Cumming</il>
+			<il>Evan Rachel Wood</il>
+			<il>Kristin Chenoweth</il>
+			<il>Maya Rudolph</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Animated</il>
+			<il>Fantasy</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2015
+    </body>
+</html>

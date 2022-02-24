@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Jack Reacher</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Jack Reacher</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Tom Cruise</il>
+			<il>Rosamund Pike</il>
+			<il>Richard Jenkins</il>
+			<il>Werner Herzog</il>
+			<il>David Oyelowo</il>
+			<il>Robert Duvall</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Crime</il>
+			<il>Drama</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2012
+    </body>
+</html>

@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Bad Santa</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Bad Santa</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Billy Bob Thornton</il>
+			<il>Bernie Mac</il>
+			<il>Lauren Graham</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Comedy</il>
+			<il>Crime</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2003
+    </body>
+</html>

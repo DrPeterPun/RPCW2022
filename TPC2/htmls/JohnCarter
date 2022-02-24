@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>John Carter</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>John Carter</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Taylor Kitsch</il>
+			<il>Lynn Collins</il>
+			<il>Samantha Morton</il>
+			<il>Mark Strong</il>
+			<il>Ciarán Hinds</il>
+			<il>Dominic West</il>
+			<il>James Purefoy</il>
+			<il>Willem Dafoe</il>
+			<il>Bryan Cranston</il>
+			<il>Polly Walker</il>
+			<il>Daryl Sabara</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Action</il>
+			<il>Science Fiction</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2012
+    </body>
+</html>

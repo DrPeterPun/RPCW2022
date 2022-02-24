@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>The Dark Tower</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>The Dark Tower</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Idris Elba</il>
+			<il>Matthew McConaughey</il>
+			<il>Tom Taylor</il>
+			<il>Abbey Lee Kershaw</il>
+			<il>Katheryn Winnick</il>
+			<il>Jackie Earle Haley</il>
+			<il>Claudia Kim</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Action</il>
+			<il>Fantasy</il>
+			<il>Adventure</il>
+			<il>Horror</il>
+			<il>Science Fiction</il>
+			<il>Western</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2017
+    </body>
+</html>

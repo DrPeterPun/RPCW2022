@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>30 Days of Night</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>30 Days of Night</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Josh Hartnett</il>
+			<il>Ben Foster</il>
+			<il>Melissa George</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Horror</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2007
+    </body>
+</html>

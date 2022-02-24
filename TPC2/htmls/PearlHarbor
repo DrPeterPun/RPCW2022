@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Pearl Harbor</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Pearl Harbor</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Ben Affleck</il>
+			<il>Josh Hartnett</il>
+			<il>Kate Beckinsale</il>
+			<il>Tom Sizemore</il>
+			<il>Cuba Gooding Jr.</il>
+			<il>Alec Baldwin</il>
+			<il>Jon Voight</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>War</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2001
+    </body>
+</html>

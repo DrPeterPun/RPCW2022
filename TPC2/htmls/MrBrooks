@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Mr. Brooks</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Mr. Brooks</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Kevin Costner</il>
+			<il>Demi Moore</il>
+			<il>Dane Cook</il>
+			<il>William Hurt</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Thriller</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2007
+    </body>
+</html>

@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Being Flynn</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Being Flynn</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Robert De Niro</il>
+			<il>Paul Dano</il>
+			<il>Olivia Thirlby</il>
+			<il>Lili Taylor</il>
+			<il>Julianne Moore</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Drama</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2012
+    </body>
+</html>

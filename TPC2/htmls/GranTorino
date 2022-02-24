@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Gran Torino</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Gran Torino</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Clint Eastwood</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Drama</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2008
+    </body>
+</html>

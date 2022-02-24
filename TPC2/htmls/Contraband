@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Contraband</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Contraband</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Mark Wahlberg</il>
+			<il>Kate Beckinsale</il>
+			<il>Ben Foster</il>
+			<il>Giovanni Ribisi</il>
+			<il>Caleb Landry Jones</il>
+			<il>Lukas Haas</il>
+			<il>Diego Luna</il>
+			<il>J. K. Simmons</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Action</il>
+			<il>Thriller</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2012
+    </body>
+</html>

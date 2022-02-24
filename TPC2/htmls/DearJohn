@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Dear John</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Dear John</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Channing Tatum</il>
+			<il>Amanda Seyfried</il>
+			<il>Henry Thomas</il>
+			<il>Scott Porter</il>
+			<il>Richard Jenkins</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Romance</il>
+			<il>Drama</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2010
+    </body>
+</html>

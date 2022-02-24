@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Law Abiding Citizen</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Law Abiding Citizen</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Gerard Butler</il>
+			<il>Jamie Foxx</il>
+			<il>Colm Meaney</il>
+			<il>Bruce McGill</il>
+			<il>Regina Hall</il>
+			<il>Viola Davis</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Thriller</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2009
+    </body>
+</html>

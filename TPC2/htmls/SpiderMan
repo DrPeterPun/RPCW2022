@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Spider-Man</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Spider-Man</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Tobey Maguire</il>
+			<il>Willem Dafoe</il>
+			<il>Kirsten Dunst</il>
+			<il>James Franco</il>
+			<il>Cliff Robertson</il>
+			<il>Rosemary Harris</il>
+			<il>J. K. Simmons</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Superhero</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2002
+    </body>
+</html>

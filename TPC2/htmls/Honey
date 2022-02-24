@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Honey</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Honey</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Jessica Alba</il>
+			<il>Mekhi Phifer</il>
+			<il>Lil' Romeo</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Musical</il>
+			<il>Romance</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2003
+    </body>
+</html>

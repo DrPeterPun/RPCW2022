@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Role Models</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Role Models</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Seann William Scott</il>
+			<il>Paul Rudd</il>
+			<il>Christopher Mintz-Plasse</il>
+			<il>Bobb'e J. Thompson</il>
+			<il>Jane Lynch</il>
+			<il>Elizabeth Banks</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Comedy</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2008
+    </body>
+</html>

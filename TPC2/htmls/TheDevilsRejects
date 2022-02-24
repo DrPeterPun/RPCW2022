@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>The Devil's Rejects</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>The Devil's Rejects</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Sid Haig</il>
+			<il>Bill Moseley</il>
+			<il>Sherri Moon</il>
+			<il>William Forsythe</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Horror</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2005
+    </body>
+</html>

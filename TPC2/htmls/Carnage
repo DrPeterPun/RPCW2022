@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Carnage</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Carnage</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Jodie Foster</il>
+			<il>Kate Winslet</il>
+			<il>Christoph Waltz</il>
+			<il>John C. Reilly</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Comedy</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2011
+    </body>
+</html>

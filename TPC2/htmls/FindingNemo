@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Finding Nemo</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Finding Nemo</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Albert Brooks</il>
+			<il>Ellen DeGeneres</il>
+			<il>Alexander Gould</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Animated</il>
+			<il>Family</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2003
+    </body>
+</html>

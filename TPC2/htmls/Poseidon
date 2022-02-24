@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Poseidon</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Poseidon</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Josh Lucas</il>
+			<il>Kurt Russell</il>
+			<il>Richard Dreyfuss</il>
+			<il>Kevin Dillon</il>
+			<il>Freddy Rodríguez</il>
+			<il>Emmy Rossum</il>
+			<il>Mike Vogel</il>
+			<il>Jacinda Barrett</il>
+			<il>Andre Braugher</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Disaster</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2006
+    </body>
+</html>

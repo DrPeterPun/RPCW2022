@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>I Can Do Bad All By Myself</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>I Can Do Bad All By Myself</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Tyler Perry</il>
+			<il>Taraji P. Henson</il>
+			<il>Mary J. Blige</il>
+			<il>Adam Rodríguez</il>
+			<il>Brian White</il>
+			<il>Gladys Knight</il>
+			<il>Pastor Marvin Winans</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Comedy</il>
+			<il>Drama</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2009
+    </body>
+</html>

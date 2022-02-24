@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Easy A</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Easy A</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Emma Stone</il>
+			<il>Penn Badgley</il>
+			<il>Amanda Bynes</il>
+			<il>Thomas Haden Church</il>
+			<il>Patricia Clarkson</il>
+			<il>Cam Gigandet</il>
+			<il>Lisa Kudrow</il>
+			<il>Malcolm McDowell</il>
+			<il>Aly Michalka</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Comedy</il>
+			<il>Teen</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2010
+    </body>
+</html>

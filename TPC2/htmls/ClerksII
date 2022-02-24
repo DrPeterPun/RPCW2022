@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Clerks II</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Clerks II</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Brian O'Halloran</il>
+			<il>Jeff Anderson</il>
+			<il>Rosario Dawson</il>
+			<il>Jason Mewes</il>
+			<il>Kevin Smith</il>
+			<il>Trevor Fehrman</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Comedy</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2006
+    </body>
+</html>

@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Intolerable Cruelty</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Intolerable Cruelty</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>George Clooney</il>
+			<il>Catherine Zeta-Jones</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Crime</il>
+			<il>Comedy</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2003
+    </body>
+</html>

@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Mud</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Mud</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Matthew McConaughey</il>
+			<il>Tye Sheridan</il>
+			<il>Sam Shepard</il>
+			<il>Michael Shannon</il>
+			<il>Joe Don Baker</il>
+			<il>Ray McKinnon</il>
+			<il>Sarah Paulson</il>
+			<il>Paul Sparks</il>
+			<il>Jacob Lofland</il>
+			<il>Reese Witherspoon</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Drama</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2013
+    </body>
+</html>

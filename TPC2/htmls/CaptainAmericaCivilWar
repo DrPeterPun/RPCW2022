@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Captain America: Civil War</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Captain America: Civil War</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Chris Evans</il>
+			<il>Robert Downey Jr.</il>
+			<il>Sebastian Stan</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Superhero</il>
+			<il>Action</il>
+			<il>Adventure</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2016
+    </body>
+</html>

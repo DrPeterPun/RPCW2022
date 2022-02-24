@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Picking Up the Pieces</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Picking Up the Pieces</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Woody Allen</il>
+			<il>Sharon Stone</il>
+			<il>David Schwimmer</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Comedy</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2000
+    </body>
+</html>

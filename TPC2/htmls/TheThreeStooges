@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>The Three Stooges</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>The Three Stooges</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Chris Diamantopoulos</il>
+			<il>Will Sasso</il>
+			<il>Sean Hayes</il>
+			<il>Jane Lynch</il>
+			<il>Larry David</il>
+			<il>Brian Doyle-Murray</il>
+			<il>Sofía Vergara</il>
+			<il>Jennifer Hudson</il>
+			<il>Lin Shaye</il>
+			<il>Stephen Collins</il>
+			<il>Carly Craig</il>
+			<il>Craig Bierko</il>
+			<il>Kirby Heyborne</il>
+			<il>Isaiah Mustafa</il>
+			<il>Dwight Howard</il>
+			<il>Kate Upton</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Comedy</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2012
+    </body>
+</html>

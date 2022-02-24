@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Machine Gun Preacher</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Machine Gun Preacher</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Gerard Butler</il>
+			<il>Michael Shannon</il>
+			<il>Michelle Monaghan</il>
+			<il>Souléymane Sy Savané</il>
+			<il>Madeline Carroll</il>
+			<il>Kathy Baker</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Action</il>
+			<il>Biography</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2011
+    </body>
+</html>

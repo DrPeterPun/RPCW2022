@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Little Accidents</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Little Accidents</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Elizabeth Banks</il>
+			<il>Boyd Holbrook</il>
+			<il>Chloë Sevigny</il>
+			<il>Josh Lucas</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Drama</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2015
+    </body>
+</html>

@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Beautiful Boy</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Beautiful Boy</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Steve Carell</il>
+			<il>Timothée Chalamet</il>
+			<il>Maura Tierney</il>
+			<il>Amy Ryan</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Biography</il>
+			<il>Drama</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2018
+    </body>
+</html>

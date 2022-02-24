@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Sex and the City 2</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Sex and the City 2</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Sarah Jessica Parker</il>
+			<il>Kim Cattrall</il>
+			<il>Kristin Davis</il>
+			<il>Cynthia Nixon</il>
+			<il>John Corbett</il>
+			<il>Chris Noth</il>
+			<il>David Eigenberg</il>
+			<il>Evan Handler</il>
+			<il>Jason Lewis</il>
+			<il>Lynn Cohen</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Romance</il>
+			<il>Comedy</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2010
+    </body>
+</html>

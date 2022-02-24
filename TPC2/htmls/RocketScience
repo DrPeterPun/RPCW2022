@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Rocket Science</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Rocket Science</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Reece Thompson</il>
+			<il>Anna Kendrick</il>
+			<il>Nicholas D'Agosto</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Comedy</il>
+			<il>Drama</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2007
+    </body>
+</html>

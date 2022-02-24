@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Zoolander</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Zoolander</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Ben Stiller</il>
+			<il>Owen Wilson</il>
+			<il>Christine Taylor</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Comedy</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2001
+    </body>
+</html>

@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>War Machine</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>War Machine</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Michael Hastings</il>
+			<il>(book)</il>
+			<il>Brad Pitt</il>
+			<il>Anthony Michael Hall</il>
+			<il>Topher Grace</il>
+			<il>Anthony Hayes</il>
+			<il>John Magaro</il>
+			<il>Emory Cohen</il>
+			<il>Daniel Betts</il>
+			<il>Lakeith Stanfield</il>
+			<il>RJ Cyler</il>
+			<il>Aymen Hamdouchi</il>
+			<il>Alan Ruck</il>
+			<il>Meg Tilly</il>
+			<il>Will Poulter</il>
+			<il>Ben Kingsley</il>
+			<il>Tilda Swinton</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Comedy</il>
+			<il>Drama</il>
+			<il>War</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2017
+    </body>
+</html>

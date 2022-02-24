@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Team America: World Police</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Team America: World Police</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Trey Parker</il>
+			<il>Matt Stone</il>
+			<il>Kristen Miller</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Animated</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2004
+    </body>
+</html>

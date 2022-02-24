@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Youth in Oregon</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Youth in Oregon</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Frank Langella</il>
+			<il>Billy Crudup</il>
+			<il>Christina Applegate</il>
+			<il>Nicola Peltz</il>
+			<il>Josh Lucas</il>
+			<il>Mary Kay Place</il>
+			<il>Alex Shaffer</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Comedy</il>
+			<il>Drama</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2017
+    </body>
+</html>

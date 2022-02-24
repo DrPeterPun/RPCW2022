@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>The Chronicles of Riddick</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>The Chronicles of Riddick</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Vin Diesel</il>
+			<il>Karl Urban</il>
+			<il>Thandie Newton</il>
+			<il>Colm Feore</il>
+			<il>Judi Dench</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Science Fiction</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2004
+    </body>
+</html>

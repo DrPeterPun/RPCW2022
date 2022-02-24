@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Little Black Book</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Little Black Book</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Brittany Murphy</il>
+			<il>Holly Hunter</il>
+			<il>Kathy Bates</il>
+			<il>Ron Livingston</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Romance</il>
+			<il>Comedy</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2004
+    </body>
+</html>

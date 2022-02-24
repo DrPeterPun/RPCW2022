@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>The Witch</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>The Witch</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Anya Taylor-Joy</il>
+			<il>Ralph Ineson</il>
+			<il>Kate Dickie</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Horror</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2016
+    </body>
+</html>

@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Quills</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Quills</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Geoffrey Rush</il>
+			<il>Kate Winslet</il>
+			<il>Joaquin Phoenix</il>
+			<il>Michael Caine</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Drama</il>
+			<il>Biography</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2000
+    </body>
+</html>

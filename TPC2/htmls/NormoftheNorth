@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Norm of the North</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Norm of the North</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Rob Schneider</il>
+			<il>Heather Graham</il>
+			<il>Ken Jeong</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Animated</il>
+			<il>Comedy</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2016
+    </body>
+</html>

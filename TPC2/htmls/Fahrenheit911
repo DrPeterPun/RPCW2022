@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Fahrenheit 9/11</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Fahrenheit 9/11</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>On</il>
+			<il>George W. Bush</il>
+			<il>War on Terrorism</il>
+			<il>American media</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Documentary</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2004
+    </body>
+</html>

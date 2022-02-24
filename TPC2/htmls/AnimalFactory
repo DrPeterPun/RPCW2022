@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Animal Factory</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Animal Factory</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Willem Dafoe</il>
+			<il>Edward Furlong</il>
+			<il>Mickey Rourke</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Crime</il>
+			<il>Drama</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2000
+    </body>
+</html>

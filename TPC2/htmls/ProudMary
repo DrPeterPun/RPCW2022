@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Proud Mary</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Proud Mary</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Taraji P. Henson</il>
+			<il>Billy Brown</il>
+			<il>Danny Glover</il>
+			<il>Neal McDonough</il>
+			<il>Xander Berkeley</il>
+			<il>Margaret Avery</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Action</il>
+			<il>Thriller</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2018
+    </body>
+</html>

@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Street Fight</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Street Fight</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>the 2002</il>
+			<il>Cory Booker</il>
+			<il>campaign against</il>
+			<il>Sharpe James</il>
+			<il>for mayor of</il>
+			<il>Newark</il>
+			<il>New Jersey</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Documentary</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2005
+    </body>
+</html>

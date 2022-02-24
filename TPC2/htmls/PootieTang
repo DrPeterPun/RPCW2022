@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Pootie Tang</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Pootie Tang</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Lance Crouther</il>
+			<il>Wanda Sykes</il>
+			<il>Chris Rock</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Comedy</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2001
+    </body>
+</html>

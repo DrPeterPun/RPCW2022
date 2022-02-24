@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Alex & Emma</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Alex & Emma</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Kate Hudson</il>
+			<il>Luke Wilson</il>
+			<il>Sophie Marceau</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Romance</il>
+			<il>Comedy</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2003
+    </body>
+</html>

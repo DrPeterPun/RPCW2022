@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>The Magic of Belle Isle</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>The Magic of Belle Isle</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Morgan Freeman</il>
+			<il>Virginia Madsen</il>
+			<il>Kenan Thompson</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Drama</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2012
+    </body>
+</html>

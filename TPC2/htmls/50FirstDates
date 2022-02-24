@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>50 First Dates</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>50 First Dates</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Adam Sandler</il>
+			<il>Drew Barrymore</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Comedy</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2004
+    </body>
+</html>

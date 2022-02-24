@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>The Savages</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>The Savages</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Laura Linney</il>
+			<il>Philip Seymour Hoffman</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Comedy</il>
+			<il>Drama</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2007
+    </body>
+</html>

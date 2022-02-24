@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>The Wife</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>The Wife</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Glenn Close</il>
+			<il>Jonathan Pryce</il>
+			<il>Christian Slater</il>
+			<il>Max Irons</il>
+			<il>Annie Starke</il>
+			<il>Harry Lloyd</il>
+			<il>Elizabeth McGovern</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Drama</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2018
+    </body>
+</html>

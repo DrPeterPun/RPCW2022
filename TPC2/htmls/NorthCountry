@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>North Country</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>North Country</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Charlize Theron</il>
+			<il>Frances McDormand</il>
+			<il>Sissy Spacek</il>
+			<il>Sean Bean</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Drama</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2005
+    </body>
+</html>

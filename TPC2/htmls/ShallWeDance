@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Shall We Dance?</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Shall We Dance?</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Richard Gere</il>
+			<il>Jennifer Lopez</il>
+			<il>Susan Sarandon</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Romance</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2004
+    </body>
+</html>

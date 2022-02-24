@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>And So It Goes</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>And So It Goes</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Michael Douglas</il>
+			<il>Diane Keaton</il>
+			<il>Sterling Jernis</il>
+			<il>Annie Parisse</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Romance</il>
+			<il>Comedy</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2014
+    </body>
+</html>

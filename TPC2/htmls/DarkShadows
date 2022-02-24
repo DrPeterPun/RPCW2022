@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Dark Shadows</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Dark Shadows</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Johnny Depp</il>
+			<il>Michelle Pfeiffer</il>
+			<il>Helena Bonham Carter</il>
+			<il>Eva Green</il>
+			<il>Jackie Earle Haley</il>
+			<il>Bella Heathcote</il>
+			<il>Chloë Grace Moretz</il>
+			<il>Jonny Lee Miller</il>
+			<il>Gulliver McGrath</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Horror</il>
+			<il>Comedy</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2012
+    </body>
+</html>

@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Rush Hour 3</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Rush Hour 3</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Jackie Chan</il>
+			<il>Chris Tucker</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Action</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2007
+    </body>
+</html>

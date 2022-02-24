@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Bridesmaids</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Bridesmaids</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Kristen Wiig</il>
+			<il>Maya Rudolph</il>
+			<il>Rose Byrne</il>
+			<il>Wendi McLendon-Covey</il>
+			<il>Ellie Kemper</il>
+			<il>Melissa McCarthy</il>
+			<il>Chris O'Dowd</il>
+			<il>Jon Hamm</il>
+			<il>Matt Lucas</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Comedy</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2011
+    </body>
+</html>

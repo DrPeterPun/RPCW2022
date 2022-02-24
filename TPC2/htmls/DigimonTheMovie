@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Digimon: The Movie</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Digimon: The Movie</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Lara Jill Miller</il>
+			<il>Joshua Seth</il>
+			<il>Bob Glouberman</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Animated</il>
+			<il>Adventure</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2000
+    </body>
+</html>

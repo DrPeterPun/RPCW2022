@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>The Grey</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>The Grey</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Liam Neeson</il>
+			<il>Frank Grillo</il>
+			<il>Dermot Mulroney</il>
+			<il>Dallas Roberts</il>
+			<il>Joe Anderson</il>
+			<il>Nonso Anozie</il>
+			<il>James Badge Dale</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Action</il>
+			<il>Thriller</il>
+			<il>Adventure</il>
+			<il>Drama</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2012
+    </body>
+</html>

@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>I Am Legend</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>I Am Legend</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Will Smith</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Science Fiction</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2007
+    </body>
+</html>

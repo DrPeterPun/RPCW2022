@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Inside Out</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Inside Out</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Amy Poehler</il>
+			<il>Lewis Black</il>
+			<il>Mindy Kaling</il>
+			<il>Bill Hader</il>
+			<il>Phyllis Smith</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Comedy</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2015
+    </body>
+</html>/il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2011
+    </body>
+</html>

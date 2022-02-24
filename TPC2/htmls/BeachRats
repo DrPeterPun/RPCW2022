@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Beach Rats</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Beach Rats</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Harris Dickinson</il>
+			<il>Madeline Weinstein</il>
+			<il>Kate Hodge</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Drama</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2017
+    </body>
+</html>

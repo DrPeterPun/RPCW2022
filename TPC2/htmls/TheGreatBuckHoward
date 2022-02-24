@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>The Great Buck Howard</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>The Great Buck Howard</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>John Malkovich</il>
+			<il>Colin Hanks</il>
+			<il>Emily Blunt</il>
+			<il>Steve Zahn</il>
+			<il>Tom Hanks</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Comedy</il>
+			<il>Drama</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2009
+    </body>
+</html>

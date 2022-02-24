@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Cecil B. Demented</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Cecil B. Demented</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Melanie Griffith</il>
+			<il>Stephen Dorff</il>
+			<il>Alicia Witt</il>
+			<il>Adrian Grenier</il>
+			<il>Maggie Gyllenhaal</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Comedy</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2000
+    </body>
+</html>

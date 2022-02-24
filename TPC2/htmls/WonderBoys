@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Wonder Boys</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Wonder Boys</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Michael Douglas</il>
+			<il>Tobey Maguire</il>
+			<il>Frances McDormand</il>
+			<il>Katie Holmes</il>
+			<il>Robert Downey, Jr.</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Comedy</il>
+			<il>Drama</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2000
+    </body>
+</html>

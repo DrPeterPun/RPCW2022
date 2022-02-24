@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Jack Ryan: Shadow Recruit</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Jack Ryan: Shadow Recruit</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Chris Pine</il>
+			<il>Keira Knightley</il>
+			<il>Kevin Costner</il>
+			<il>Kenneth Branagh</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Thriller</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2014
+    </body>
+</html>

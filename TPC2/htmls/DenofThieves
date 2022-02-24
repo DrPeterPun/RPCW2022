@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Den of Thieves</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Den of Thieves</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Gerard Butler</il>
+			<il>50 Cent</il>
+			<il>Pablo Schreiber</il>
+			<il>O'Shea Jackson Jr.</il>
+			<il>Evan Jones</il>
+			<il>Dawn Olivieri</il>
+			<il>Mo McRae</il>
+			<il>Max Holloway</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Action</il>
+			<il>Action</il>
+			<il>Thriller</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2018
+    </body>
+</html>

@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Take Shelter</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Take Shelter</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Michael Shannon</il>
+			<il>Jessica Chastain</il>
+			<il>Shea Whigham</il>
+			<il>Katy Mixon</il>
+			<il>Kathy Baker</il>
+			<il>Ray McKinnon</il>
+			<il>Lisa Gay Hamilton</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Drama</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2011
+    </body>
+</html>

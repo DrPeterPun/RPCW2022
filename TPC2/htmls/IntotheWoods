@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Into the Woods</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Into the Woods</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Meryl Streep</il>
+			<il>Emily Blunt</il>
+			<il>James Corden</il>
+			<il>Anna Kendrick</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Fantasy</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2014
+    </body>
+</html>

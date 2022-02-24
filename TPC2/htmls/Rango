@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Rango</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Rango</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Johnny Depp</il>
+			<il>Isla Fisher</il>
+			<il>Abigail Breslin</il>
+			<il>Alfred Molina</il>
+			<il>Bill Nighy</il>
+			<il>Harry Dean Stanton</il>
+			<il>Ray Winstone</il>
+			<il>Timothy Olyphant</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Animated</il>
+			<il>Family</il>
+			<il>Western</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2011
+    </body>
+</html>

@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Harry Potter and the Goblet of Fire</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Harry Potter and the Goblet of Fire</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Daniel Radcliffe</il>
+			<il>Rupert Grint</il>
+			<il>Emma Watson</il>
+			<il>Michael Gambon</il>
+			<il>Maggie Smith</il>
+			<il>Alan Rickman</il>
+			<il>Gary Oldman</il>
+			<il>Robbie Coltrane</il>
+			<il>Robert Pattinson</il>
+			<il>Ralph Fiennes</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Fantasy</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2005
+    </body>
+</html>

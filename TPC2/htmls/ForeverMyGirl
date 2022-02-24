@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Forever My Girl</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Forever My Girl</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Alex Roe</il>
+			<il>Jessica Rothe</il>
+			<il>John Benjamin Hickey</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Romance</il>
+			<il>Musical</il>
+			<il>Drama</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2018
+    </body>
+</html>

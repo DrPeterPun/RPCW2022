@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Danika</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Danika</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Marisa Tomei</il>
+			<il>Regina Hall</il>
+			<il>Craig Bierko</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Horror</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2006
+    </body>
+</html>

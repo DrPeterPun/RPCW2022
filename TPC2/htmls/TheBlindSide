@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>The Blind Side</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>The Blind Side</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Sandra Bullock</il>
+			<il>Kathy Bates</il>
+			<il>Tim McGraw</il>
+			<il>Ray McKinnon</il>
+			<il>Quinton Aaron</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Drama</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2009
+    </body>
+</html>

@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Eight Legged Freaks</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Eight Legged Freaks</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>David Arquette</il>
+			<il>Kari Wührer</il>
+			<il>Scarlett Johansson</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Comedy</il>
+			<il>Horror</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2002
+    </body>
+</html>

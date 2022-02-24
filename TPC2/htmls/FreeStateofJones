@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Free State of Jones</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Free State of Jones</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Matthew McConaughey</il>
+			<il>Gugu Mbatha-Raw</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Thriller</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2016
+    </body>
+</html>

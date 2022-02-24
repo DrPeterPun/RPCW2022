@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Inequality for All</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Inequality for All</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Shows income inequality in the</il>
+			<il>United States</il>
+			<il>.</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Documentary</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2013
+    </body>
+</html>

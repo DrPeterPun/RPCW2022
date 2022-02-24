@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Josie</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Josie</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Sophie Turner</il>
+			<il>Dylan McDermott</il>
+			<il>Jack Kilmer</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Drama</il>
+			<il>Suspense</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2018
+    </body>
+</html>

@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Hitman</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Hitman</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Timothy Olyphant</il>
+			<il>Dougray Scott</il>
+			<il>Olga Kurylenko</il>
+			<il>Robert Knepper</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Action</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2007
+    </body>
+</html>

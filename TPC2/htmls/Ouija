@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Ouija</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Ouija</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Ana Coto</il>
+			<il>Olivia Cooke</il>
+			<il>Daren Kagasoff</il>
+			<il>Bianca A. Santos</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Horror</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2014
+    </body>
+</html>

@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>A Star Is Born</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>A Star Is Born</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Bradley Cooper</il>
+			<il>Lady Gaga</il>
+			<il>Andrew Dice Clay</il>
+			<il>Dave Chappelle</il>
+			<il>Sam Elliott</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Romance</il>
+			<il>Drama</il>
+			<il>Musical</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2018
+    </body>
+</html>

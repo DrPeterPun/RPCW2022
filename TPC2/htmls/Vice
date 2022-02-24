@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Vice</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Vice</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Christian Bale</il>
+			<il>Amy Adams</il>
+			<il>Steve Carell</il>
+			<il>Sam Rockwell</il>
+			<il>Alison Pill</il>
+			<il>Jesse Plemons</il>
+			<il>Lily Rabe</il>
+			<il>Bill Pullman</il>
+			<il>Tyler Perry</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Biography</il>
+			<il>Drama</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2018
+    </body>
+</html>

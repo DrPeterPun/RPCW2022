@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Brick</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Brick</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Joseph Gordon-Levitt</il>
+			<il>Emilie de Ravin</il>
+			<il>Nora Zehetner</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Noir</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2005
+    </body>
+</html>

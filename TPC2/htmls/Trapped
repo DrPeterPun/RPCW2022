@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Trapped</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Trapped</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Charlize Theron</il>
+			<il>Courtney Love</il>
+			<il>Stuart Townsend</il>
+			<il>Kevin Bacon</il>
+			<il>Dakota Fanning</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Crime</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2002
+    </body>
+</html>

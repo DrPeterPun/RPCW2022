@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Rage</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Rage</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Nicolas Cage</il>
+			<il>Peter Stormare</il>
+			<il>Danny Glover</il>
+			<il>Max Ryan</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Crime</il>
+			<il>Thriller</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2014
+    </body>
+</html>

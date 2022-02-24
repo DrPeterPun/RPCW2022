@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Grindhouse</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Grindhouse</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Freddy Rodríguez</il>
+			<il>Kurt Russell</il>
+			<il>Rose McGowan</il>
+			<il>Rosario Dawson</il>
+			<il>Tracie Thoms</il>
+			<il>Zoë Bell</il>
+			<il>Josh Brolin</il>
+			<il>Bruce Willis</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Action</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2007
+    </body>
+</html>

@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Training Day</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Training Day</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Denzel Washington</il>
+			<il>Ethan Hawke</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Crime</il>
+			<il>Drama</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2001
+    </body>
+</html>

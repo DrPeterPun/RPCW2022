@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Swordfish</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Swordfish</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Hugh Jackman</il>
+			<il>John Travolta</il>
+			<il>Halle Berry</il>
+			<il>Don Cheadle</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Crime</il>
+			<il>Drama</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2001
+    </body>
+</html>

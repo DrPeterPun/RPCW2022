@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Paranormal Activity 2</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Paranormal Activity 2</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Katie Featherston</il>
+			<il>Micah Sloat</il>
+			<il>Sprague Grayden</il>
+			<il>Molly Ephraim</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Horror</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2010
+    </body>
+</html>

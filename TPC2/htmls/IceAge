@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Ice Age</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Ice Age</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Ray Romano</il>
+			<il>John Leguizamo</il>
+			<il>Denis Leary</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Animated</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2002
+    </body>
+</html>

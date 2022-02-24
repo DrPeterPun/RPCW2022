@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Resident Evil: Afterlife</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Resident Evil: Afterlife</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Milla Jovovich</il>
+			<il>Ali Larter</il>
+			<il>Kim Coates</il>
+			<il>Shawn Roberts</il>
+			<il>Sergio Peris-Mencheta</il>
+			<il>Spencer Locke</il>
+			<il>Boris Kodjoe</il>
+			<il>Wentworth Miller</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Action</il>
+			<il>Horror</il>
+			<il>Science Fiction</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2010
+    </body>
+</html>

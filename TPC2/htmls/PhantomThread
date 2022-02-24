@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Phantom Thread</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Phantom Thread</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Daniel Day-Lewis</il>
+			<il>Lesley Manville</il>
+			<il>Richard Graham</il>
+			<il>Vicky Krieps</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Drama</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2017
+    </body>
+</html>

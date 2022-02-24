@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Shrek the Third</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Shrek the Third</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Mike Myers</il>
+			<il>Eddie Murphy</il>
+			<il>Cameron Diaz</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Animated</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2007
+    </body>
+</html>

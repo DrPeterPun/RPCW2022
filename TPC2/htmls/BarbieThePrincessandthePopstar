@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Barbie: The Princess and the Popstar</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Barbie: The Princess and the Popstar</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Kelly Sheridan</il>
+			<il>Ellie King</il>
+			<il>Jonathan Holmes</il>
+			<il>Allison Warnyca</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Fantasy</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2012
+    </body>
+</html>

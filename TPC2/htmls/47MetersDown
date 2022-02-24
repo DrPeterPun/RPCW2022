@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>47 Meters Down</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>47 Meters Down</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Mandy Moore</il>
+			<il>Claire Holt</il>
+			<il>Matthew Modine</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Horror</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2017
+    </body>
+</html>

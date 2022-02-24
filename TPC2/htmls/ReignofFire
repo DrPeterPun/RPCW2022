@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Reign of Fire</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Reign of Fire</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Christian Bale</il>
+			<il>Matthew McConaughey</il>
+			<il>Izabella Scorupco</il>
+			<il>Gerard Butler</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Adventure</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2002
+    </body>
+</html>

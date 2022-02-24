@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>The Majestic</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>The Majestic</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Jim Carrey</il>
+			<il>Martin Landau</il>
+			<il>James Whitmore</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Drama</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2001
+    </body>
+</html>

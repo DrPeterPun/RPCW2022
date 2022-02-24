@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Parkland</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Parkland</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>James Badge Dale</il>
+			<il>Zac Efron</il>
+			<il>Colin Hanks</il>
+			<il>David Harbour</il>
+			<il>Jackie Earle Haley</il>
+			<il>Marcia Gay Harden</il>
+			<il>Ron Livingston</il>
+			<il>Jeremy Strong</il>
+			<il>Billy Bob Thornton</il>
+			<il>Jacki Weaver</il>
+			<il>Tom Welling</il>
+			<il>Paul Giamatti</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Drama</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2013
+    </body>
+</html>

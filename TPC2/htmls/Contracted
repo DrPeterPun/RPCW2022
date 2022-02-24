@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Contracted</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Contracted</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Najarra Townsend</il>
+			<il>Alice Macdonald</il>
+			<il>Katie Stegeman</il>
+			<il>Caroline Williams</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Horror</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2013
+    </body>
+</html>

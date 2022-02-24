@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>My Big Fat Greek Wedding 2</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>My Big Fat Greek Wedding 2</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Nia Vardalos</il>
+			<il>John Corbett</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Romance</il>
+			<il>Comedy</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2016
+    </body>
+</html>

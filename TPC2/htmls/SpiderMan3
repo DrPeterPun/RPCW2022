@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Spider-Man 3</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Spider-Man 3</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Tobey Maguire</il>
+			<il>Kirsten Dunst</il>
+			<il>James Franco</il>
+			<il>Thomas Haden Church</il>
+			<il>Topher Grace</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Superhero</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2007
+    </body>
+</html>

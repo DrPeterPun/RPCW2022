@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Charlotte's Web</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Charlotte's Web</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Dakota Fanning</il>
+			<il>Dominic Scott Kay</il>
+			<il>Julia Roberts</il>
+			<il>Steve Buscemi</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Family</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2006
+    </body>
+</html>

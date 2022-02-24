@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Duplicity</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Duplicity</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Julia Roberts</il>
+			<il>Clive Owen</il>
+			<il>Tom Wilkinson</il>
+			<il>Paul Giamatti</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Crime</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2009
+    </body>
+</html>

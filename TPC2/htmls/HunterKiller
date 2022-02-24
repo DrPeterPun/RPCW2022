@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Hunter Killer</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Hunter Killer</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Gerard Butler</il>
+			<il>Gary Oldman</il>
+			<il>Common</il>
+			<il>Toby Stephens</il>
+			<il>Linda Cardellini</il>
+			<il>David Gyasi</il>
+			<il>Gabriel Chavarria</il>
+			<il>Zane Holtz</il>
+			<il>Michael Nyqvist</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Action</il>
+			<il>Thriller</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2018
+    </body>
+</html>

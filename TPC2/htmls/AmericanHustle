@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>American Hustle</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>American Hustle</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Christian Bale</il>
+			<il>Bradley Cooper</il>
+			<il>Amy Adams</il>
+			<il>Jeremy Renner</il>
+			<il>Jennifer Lawrence</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Crime</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2013
+    </body>
+</html>

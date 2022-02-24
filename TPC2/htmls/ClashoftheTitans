@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Clash of the Titans</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Clash of the Titans</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Sam Worthington</il>
+			<il>Gemma Arterton</il>
+			<il>Mads Mikkelsen</il>
+			<il>Alexa Davalos</il>
+			<il>Jason Flemyng</il>
+			<il>Nicholas Hoult</il>
+			<il>Danny Huston</il>
+			<il>Izabella Miko</il>
+			<il>Pete Postlethwaite</il>
+			<il>Polly Walker</il>
+			<il>Ralph Fiennes</il>
+			<il>Liam Neeson</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Action</il>
+			<il>Adventure</il>
+			<il>Fantasy</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2010
+    </body>
+</html>

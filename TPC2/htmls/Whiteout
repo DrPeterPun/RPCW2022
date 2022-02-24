@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Whiteout</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Whiteout</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Kate Beckinsale</il>
+			<il>Gabriel Macht</il>
+			<il>Alex O'Loughlin</il>
+			<il>Columbus Short</il>
+			<il>Tom Skerritt</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Thriller</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2009
+    </body>
+</html>

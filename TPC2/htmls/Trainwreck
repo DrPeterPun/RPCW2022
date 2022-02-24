@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Trainwreck</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Trainwreck</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Amy Schumer</il>
+			<il>Tilda Swinton</il>
+			<il>Bill Hader</il>
+			<il>Daniel Radcliffe</il>
+			<il>Colin Quinn</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Comedy</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2015
+    </body>
+</html>

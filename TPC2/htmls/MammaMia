@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Mamma Mia!</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Mamma Mia!</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Meryl Streep</il>
+			<il>Amanda Seyfried</il>
+			<il>Pierce Brosnan</il>
+			<il>Colin Firth</il>
+			<il>Stellan Skarsgård</il>
+			<il>Christine Baranski</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Musical</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2008
+    </body>
+</html>

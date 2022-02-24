@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Titanic 3D</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Titanic 3D</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Leonardo DiCaprio</il>
+			<il>Kate Winslet</il>
+			<il>Billy Zane</il>
+			<il>Kathy Bates</il>
+			<il>Francis Fisher</il>
+			<il>Gloria Stuart</il>
+			<il>Bill Paxton</il>
+			<il>Bernard Hill</il>
+			<il>David Warner</il>
+			<il>Victor Garber</il>
+			<il>Jonathan Hyde</il>
+			<il>Eric Braeden</il>
+			<il>Bernard Fox</il>
+			<il>Suzy Amis</il>
+			<il>Danny Nucci</il>
+			<il>Lewis Abernathy</il>
+			<il>Nicholas Cascone</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Drama</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2012
+    </body>
+</html>

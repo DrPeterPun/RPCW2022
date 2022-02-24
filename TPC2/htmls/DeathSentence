@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Death Sentence</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Death Sentence</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Kevin Bacon</il>
+			<il>Garrett Hedlund</il>
+			<il>Kelly Preston</il>
+			<il>John Goodman</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Action</il>
+			<il>Crime</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2007
+    </body>
+</html>

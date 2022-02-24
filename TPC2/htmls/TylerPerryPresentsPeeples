@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Tyler Perry Presents Peeples</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Tyler Perry Presents Peeples</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Craig Robinson</il>
+			<il>Kerry Washington</il>
+			<il>David Alan Grier</il>
+			<il>S. Epatha Merkerson</il>
+			<il>Tyler James Williams</il>
+			<il>Melvin Van Peebles</il>
+			<il>Diahann Carroll</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Comedy</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2013
+    </body>
+</html>

@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Jarhead</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Jarhead</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Jake Gyllenhaal</il>
+			<il>Jamie Foxx</il>
+			<il>Peter Sarsgaard</il>
+			<il>Lucas Black</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>War</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2005
+    </body>
+</html>

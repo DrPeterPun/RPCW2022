@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>True Grit</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>True Grit</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Jeff Bridges</il>
+			<il>Matt Damon</il>
+			<il>Josh Brolin</il>
+			<il>Barry Pepper</il>
+			<il>Hailee Steinfeld</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Western</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2010
+    </body>
+</html>

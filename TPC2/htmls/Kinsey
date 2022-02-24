@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Kinsey</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Kinsey</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Liam Neeson</il>
+			<il>Laura Linney</il>
+			<il>Peter Sarsgaard</il>
+			<il>Timothy Hutton</il>
+			<il>Chris O'Donnell</il>
+			<il>Oliver Platt</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Biography</il>
+			<il>Drama</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2004
+    </body>
+</html>

@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Life After Beth</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Life After Beth</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Aubrey Plaza</il>
+			<il>Dane DeHaan</il>
+			<il>Anna Kendrick</il>
+			<il>Molly Shannon</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Comedy</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2014
+    </body>
+</html>

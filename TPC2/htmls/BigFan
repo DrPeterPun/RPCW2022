@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Big Fan</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Big Fan</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Patton Oswalt</il>
+			<il>Kevin Corrigan</il>
+			<il>Michael Rapaport</il>
+			<il>Marcia Jean Kurtz</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Drama</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2009
+    </body>
+</html>

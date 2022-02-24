@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Balls of Fury</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Balls of Fury</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Dan Fogler</il>
+			<il>Christopher Walken</il>
+			<il>George Lopez</il>
+			<il>Maggie Q</il>
+			<il>Thomas Lennon</il>
+			<il>Robert Patrick</il>
+			<il>Terry Crews</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Comedy</il>
+			<il>Sports</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2007
+    </body>
+</html>

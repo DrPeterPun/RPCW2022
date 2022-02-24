@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>The Miseducation of Cameron Post</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>The Miseducation of Cameron Post</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Chloë Grace Moretz</il>
+			<il>Sasha Lane</il>
+			<il>John Gallagher, Jr.</il>
+			<il>Forrest Goodluck</il>
+			<il>Jennifer Ehle</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Drama</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2018
+    </body>
+</html>

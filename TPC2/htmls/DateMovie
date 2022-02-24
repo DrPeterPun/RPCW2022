@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Date Movie</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Date Movie</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Alyson Hannigan</il>
+			<il>Adam Campbell</il>
+			<il>Jennifer Coolidge</il>
+			<il>Tony Cox</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Romance</il>
+			<il>Comedy</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2006
+    </body>
+</html>

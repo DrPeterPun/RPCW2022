@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Final Destination</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Final Destination</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Devon Sawa</il>
+			<il>Ali Larter</il>
+			<il>Kerr Smith</il>
+			<il>Seann William Scott</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Horror</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2000
+    </body>
+</html>

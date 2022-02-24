@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Magic in the Moonlight</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Magic in the Moonlight</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Colin Firth</il>
+			<il>Emma Stone</il>
+			<il>Hamish Linklater</il>
+			<il>Jacki Weaver</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Romance</il>
+			<il>Comedy</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2014
+    </body>
+</html>

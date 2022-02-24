@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Blade II</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Blade II</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Wesley Snipes</il>
+			<il>Kris Kristofferson</il>
+			<il>Ron Perlman</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Action</il>
+			<il>Horror</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2002
+    </body>
+</html>

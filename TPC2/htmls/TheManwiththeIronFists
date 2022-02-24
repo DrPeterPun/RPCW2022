@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>The Man with the Iron Fists</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>The Man with the Iron Fists</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Russell Crowe</il>
+			<il>Cung Le</il>
+			<il>Lucy Liu</il>
+			<il>Byron Mann</il>
+			<il>RZA</il>
+			<il>Rick Yune</il>
+			<il>David Bautista</il>
+			<il>Jamie Chung</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Martial Arts</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2012
+    </body>
+</html>

@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>The Green Inferno</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>The Green Inferno</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Lorenza Izzo</il>
+			<il>Ariel Levy</il>
+			<il>Sky Ferreira</il>
+			<il>Daryl Sabara</il>
+			<il>Kirby Bliss Blanton</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Horror</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2013
+    </body>
+</html>

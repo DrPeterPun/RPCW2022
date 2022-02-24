@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>The Fog</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>The Fog</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Tom Welling</il>
+			<il>Maggie Grace</il>
+			<il>Selma Blair</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Horror</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2005
+    </body>
+</html>

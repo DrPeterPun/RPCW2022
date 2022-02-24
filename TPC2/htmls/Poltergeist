@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Poltergeist</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Poltergeist</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Sam Rockwell</il>
+			<il>Jared Harris</il>
+			<il>Rosemarie DeWitt</il>
+			<il>Saxon Sharbino</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Horror</il>
+			<il>Thriller</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2015
+    </body>
+</html>

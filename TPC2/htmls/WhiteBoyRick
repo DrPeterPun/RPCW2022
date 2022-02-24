@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>White Boy Rick</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>White Boy Rick</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Matthew McConaughey</il>
+			<il>Richie Merritt</il>
+			<il>Bel Powley</il>
+			<il>Jennifer Jason Leigh</il>
+			<il>Brian Tyree Henry</il>
+			<il>Rory Cochrane</il>
+			<il>RJ Cyler</il>
+			<il>Jonathan Majors</il>
+			<il>Eddie Marsan</il>
+			<il>Bruce Dern</il>
+			<il>Piper Laurie</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Crime</il>
+			<il>Drama</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2018
+    </body>
+</html>

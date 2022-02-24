@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Stealth</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Stealth</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Josh Lucas</il>
+			<il>Jessica Biel</il>
+			<il>Jamie Foxx</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Science Fiction</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2005
+    </body>
+</html>

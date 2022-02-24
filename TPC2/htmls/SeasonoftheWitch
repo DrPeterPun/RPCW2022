@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Season of the Witch</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Season of the Witch</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Nicolas Cage</il>
+			<il>Ron Perlman</il>
+			<il>Stephen Campbell Moore</il>
+			<il>Claire Foy</il>
+			<il>Stephen Graham</il>
+			<il>Ulrich Thomsen</il>
+			<il>Robert Sheehan</il>
+			<il>Christopher Lee</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Action</il>
+			<il>Fantasy</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2011
+    </body>
+</html>

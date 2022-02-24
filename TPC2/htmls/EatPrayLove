@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Eat Pray Love</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Eat Pray Love</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Julia Roberts</il>
+			<il>James Franco</il>
+			<il>Richard Jenkins</il>
+			<il>Viola Davis</il>
+			<il>Billy Crudup</il>
+			<il>Javier Bardem</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Comedy</il>
+			<il>Drama</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2010
+    </body>
+</html>

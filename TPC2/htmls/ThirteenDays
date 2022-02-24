@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Thirteen Days</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Thirteen Days</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Kevin Costner</il>
+			<il>Bruce Greenwood</il>
+			<il>Dylan Baker</il>
+			<il>Steven Culp</il>
+			<il>Len Cariou</il>
+			<il>Kevin Conway</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Drama</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2000
+    </body>
+</html>

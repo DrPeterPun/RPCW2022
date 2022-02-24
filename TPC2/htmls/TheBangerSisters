@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>The Banger Sisters</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>The Banger Sisters</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Goldie Hawn</il>
+			<il>Susan Sarandon</il>
+			<il>Geoffrey Rush</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Comedy</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2002
+    </body>
+</html>

@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Anything Else</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Anything Else</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Jason Biggs</il>
+			<il>Christina Ricci</il>
+			<il>Stockard Channing</il>
+			<il>Danny DeVito</il>
+			<il>Jimmy Fallon</il>
+			<il>Woody Allen</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Romance</il>
+			<il>Comedy</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2003
+    </body>
+</html>

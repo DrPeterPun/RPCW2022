@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Cyrus</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Cyrus</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>John C. Reilly</il>
+			<il>Jonah Hill</il>
+			<il>Marisa Tomei</il>
+			<il>Catherine Keener</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Comedy</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2010
+    </body>
+</html>

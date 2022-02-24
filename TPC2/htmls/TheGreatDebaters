@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>The Great Debaters</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>The Great Debaters</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Denzel Washington</il>
+			<il>Forest Whitaker</il>
+			<il>Nate Parker</il>
+			<il>Jurnee Smollet</il>
+			<il>Denzel Whitaker</il>
+			<il>John Heard</il>
+			<il>Kimberly Elise</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Drama</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2007
+    </body>
+</html>

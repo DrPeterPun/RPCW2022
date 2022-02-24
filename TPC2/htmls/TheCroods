@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>The Croods</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>The Croods</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Nicolas Cage</il>
+			<il>Ryan Reynolds</il>
+			<il>Emma Stone</il>
+			<il>Catherine Keener</il>
+			<il>Clark Duke</il>
+			<il>Cloris Leachman</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Adventure</il>
+			<il>Animated</il>
+			<il>Comedy</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2013
+    </body>
+</html>

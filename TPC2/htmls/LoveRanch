@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Love Ranch</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Love Ranch</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Helen Mirren</il>
+			<il>Joe Pesci</il>
+			<il>Sergio Peris-Mencheta</il>
+			<il>Gina Gershon</il>
+			<il>Bryan Cranston</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Drama</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2010
+    </body>
+</html>

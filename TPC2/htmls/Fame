@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Fame</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Fame</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Debbie Allen</il>
+			<il>Charles S. Dutton</il>
+			<il>Kelsey Grammer</il>
+			<il>Megan Mullally</il>
+			<il>Bebe Neuwirth</il>
+			<il>Asher Book</il>
+			<il>Kristy Flores</il>
+			<il>Paul Iacono</il>
+			<il>Paul McGill</il>
+			<il>Naturi Naughton</il>
+			<il>Kay Panabaker</il>
+			<il>Kherington Payne</il>
+			<il>Collins Pennie</il>
+			<il>Walter Perez</il>
+			<il>Anna Maria Perez de Taglé</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Drama</il>
+			<il>Musical</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2009
+    </body>
+</html>

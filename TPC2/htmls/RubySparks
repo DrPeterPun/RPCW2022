@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Ruby Sparks</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Ruby Sparks</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Paul Dano</il>
+			<il>Zoe Kazan</il>
+			<il>Antonio Banderas</il>
+			<il>Annette Bening</il>
+			<il>Steve Coogan</il>
+			<il>Elliott Gould</il>
+			<il>Chris Messina</il>
+			<il>Alia Shawkat</il>
+			<il>Deborah Ann Woll</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Romance</il>
+			<il>Comedy</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2012
+    </body>
+</html>

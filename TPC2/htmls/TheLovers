@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>The Lovers</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>The Lovers</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Debra Winger</il>
+			<il>Tracy Letts</il>
+			<il>Aidan Gillen</il>
+			<il>Melora Walters</il>
+			<il>Tyler Ross</il>
+			<il>Jessica Sula</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Comedy</il>
+			<il>Romance</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2017
+    </body>
+</html>

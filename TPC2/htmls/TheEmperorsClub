@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>The Emperor's Club</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>The Emperor's Club</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Kevin Kline</il>
+			<il>Emile Hirsch</il>
+			<il>Embeth Davidtz</il>
+			<il>Rob Morrow</il>
+			<il>Harris Yulin</il>
+			<il>Jesse Eisenberg</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Drama</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2002
+    </body>
+</html>

@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Resident Evil: Retribution</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Resident Evil: Retribution</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Milla Jovovich</il>
+			<il>Michelle Rodriguez</il>
+			<il>Kevin Durand</il>
+			<il>Sienna Guillory</il>
+			<il>Shawn Roberts</il>
+			<il>Aryana Engineer</il>
+			<il>Colin Salmon</il>
+			<il>Johann Urb</il>
+			<il>Boris Kodjoe</il>
+			<il>Li Bingbing</il>
+			<il>Oded Fehr</il>
+			<il>Mika Nakashima</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Thriller</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2012
+    </body>
+</html>

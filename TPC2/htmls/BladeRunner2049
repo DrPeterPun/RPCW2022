@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Blade Runner 2049</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Blade Runner 2049</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Harrison Ford</il>
+			<il>Ryan Gosling</il>
+			<il>Ana de Armas</il>
+			<il>Mackenzie Davis</il>
+			<il>Sylvia Hoeks</il>
+			<il>Lennie James</il>
+			<il>Carla Juri</il>
+			<il>Robin Wright</il>
+			<il>Dave Bautista</il>
+			<il>Jared Leto</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Noir</il>
+			<il>Science Fiction</il>
+			<il>Thriller</il>
+			<il>Mystery</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2017
+    </body>
+</html>

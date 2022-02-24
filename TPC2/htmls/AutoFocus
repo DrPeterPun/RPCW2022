@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Auto Focus</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Auto Focus</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Greg Kinnear</il>
+			<il>Willem Dafoe</il>
+			<il>Maria Bello</il>
+			<il>Rita Wilson</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Biography</il>
+			<il>Drama</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2002
+    </body>
+</html>

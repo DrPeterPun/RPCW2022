@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Diary of a Wimpy Kid</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Diary of a Wimpy Kid</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Zachary Gordon</il>
+			<il>Robert Capron</il>
+			<il>Rachel Harris</il>
+			<il>Steve Zahn</il>
+			<il>Devon Bostick</il>
+			<il>Chloë Grace Moretz</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Comedy</il>
+			<il>Family</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2010
+    </body>
+</html>

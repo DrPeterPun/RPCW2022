@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Barbie in A Mermaid Tale 2</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Barbie in A Mermaid Tale 2</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Kelly Sheridan</il>
+			<il>Nicole Oliver</il>
+			<il>Kathleen Barr</il>
+			<il>Tabitha St. Germain</il>
+			<il>Nakia Burrise</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Adventure</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2012
+    </body>
+</html>

@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>The Contract</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>The Contract</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Morgan Freeman</il>
+			<il>John Cusack</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Drama</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2006
+    </body>
+</html>

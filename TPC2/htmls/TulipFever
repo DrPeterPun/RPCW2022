@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Tulip Fever</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Tulip Fever</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Alicia Vikander</il>
+			<il>Dane DeHaan</il>
+			<il>Christoph Waltz</il>
+			<il>Holliday Grainger</il>
+			<il>Jack O'Connell</il>
+			<il>Zach Galifianakis</il>
+			<il>Judi Dench</il>
+			<il>Matthew Morrison</il>
+			<il>Tom Hollander</il>
+			<il>Cara Delevingne</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Romance</il>
+			<il>Drama</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2017
+    </body>
+</html>

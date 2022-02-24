@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Far from Heaven</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Far from Heaven</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Julianne Moore</il>
+			<il>Dennis Quaid</il>
+			<il>Dennis Haysbert</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Drama</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2002
+    </body>
+</html>

@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Stealing Harvard</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Stealing Harvard</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Jason Lee</il>
+			<il>Tom Green</il>
+			<il>Leslie Mann</il>
+			<il>Megan Mullally</il>
+			<il>Tammy Blanchard</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Comedy</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2002
+    </body>
+</html>

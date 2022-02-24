@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Thank You for Smoking</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Thank You for Smoking</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Aaron Eckhart</il>
+			<il>Cameron Bright</il>
+			<il>Maria Bello</il>
+			<il>David Koechner</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Comedy</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2006
+    </body>
+</html>

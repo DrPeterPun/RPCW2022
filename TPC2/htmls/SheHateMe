@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>She Hate Me</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>She Hate Me</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Anthony Mackie</il>
+			<il>Kerry Washington</il>
+			<il>Ellen Barkin</il>
+			<il>Monica Bellucci</il>
+			<il>Jim Brown</il>
+			<il>Brian Dennehy</il>
+			<il>Woody Harrelson</il>
+			<il>Bai Ling</il>
+			<il>Q-Tip</il>
+			<il>Dania Ramirez</il>
+			<il>John Turturro</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Comedy</il>
+			<il>Drama</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2004
+    </body>
+</html>

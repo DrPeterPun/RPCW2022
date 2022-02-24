@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Deadpool 2</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Deadpool 2</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Ryan Reynolds</il>
+			<il>Josh Brolin</il>
+			<il>Zazie Beetz</il>
+			<il>Julian Dennison</il>
+			<il>Morena Baccarin</il>
+			<il>T. J. Miller</il>
+			<il>Brianna Hildebrand</il>
+			<il>Stefan Kapičić</il>
+			<il>Jack Kesy</il>
+			<il>Leslie Uggams</il>
+			<il>Karan Soni</il>
+			<il>Shioli Kutsuna</il>
+			<il>Eddie Marsan</il>
+			<il>Terry Crews</il>
+			<il>Bill Skarsgård</il>
+			<il>Lewis Tan</il>
+			<il>Rob Delaney</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Superhero</il>
+			<il>Action</il>
+			<il>Comedy</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2018
+    </body>
+</html>

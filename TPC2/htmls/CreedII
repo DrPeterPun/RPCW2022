@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Creed II</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Creed II</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Michael B. Jordan</il>
+			<il>Sylvester Stallone</il>
+			<il>Tessa Thompson</il>
+			<il>Dolph Lundgren</il>
+			<il>Florian Munteanu</il>
+			<il>Phylicia Rashad</il>
+			<il>Andre Ward</il>
+			<il>Wood Harris</il>
+			<il>Brigitte Nielsen</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Sports</il>
+			<il>Drama</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2018
+    </body>
+</html>

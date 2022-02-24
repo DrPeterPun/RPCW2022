@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Mid90s</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Mid90s</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Sunny Suljic</il>
+			<il>Lucas Hedges</il>
+			<il>Katherine Waterston</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Drama</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2018
+    </body>
+</html>

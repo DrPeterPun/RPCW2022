@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>The Dictator</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>The Dictator</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Sacha Baron Cohen</il>
+			<il>Anna Faris</il>
+			<il>Ben Kingsley</il>
+			<il>Jason Mantzoukas</il>
+			<il>John C. Reilly</il>
+			<il>Megan Fox</il>
+			<il>B. J. Novak</il>
+			<il>Bobby Lee</il>
+			<il>Kevin Corrigan</il>
+			<il>J. B. Smoove</il>
+			<il>Adeel Akhtar</il>
+			<il>Fred Melamed</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Comedy</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2012
+    </body>
+</html>

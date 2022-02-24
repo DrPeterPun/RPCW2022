@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Snatched</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Snatched</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Amy Schumer</il>
+			<il>Goldie Hawn</il>
+			<il>Christopher Meloni</il>
+			<il>Ike Barinholtz</il>
+			<il>Óscar Jaenada</il>
+			<il>Wanda Sykes</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Comedy</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2017
+    </body>
+</html>

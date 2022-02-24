@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Hart's War</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Hart's War</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Bruce Willis</il>
+			<il>Colin Farrell</il>
+			<il>Terrence Howard</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>War</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2002
+    </body>
+</html>

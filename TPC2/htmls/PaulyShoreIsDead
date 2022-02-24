@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Pauly Shore Is Dead</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Pauly Shore Is Dead</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Pauly Shore</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Satire</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2003
+    </body>
+</html>

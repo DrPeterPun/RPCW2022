@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Kid Cannabis</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Kid Cannabis</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Jonathan Daniel Brown</il>
+			<il>Kenny Wormald</il>
+			<il>Amanda Tapping</il>
+			<il>Aaron Yoo</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Comedy</il>
+			<il>Drama</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2014
+    </body>
+</html>

@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Epic Movie</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Epic Movie</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Kal Penn</il>
+			<il>Adam Campbell</il>
+			<il>Jennifer Coolidge</il>
+			<il>Fred Willard</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Satire</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2007
+    </body>
+</html>

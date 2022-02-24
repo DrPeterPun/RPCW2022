@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Peppermint</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Peppermint</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Jennifer Garner</il>
+			<il>John Ortiz</il>
+			<il>Juan Pablo Raba</il>
+			<il>John Gallagher Jr.</il>
+			<il>Annie Ilonzeh</il>
+			<il>Richard Cabral</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Action</il>
+			<il>Thriller</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2018
+    </body>
+</html>

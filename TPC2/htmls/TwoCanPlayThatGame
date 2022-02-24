@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Two Can Play That Game</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Two Can Play That Game</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Vivica A. Fox</il>
+			<il>Morris Chestnut</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Comedy</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2001
+    </body>
+</html>

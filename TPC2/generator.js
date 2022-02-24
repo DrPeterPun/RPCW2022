@@ -7,6 +7,7 @@ if(!fs.existsSync(directory)){
     fs.mkdirSync(directory)
 }
 
+
 fs.readFile('cinemaATP.json', function (err, data) {
     var movies = JSON.parse(data)
     movies.forEach(movie => {
@@ -17,7 +18,7 @@ fs.readFile('cinemaATP.json', function (err, data) {
         var actors = movie["cast"]
         var actorString = ""
         actors.forEach( act =>{
-            actorString+="\t\t\t<il>" +act + "</il>\n\t\t\t"
+            actorString+="\t\t\t<il>" +act + "</il>\n"
         })
 
         var genres = movie["genres"]

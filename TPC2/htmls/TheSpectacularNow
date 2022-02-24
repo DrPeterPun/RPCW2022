@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>The Spectacular Now</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>The Spectacular Now</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Miles Teller</il>
+			<il>Shailene Woodley</il>
+			<il>Brie Larson</il>
+			<il>Jennifer Jason Leigh</il>
+			<il>Kyle Chandler</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Drama</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2013
+    </body>
+</html>

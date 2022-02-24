@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Joy</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Joy</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Jennifer Lawrence</il>
+			<il>Robert De Niro</il>
+			<il>Édgar Ramírez</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Biography</il>
+			<il>Comedy</il>
+			<il>Drama</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2015
+    </body>
+</html>

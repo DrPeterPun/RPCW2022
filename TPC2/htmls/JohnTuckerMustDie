@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>John Tucker Must Die</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>John Tucker Must Die</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Jesse Metcalfe</il>
+			<il>Brittany Snow</il>
+			<il>Ashanti</il>
+			<il>Sophia Bush</il>
+			<il>Arielle Kebbel</il>
+			<il>Jenny McCarthy</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Comedy</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2006
+    </body>
+</html>

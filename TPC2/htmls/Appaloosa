@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Appaloosa</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Appaloosa</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Ed Harris</il>
+			<il>Viggo Mortensen</il>
+			<il>Renée Zellweger</il>
+			<il>Jeremy Irons</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Western</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2008
+    </body>
+</html>

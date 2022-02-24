@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>The Joneses</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>The Joneses</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>David Duchovny</il>
+			<il>Demi Moore</il>
+			<il>Amber Heard</il>
+			<il>Ben Hollingsworth</il>
+			<il>Gary Cole</il>
+			<il>Glenne Headly</il>
+			<il>Lauren Hutton</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Drama</il>
+			<il>Comedy</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2010
+    </body>
+</html>

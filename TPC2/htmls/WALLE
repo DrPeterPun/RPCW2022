@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>WALL-E</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>WALL-E</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Ben Burtt</il>
+			<il>Elissa Knight</il>
+			<il>Jeff Garlin</il>
+			<il>Fred Willard</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Animated</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2008
+    </body>
+</html>

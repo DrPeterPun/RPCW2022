@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>The Bag Man</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>The Bag Man</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>John Cusack</il>
+			<il>Rebecca Da Costa</il>
+			<il>Robert De Niro</il>
+			<il>Crispin Glover</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Action</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2014
+    </body>
+</html>

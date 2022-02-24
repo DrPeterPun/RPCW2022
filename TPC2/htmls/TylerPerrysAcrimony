@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Tyler Perry's Acrimony</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Tyler Perry's Acrimony</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Taraji P. Henson</il>
+			<il>Lyriq Bent</il>
+			<il>Tika Sumpter</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Drama</il>
+			<il>Thriller</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2018
+    </body>
+</html>

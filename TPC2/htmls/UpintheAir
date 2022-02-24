@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Up in the Air</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Up in the Air</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>George Clooney</il>
+			<il>Vera Farmiga</il>
+			<il>Anna Kendrick</il>
+			<il>Danny McBride</il>
+			<il>Jason Bateman</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Comedy</il>
+			<il>Drama</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2009
+    </body>
+</html>

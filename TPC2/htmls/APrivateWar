@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>A Private War</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>A Private War</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Rosamund Pike</il>
+			<il>Jamie Dornan</il>
+			<il>Stanley Tucci</il>
+			<il>Tom Hollander</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Biography</il>
+			<il>Drama</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2018
+    </body>
+</html>

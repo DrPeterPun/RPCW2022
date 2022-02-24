@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>The Business of Strangers</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>The Business of Strangers</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Julia Stiles</il>
+			<il>Stockard Channing</il>
+			<il>Marcus Giamatti</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Thriller</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2001
+    </body>
+</html>

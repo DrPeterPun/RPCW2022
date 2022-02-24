@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Lizzie</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Lizzie</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Chloë Sevigny</il>
+			<il>Kristen Stewart</il>
+			<il>Jay Huguley</il>
+			<il>Fiona Shaw</il>
+			<il>Jamey Sheridan</il>
+			<il>Kim Dickens</il>
+			<il>Denis O'Hare</il>
+			<il>Jeff Perry</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Biography</il>
+			<il>Thriller</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2018
+    </body>
+</html>

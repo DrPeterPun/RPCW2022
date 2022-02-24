@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Popstar</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Popstar</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Aaron Carter</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Comedy</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2005
+    </body>
+</html>

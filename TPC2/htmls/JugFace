@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Jug Face</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Jug Face</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Lauren Ashley Carter</il>
+			<il>Sean Bridgers</il>
+			<il>Sean Young</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Horror</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2013
+    </body>
+</html>

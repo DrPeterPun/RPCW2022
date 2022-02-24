@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Stuck on You</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Stuck on You</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Matt Damon</il>
+			<il>Greg Kinnear</il>
+			<il>Eva Mendes</il>
+			<il>Cher</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Comedy</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2003
+    </body>
+</html>

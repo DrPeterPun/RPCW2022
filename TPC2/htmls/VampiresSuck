@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Vampires Suck</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Vampires Suck</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Matt Lanter</il>
+			<il>Chris Riggi</il>
+			<il>Jenn Proske</il>
+			<il>Anneliese van der Pol</il>
+			<il>Ken Jeong</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Satire</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2010
+    </body>
+</html>

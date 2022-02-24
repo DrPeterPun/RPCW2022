@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Non-Stop</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Non-Stop</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Liam Neeson</il>
+			<il>Julianne Moore</il>
+			<il>Scoot McNairy</il>
+			<il>Michelle Dockery</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Action</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2014
+    </body>
+</html>

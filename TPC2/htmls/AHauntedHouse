@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>A Haunted House</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>A Haunted House</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Marlon Wayans</il>
+			<il>Essence Atkins</il>
+			<il>Cedric the Entertainer</il>
+			<il>Nick Swardson</il>
+			<il>David Koechner</il>
+			<il>Dave Sheridan</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Horror</il>
+			<il>Comedy</il>
+			<il>Satire</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2013
+    </body>
+</html>

@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Arthur</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Arthur</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Russell Brand</il>
+			<il>Helen Mirren</il>
+			<il>Greta Gerwig</il>
+			<il>Jennifer Garner</il>
+			<il>Nick Nolte</il>
+			<il>Luis Guzmán</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Comedy</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2011
+    </body>
+</html>

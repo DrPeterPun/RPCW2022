@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Spider-Man 2</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Spider-Man 2</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Tobey Maguire</il>
+			<il>Kirsten Dunst</il>
+			<il>James Franco</il>
+			<il>Alfred Molina</il>
+			<il>Rosemary Harris</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Superhero</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2004
+    </body>
+</html>

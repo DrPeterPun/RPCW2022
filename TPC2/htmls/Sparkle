@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Sparkle</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Sparkle</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Jordin Sparks</il>
+			<il>Whitney Houston</il>
+			<il>Derek Luke</il>
+			<il>Mike Epps</il>
+			<il>Carmen Ejogo</il>
+			<il>Tika Sumpter</il>
+			<il>Omari Hardwick</il>
+			<il>Cee Lo Green</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Drama</il>
+			<il>Musical</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2012
+    </body>
+</html>

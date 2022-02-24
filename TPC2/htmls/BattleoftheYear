@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Battle of the Year</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Battle of the Year</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Josh Holloway</il>
+			<il>Laz Alonso</il>
+			<il>Josh Peck</il>
+			<il>Caity Lotz</il>
+			<il>Chris Brown</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Dance</il>
+			<il>Drama</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2013
+    </body>
+</html>

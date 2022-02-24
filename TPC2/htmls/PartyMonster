@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Party Monster</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Party Monster</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Seth Green</il>
+			<il>Macaulay Culkin</il>
+			<il>Diana Scarwid</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Biography</il>
+			<il>Crime</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2003
+    </body>
+</html>

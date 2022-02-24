@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Jinn</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Jinn</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Dominic Rains</il>
+			<il>Serinda Swan</il>
+			<il>Ray Park</il>
+			<il>William Atherton</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Thriller</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2014
+    </body>
+</html>

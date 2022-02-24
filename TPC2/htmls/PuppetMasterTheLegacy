@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Puppet Master: The Legacy</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Puppet Master: The Legacy</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Jacob Witkin</il>
+			<il>Kate Orsini</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Horror</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2003
+    </body>
+</html>

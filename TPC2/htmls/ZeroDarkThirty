@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Zero Dark Thirty</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Zero Dark Thirty</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Jessica Chastain</il>
+			<il>Jason Clarke</il>
+			<il>Joel Edgerton</il>
+			<il>Mark Strong</il>
+			<il>Chris Pratt</il>
+			<il>Kyle Chandler</il>
+			<il>Taylor Kinney</il>
+			<il>Mark Duplass</il>
+			<il>Frank Grillo</il>
+			<il>Stephen Dillane</il>
+			<il>Édgar Ramírez</il>
+			<il>Harold Perrineau</il>
+			<il>Reda Kateb</il>
+			<il>Jennifer Ehle</il>
+			<il>James Gandolfini</il>
+			<il>Scott Adkins</il>
+			<il>Mark Valley</il>
+			<il>Ricky Sekhon</il>
+			<il>John Barrowman</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Action</il>
+			<il>Thriller</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2012
+    </body>
+</html>

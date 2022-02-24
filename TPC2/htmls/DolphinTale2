@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Dolphin Tale 2</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Dolphin Tale 2</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Harry Connick, Jr.</il>
+			<il>Ashley Judd</il>
+			<il>Nathan Gamble</il>
+			<il>Kris Kristofferson</il>
+			<il>Morgan Freeman</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Drama</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2014
+    </body>
+</html>

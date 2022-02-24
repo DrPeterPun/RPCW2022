@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Life of the Party</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Life of the Party</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Melissa McCarthy</il>
+			<il>Maya Rudolph</il>
+			<il>Molly Gordon</il>
+			<il>Julie Bowen</il>
+			<il>Gillian Jacobs</il>
+			<il>Debby Ryan</il>
+			<il>Matt Walsh</il>
+			<il>Jacki Weaver</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Comedy</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2018
+    </body>
+</html>

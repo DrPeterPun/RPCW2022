@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Art School Confidential</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Art School Confidential</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Max Minghella</il>
+			<il>Sophia Myles</il>
+			<il>John Malkovich</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Comedy</il>
+			<il>Drama</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2006
+    </body>
+</html>

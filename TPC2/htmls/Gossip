@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Gossip</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Gossip</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>James Marsden</il>
+			<il>Lena Headey</il>
+			<il>Norman Reedus</il>
+			<il>Kate Hudson</il>
+			<il>Marisa Coughlan</il>
+			<il>Joshua Jackson</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Drama</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2000
+    </body>
+</html>

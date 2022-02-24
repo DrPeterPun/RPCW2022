@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>The Loft</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>The Loft</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Karl Urban</il>
+			<il>Wentworth Miller</il>
+			<il>James Marsden</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Mystery</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2015
+    </body>
+</html>

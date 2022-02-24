@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>America's Sweethearts</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>America's Sweethearts</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Julia Roberts</il>
+			<il>Catherine Zeta-Jones</il>
+			<il>John Cusack</il>
+			<il>Billy Crystal</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Comedy</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2001
+    </body>
+</html>

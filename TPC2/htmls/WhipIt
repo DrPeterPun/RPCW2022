@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Whip It</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Whip It</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Ellen Page</il>
+			<il>Marcia Gay Harden</il>
+			<il>Kristen Wiig</il>
+			<il>Drew Barrymore</il>
+			<il>Juliette Lewis</il>
+			<il>Jimmy Fallon</il>
+			<il>Daniel Stern</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Comedy</il>
+			<il>Drama</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2009
+    </body>
+</html>

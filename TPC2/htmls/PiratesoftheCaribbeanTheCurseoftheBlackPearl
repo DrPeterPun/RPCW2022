@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Pirates of the Caribbean: The Curse of the Black Pearl</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Pirates of the Caribbean: The Curse of the Black Pearl</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Orlando Bloom</il>
+			<il>Johnny Depp</il>
+			<il>Keira Knightley</il>
+			<il>Geoffrey Rush</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Fantasy</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2003
+    </body>
+</html>

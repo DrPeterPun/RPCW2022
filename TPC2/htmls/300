@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>300</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>300</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Gerard Butler</il>
+			<il>Lena Headey</il>
+			<il>David Wenham</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Action</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2007
+    </body>
+</html>

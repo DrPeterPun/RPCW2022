@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Grizzly Man</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Grizzly Man</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>the life and death of</il>
+			<il>Timothy Treadwell</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Documentary</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2005
+    </body>
+</html>

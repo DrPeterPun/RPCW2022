@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>The Greatest</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>The Greatest</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Pierce Brosnan</il>
+			<il>Susan Sarandon</il>
+			<il>Carey Mulligan</il>
+			<il>Johnny Simmons</il>
+			<il>Aaron Johnson</il>
+			<il>Zoë Kravitz</il>
+			<il>Michael Shannon</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Drama</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2010
+    </body>
+</html>

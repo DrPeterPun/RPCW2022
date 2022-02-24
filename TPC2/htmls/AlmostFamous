@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Almost Famous</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Almost Famous</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Billy Crudup</il>
+			<il>Frances McDormand</il>
+			<il>Kate Hudson</il>
+			<il>Jason Lee</il>
+			<il>Patrick Fugit</il>
+			<il>Anna Paquin</il>
+			<il>Fairuza Balk</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Comedy</il>
+			<il>Drama</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2000
+    </body>
+</html>

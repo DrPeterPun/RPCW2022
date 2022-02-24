@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Happy Death Day</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Happy Death Day</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Jessica Rothe</il>
+			<il>Israel Broussard</il>
+			<il>Ruby Modine</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Horror</il>
+			<il>Mystery</il>
+			<il>Thriller</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2017
+    </body>
+</html>

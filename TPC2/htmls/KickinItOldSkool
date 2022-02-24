@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Kickin' It Old Skool</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Kickin' It Old Skool</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Jamie Kennedy</il>
+			<il>Miguel A. Núñez, Jr.</il>
+			<il>Maria Menounos</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Comedy</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2007
+    </body>
+</html>

@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Nostalgia</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Nostalgia</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Jon Hamm</il>
+			<il>Nick Offerman</il>
+			<il>Amber Tamblyn</il>
+			<il>Patton Oswalt</il>
+			<il>Catherine Keener</il>
+			<il>Ellen Burstyn</il>
+			<il>Bruce Dern</il>
+			<il>John Ortiz</il>
+			<il>James LeGros</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Drama</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2018
+    </body>
+</html>

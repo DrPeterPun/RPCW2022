@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>The Tigger Movie</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>The Tigger Movie</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Jim Cummings</il>
+			<il>Nikita Hopkins</il>
+			<il>John Fiedler</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Animated</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2000
+    </body>
+</html>

@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Garden Party</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Garden Party</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Vinessa Shaw</il>
+			<il>Willa Holland</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Drama</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2008
+    </body>
+</html>

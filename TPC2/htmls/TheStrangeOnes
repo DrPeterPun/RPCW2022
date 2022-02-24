@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>The Strange Ones</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>The Strange Ones</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Alex Pettyfer</il>
+			<il>James Freedson-Jackson</il>
+			<il>Emily Althaus</il>
+			<il>Gene Jones</il>
+			<il>Owen Campbell</il>
+			<il>Tobias Campbell</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Drama</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2018
+    </body>
+</html>

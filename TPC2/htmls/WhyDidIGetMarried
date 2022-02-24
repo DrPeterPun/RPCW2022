@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Why Did I Get Married?</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Why Did I Get Married?</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Denise Boutte</il>
+			<il>Richard T. Jones</il>
+			<il>Sharon Leal</il>
+			<il>Lamman Rucker</il>
+			<il>Jill Scott</il>
+			<il>Tasha Smith</il>
+			<il>Michael Jai White</il>
+			<il>Malik Yoba</il>
+			<il>Janet Jackson</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Drama</il>
+			<il>Comedy</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2007
+    </body>
+</html>

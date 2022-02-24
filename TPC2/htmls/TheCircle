@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>The Circle</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>The Circle</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Tom Hanks</il>
+			<il>Emma Watson</il>
+			<il>John Boyega</il>
+			<il>Karen Gillan</il>
+			<il>Patton Oswalt</il>
+			<il>Bill Paxton</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Science Fiction</il>
+			<il>Drama</il>
+			<il>Thriller</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2017
+    </body>
+</html>

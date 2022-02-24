@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>13 Sins</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>13 Sins</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Devon Graye</il>
+			<il>Mark Webber</il>
+			<il>Ron Perlman</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Horror</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2014
+    </body>
+</html>

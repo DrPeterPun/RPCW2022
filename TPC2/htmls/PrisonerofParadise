@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Prisoner of Paradise</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Prisoner of Paradise</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>the life of</il>
+			<il>Kurt Gerron</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Documentary</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2002
+    </body>
+</html>

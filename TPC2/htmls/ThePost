@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>The Post</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>The Post</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Tom Hanks</il>
+			<il>Meryl Streep</il>
+			<il>Bruce Greenwood</il>
+			<il>Jesse Plemons</il>
+			<il>Bob Odenkirk</il>
+			<il>Sarah Paulson</il>
+			<il>Alison Brie</il>
+			<il>David Cross</il>
+			<il>Carrie Coon</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Biography</il>
+			<il>Drama</il>
+			<il>Historical</il>
+			<il>Thriller</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2017
+    </body>
+</html>

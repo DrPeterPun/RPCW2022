@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Lola Versus</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Lola Versus</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Greta Gerwig</il>
+			<il>Joel Kinnaman</il>
+			<il>Zoe Lister-Jones</il>
+			<il>Bill Pullman</il>
+			<il>Debra Winger</il>
+			<il>Hamish Linklater</il>
+			<il>Cheyenne Jackson</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Romance</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2012
+    </body>
+</html>

@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>A Nightmare on Elm Street</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>A Nightmare on Elm Street</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Jackie Earle Haley</il>
+			<il>Rooney Mara</il>
+			<il>Thomas Dekker</il>
+			<il>Kellan Lutz</il>
+			<il>Katie Cassidy</il>
+			<il>Connie Britton</il>
+			<il>Clancy Brown</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Horror</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2010
+    </body>
+</html>

@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Smile</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Smile</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Sean Astin</il>
+			<il>Mika Boorem</il>
+			<il>Yi Ding</il>
+			<il>Beau Bridges</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Adventure</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2005
+    </body>
+</html>

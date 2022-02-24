@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Home Run</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Home Run</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Scott Elrod</il>
+			<il>Dorian Brown</il>
+			<il>Charles Henry Wyson</il>
+			<il>Vivica A. Fox</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Drama</il>
+			<il>Sports</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2013
+    </body>
+</html>

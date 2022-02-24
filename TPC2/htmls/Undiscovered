@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Undiscovered</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Undiscovered</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Pell James</il>
+			<il>Steven Strait</il>
+			<il>Ashlee Simpson</il>
+			<il>Kip Pardue</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Musical</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2005
+    </body>
+</html>

@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Ex Machina</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Ex Machina</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Domhnall Gleeson</il>
+			<il>Alicia Vikander</il>
+			<il>Oscar Isaac</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Science Fiction</il>
+			<il>Thriller</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2015
+    </body>
+</html>

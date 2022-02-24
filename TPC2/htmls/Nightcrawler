@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Nightcrawler</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Nightcrawler</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Jake Gyllenhaal</il>
+			<il>Rene Russo</il>
+			<il>Riz Ahmed</il>
+			<il>Bill Paxton</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Thriller</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2014
+    </body>
+</html>

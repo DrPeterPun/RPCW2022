@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Hotel Transylvania 3: Summer Vacation</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Hotel Transylvania 3: Summer Vacation</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Adam Sandler</il>
+			<il>Andy Samberg</il>
+			<il>Selena Gomez</il>
+			<il>David Spade</il>
+			<il>Steve Buscemi</il>
+			<il>Molly Shannon</il>
+			<il>Keegan-Michael Key</il>
+			<il>Kevin James</il>
+			<il>Fran Drescher</il>
+			<il>Asher Blinkoff</il>
+			<il>Sadie Sandler</il>
+			<il>Joe Whyte</il>
+			<il>Kathryn Hahn</il>
+			<il>Jim Gaffigan</il>
+			<il>Mel Brooks</il>
+			<il>Joe Jonas</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Comedy</il>
+			<il>Animated</il>
+			<il>Fantasy</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2018
+    </body>
+</html>

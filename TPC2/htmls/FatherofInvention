@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Father of Invention</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Father of Invention</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Kevin Spacey</il>
+			<il>Camilla Belle</il>
+			<il>Heather Graham</il>
+			<il>Johnny Knoxville</il>
+			<il>with</il>
+			<il>Craig Robinson</il>
+			<il>and</il>
+			<il>Virginia Madsen</il>
+			<il>Michael Rosenbaum</il>
+			<il>John Stamos</il>
+			<il>Rhoda Griffis</il>
+			<il>Jack McGee</il>
+			<il>Danny Comden</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Comedy</il>
+			<il>Drama</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2011
+    </body>
+</html>

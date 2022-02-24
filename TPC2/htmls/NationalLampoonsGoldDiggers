@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>National Lampoon's Gold Diggers</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>National Lampoon's Gold Diggers</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Will Friedle</il>
+			<il>Chris Owen</il>
+			<il>Louise Lasser</il>
+			<il>Renée Taylor</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Comedy</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2003
+    </body>
+</html>

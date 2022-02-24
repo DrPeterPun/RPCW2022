@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Man on Fire</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Man on Fire</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Denzel Washington</il>
+			<il>Dakota Fanning</il>
+			<il>Christopher Walken</il>
+			<il>Giancarlo Giannini</il>
+			<il>Radha Mitchell</il>
+			<il>Marc Anthony</il>
+			<il>Rachel Ticotin</il>
+			<il>Mickey Rourke</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Crime</il>
+			<il>Drama</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2004
+    </body>
+</html>

@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Welcome to Nollywood</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Welcome to Nollywood</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>The</il>
+			<il>cinema of Nigeria</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Documentary</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2007
+    </body>
+</html>

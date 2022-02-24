@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>The Beguiled</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>The Beguiled</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Colin Farrell</il>
+			<il>Nicole Kidman</il>
+			<il>Kirsten Dunst</il>
+			<il>Elle Fanning</il>
+			<il>Angourie Rice</il>
+			<il>Oona Laurence</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Drama</il>
+			<il>Western</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2017
+    </body>
+</html>

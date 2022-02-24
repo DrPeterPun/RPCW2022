@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Session 9</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Session 9</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>David Caruso</il>
+			<il>Peter Mullan</il>
+			<il>Brendan Sexton III</il>
+			<il>Stephen Gevedon</il>
+			<il>Josh Lucas</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Thriller</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2001
+    </body>
+</html>

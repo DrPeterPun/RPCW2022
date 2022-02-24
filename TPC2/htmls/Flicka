@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Flicka</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Flicka</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Alison Lohman</il>
+			<il>Tim McGraw</il>
+			<il>Maria Bello</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Family</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2006
+    </body>
+</html>

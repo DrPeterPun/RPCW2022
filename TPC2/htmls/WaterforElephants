@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Water for Elephants</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Water for Elephants</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Robert Pattinson</il>
+			<il>Reese Witherspoon</il>
+			<il>Christoph Waltz</il>
+			<il>Hal Holbrook</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Drama</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2011
+    </body>
+</html>

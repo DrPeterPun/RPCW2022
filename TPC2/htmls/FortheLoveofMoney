@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>For the Love of Money</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>For the Love of Money</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Yehuda Levi</il>
+			<il>Delphine Chanéac</il>
+			<il>Cody Longo</il>
+			<il>Jeffrey Tambor</il>
+			<il>Jonathan Lipnicki</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Action</il>
+			<il>Drama</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2012
+    </body>
+</html>

@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Thomas & the Magic Railroad</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Thomas & the Magic Railroad</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Alec Baldwin</il>
+			<il>Peter Fonda</il>
+			<il>Mara Wilson</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Family</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2000
+    </body>
+</html>

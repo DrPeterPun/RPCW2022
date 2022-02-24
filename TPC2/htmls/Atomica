@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Atomica</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Atomica</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Dominic Monaghan</il>
+			<il>Tom Sizemore</il>
+			<il>Sarah Habel</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Science Fiction</il>
+			<il>Thriller</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2017
+    </body>
+</html>

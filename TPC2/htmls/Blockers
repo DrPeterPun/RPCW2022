@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Blockers</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Blockers</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Leslie Mann</il>
+			<il>Ike Barinholtz</il>
+			<il>John Cena</il>
+			<il>Kathryn Newton</il>
+			<il>Graham Phillips</il>
+			<il>June Diane Raphael</il>
+			<il>Hannibal Buress</il>
+			<il>Sarayu Blue</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Comedy</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2018
+    </body>
+</html>

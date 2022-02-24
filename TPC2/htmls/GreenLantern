@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Green Lantern</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Green Lantern</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Ryan Reynolds</il>
+			<il>Blake Lively</il>
+			<il>Peter Sarsgaard</il>
+			<il>Mark Strong</il>
+			<il>Angela Bassett</il>
+			<il>and</il>
+			<il>Tim Robbins</il>
+			<il>Temuera Morrison</il>
+			<il>Taika Waititi</il>
+			<il>Geoffrey Rush</il>
+			<il>Michael Clarke Duncan</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Superhero</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2011
+    </body>
+</html>

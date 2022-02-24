@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>What They Had</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>What They Had</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Hilary Swank</il>
+			<il>Michael Shannon</il>
+			<il>Robert Forster</il>
+			<il>Blythe Danner</il>
+			<il>Taissa Farmiga</il>
+			<il>Josh Lucas</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Drama</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2018
+    </body>
+</html>

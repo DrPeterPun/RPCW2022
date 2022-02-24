@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>The Hottest State</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>The Hottest State</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Mark Webber</il>
+			<il>Catalina Sandino Moreno</il>
+			<il>Michelle Williams</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Drama</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2006
+    </body>
+</html>

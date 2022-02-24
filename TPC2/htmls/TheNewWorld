@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>The New World</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>The New World</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Colin Farrell</il>
+			<il>Q'Orianka Kilcher</il>
+			<il>Christopher Plummer</il>
+			<il>Christian Bale</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Drama</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2005
+    </body>
+</html>

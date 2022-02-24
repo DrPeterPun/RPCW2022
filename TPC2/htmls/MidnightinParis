@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Midnight in Paris</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Midnight in Paris</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Kathy Bates</il>
+			<il>Adrien Brody</il>
+			<il>Carla Bruni</il>
+			<il>Marion Cotillard</il>
+			<il>Rachel McAdams</il>
+			<il>Michael Sheen</il>
+			<il>Owen Wilson</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Romance</il>
+			<il>Comedy</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2011
+    </body>
+</html>

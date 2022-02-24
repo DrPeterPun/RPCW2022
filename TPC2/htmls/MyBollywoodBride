@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>My Bollywood Bride</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>My Bollywood Bride</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Jason Lewis</il>
+			<il>Kashmira Shah</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Romance</il>
+			<il>Comedy</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2007
+    </body>
+</html>

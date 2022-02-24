@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>7 Days in Entebbe</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>7 Days in Entebbe</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Rosamund Pike</il>
+			<il>Daniel Bruhl</il>
+			<il>Vincent Cassel</il>
+			<il>Eddie Marsan</il>
+			<il>Ben Schnetzer</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Action</il>
+			<il>Thriller</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2018
+    </body>
+</html>

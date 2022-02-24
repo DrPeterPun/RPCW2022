@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>The Beaver</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>The Beaver</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Mel Gibson</il>
+			<il>Jodie Foster</il>
+			<il>Anton Yelchin</il>
+			<il>Jennifer Lawrence</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Comedy</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2011
+    </body>
+</html>

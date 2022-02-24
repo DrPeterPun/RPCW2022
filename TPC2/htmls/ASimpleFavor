@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>A Simple Favor</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>A Simple Favor</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Anna Kendrick</il>
+			<il>Blake Lively</il>
+			<il>Henry Golding</il>
+			<il>Andrew Rannells</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Thriller</il>
+			<il>Drama</il>
+			<il>Comedy</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2018
+    </body>
+</html>

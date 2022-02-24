@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Divergent</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Divergent</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Shailene Woodley</il>
+			<il>Theo James</il>
+			<il>Ashley Judd</il>
+			<il>Jai Courtney</il>
+			<il>Zoë Kravitz</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Science Fiction</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2014
+    </body>
+</html>

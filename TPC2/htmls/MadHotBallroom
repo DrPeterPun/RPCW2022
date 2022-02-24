@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Mad Hot Ballroom</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Mad Hot Ballroom</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>ballroom dance</il>
+			<il>in New York school system</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Documentary</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2005
+    </body>
+</html>

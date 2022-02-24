@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>The Life Aquatic with Steve Zissou</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>The Life Aquatic with Steve Zissou</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Bill Murray</il>
+			<il>Owen Wilson</il>
+			<il>Cate Blanchett</il>
+			<il>Anjelica Huston</il>
+			<il>Jeff Goldblum</il>
+			<il>Willem Dafoe</il>
+			<il>Michael Gambon</il>
+			<il>Bud Cort</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Comedy</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2004
+    </body>
+</html>

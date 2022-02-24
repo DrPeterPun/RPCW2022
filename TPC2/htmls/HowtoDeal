@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>How to Deal</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>How to Deal</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Mandy Moore</il>
+			<il>Allison Janney</il>
+			<il>Trent Ford</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Romance</il>
+			<il>Comedy</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2003
+    </body>
+</html>

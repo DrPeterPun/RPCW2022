@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>A.X.L.</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>A.X.L.</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Alex Neustaedter</il>
+			<il>Becky G</il>
+			<il>Alex MacNicoll</il>
+			<il>Thomas Jane</il>
+			<il>Lou Taylor Pucci</il>
+			<il>Patricia de Leon</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Science Fiction</il>
+			<il>Adventure</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2018
+    </body>
+</html>

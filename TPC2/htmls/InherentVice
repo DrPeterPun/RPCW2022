@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Inherent Vice</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Inherent Vice</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Joaquin Phoenix</il>
+			<il>Owen Wilson</il>
+			<il>Reese Witherspoon</il>
+			<il>Benicio del Toro</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Comedy</il>
+			<il>Drama</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2014
+    </body>
+</html>

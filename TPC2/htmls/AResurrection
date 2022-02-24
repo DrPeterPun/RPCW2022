@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>A Resurrection</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>A Resurrection</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Devon Sawa</il>
+			<il>Mischa Barton</il>
+			<il>Michael Clarke Duncan</il>
+			<il>Stuart Stone</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Horror</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2013
+    </body>
+</html>

@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Eighth Grade</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Eighth Grade</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Elsie Fisher</il>
+			<il>Josh Hamilton</il>
+			<il>Emily Robinson</il>
+			<il>Missy Yager</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Comedy</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2018
+    </body>
+</html>

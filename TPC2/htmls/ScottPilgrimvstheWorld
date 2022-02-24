@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Scott Pilgrim vs. the World</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Scott Pilgrim vs. the World</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Michael Cera</il>
+			<il>Mary Elizabeth Winstead</il>
+			<il>Kieran Culkin</il>
+			<il>Chris Evans</il>
+			<il>Anna Kendrick</il>
+			<il>Alison Pill</il>
+			<il>Mark Webber</il>
+			<il>Johnny Simmons</il>
+			<il>Brandon Routh</il>
+			<il>Jason Schwartzman</il>
+			<il>Mae Whitman</il>
+			<il>Brie Larson</il>
+			<il>Aubrey Plaza</il>
+			<il>Tennessee Thomas</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Action</il>
+			<il>Romance</il>
+			<il>Comedy</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2010
+    </body>
+</html>

@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Nebraska</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Nebraska</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Bruce Dern</il>
+			<il>Will Forte</il>
+			<il>June Squibb</il>
+			<il>Stacy Keach</il>
+			<il>Bob Odenkirk</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Drama</il>
+			<il>Comedy</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2013
+    </body>
+</html>

@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>The Peripheral</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>The Peripheral</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Randy Frank</il>
+			<il>Lynn Lowry</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Horror</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2014
+    </body>
+</html>

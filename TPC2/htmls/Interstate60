@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Interstate 60</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Interstate 60</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>James Marsden</il>
+			<il>Gary Oldman</il>
+			<il>Amy Smart</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Comedy</il>
+			<il>Drama</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2002
+    </body>
+</html>

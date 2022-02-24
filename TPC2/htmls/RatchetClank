@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Ratchet & Clank</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Ratchet & Clank</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Paul Giamatti</il>
+			<il>John Goodman</il>
+			<il>Bella Thorne</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Animated</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2016
+    </body>
+</html>

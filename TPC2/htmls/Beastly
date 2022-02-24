@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Beastly</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Beastly</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Vanessa Hudgens</il>
+			<il>Alex Pettyfer</il>
+			<il>Mary-Kate Olsen</il>
+			<il>Peter Krause</il>
+			<il>Lisa Gay Hamilton</il>
+			<il>Neil Patrick Harris</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Fantasy</il>
+			<il>Romance</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2011
+    </body>
+</html>

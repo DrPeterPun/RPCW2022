@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Fragments</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Fragments</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Kate Beckinsale</il>
+			<il>Dakota Fanning</il>
+			<il>Guy Pearce</il>
+			<il>Josh Hutcherson</il>
+			<il>Forest Whitaker</il>
+			<il>Jennifer Hudson</il>
+			<il>Jackie Earle Haley</il>
+			<il>Jeanne Tripplehorn</il>
+			<il>Embeth Davidtz</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Drama</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2009
+    </body>
+</html>

@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Think Like a Man</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Think Like a Man</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Michael Ealy</il>
+			<il>Jerry Ferrara</il>
+			<il>Meagan Good</il>
+			<il>Regina Hall</il>
+			<il>Kevin Hart</il>
+			<il>Taraji P. Henson</il>
+			<il>Terrence J</il>
+			<il>Romany Malco</il>
+			<il>Gabrielle Union</il>
+			<il>Steve Harvey</il>
+			<il>Gary Owen</il>
+			<il>Chris Brown</il>
+			<il>Wendy Williams</il>
+			<il>Tony Rock</il>
+			<il>La La Anthony</il>
+			<il>Sherri Shepherd</il>
+			<il>Tika Sumpter</il>
+			<il>Keri Hilson</il>
+			<il>Kelly Rowland</il>
+			<il>Jenifer Lewis</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Romance</il>
+			<il>Comedy</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2012
+    </body>
+</html>

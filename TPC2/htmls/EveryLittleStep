@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Every Little Step</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Every Little Step</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>The casting of the 2006</il>
+			<il>Broadway</il>
+			<il>revival</il>
+			<il>of</il>
+			<il>A Chorus Line</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Documentary</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2009
+    </body>
+</html>

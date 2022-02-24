@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Freak Show</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Freak Show</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Alex Lawther</il>
+			<il>Abigail Breslin</il>
+			<il>Bette Midler</il>
+			<il>AnnaSophia Robb</il>
+			<il>Ian Nelson</il>
+			<il>Lorraine Toussaint</il>
+			<il>Laverne Cox</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Drama</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2018
+    </body>
+</html>

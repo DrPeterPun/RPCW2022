@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>House of Wax</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>House of Wax</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Elisha Cuthbert</il>
+			<il>Chad Michael Murray</il>
+			<il>Paris Hilton</il>
+			<il>Brian Van Holt</il>
+			<il>Jared Padalecki</il>
+			<il>Jon Abrahams</il>
+			<il>Robert Ri'chard</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Horror</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2005
+    </body>
+</html>

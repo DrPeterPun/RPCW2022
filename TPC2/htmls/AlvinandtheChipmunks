@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Alvin and the Chipmunks</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Alvin and the Chipmunks</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Jason Lee</il>
+			<il>Ross Bagdasarian Jr.</il>
+			<il>Janice Karman</il>
+			<il>David Cross</il>
+			<il>Justin Long</il>
+			<il>Matthew Gray Gubler</il>
+			<il>Jesse McCartney</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Family</il>
+			<il>Musical</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2007
+    </body>
+</html>

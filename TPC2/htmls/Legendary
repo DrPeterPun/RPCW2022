@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Legendary</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Legendary</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Patricia Clarkson</il>
+			<il>John Cena</il>
+			<il>Devon Graye</il>
+			<il>Madeleine Martin</il>
+			<il>Tyler Posey</il>
+			<il>Danny Glover</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Drama</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2010
+    </body>
+</html>

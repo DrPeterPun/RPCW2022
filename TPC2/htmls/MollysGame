@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Molly's Game</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Molly's Game</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Jessica Chastain</il>
+			<il>Idris Elba</il>
+			<il>Kevin Costner</il>
+			<il>Brian d'Arcy James</il>
+			<il>Michael Cera</il>
+			<il>Chris O'Dowd</il>
+			<il>Bill Camp</il>
+			<il>Jeremy Strong</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Biography</il>
+			<il>Crime</il>
+			<il>Drama</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2017
+    </body>
+</html>

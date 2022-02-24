@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>G.I. Joe: Retaliation</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>G.I. Joe: Retaliation</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>D. J. Cotrona</il>
+			<il>Lee Byung-hun</il>
+			<il>Adrianne Palicki</il>
+			<il>Ray Park</il>
+			<il>Jonathan Pryce</il>
+			<il>Ray Stevenson</il>
+			<il>Channing Tatum</il>
+			<il>Bruce Willis</il>
+			<il>Dwayne Johnson</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Action</il>
+			<il>Adventure</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2013
+    </body>
+</html>

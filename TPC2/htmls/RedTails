@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Red Tails</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Red Tails</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Cuba Gooding, Jr.</il>
+			<il>Terrence Howard</il>
+			<il>Daniela Ruah</il>
+			<il>Bryan Cranston</il>
+			<il>Nate Parker</il>
+			<il>David Oyelowo</il>
+			<il>Ryan Early</il>
+			<il>Method Man</il>
+			<il>Elijah Kelley</il>
+			<il>Ne-Yo</il>
+			<il>Tristan Wilds</il>
+			<il>Kevin Phillips</il>
+			<il>Robert Kazinsky</il>
+			<il>Lee Tergesen</il>
+			<il>Andre Royo</il>
+			<il>Marcus T. Paulk</il>
+			<il>Michael B. Jordan</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Action</il>
+			<il>Drama</il>
+			<il>War</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2012
+    </body>
+</html>

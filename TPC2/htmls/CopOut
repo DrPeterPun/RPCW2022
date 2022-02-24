@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Cop Out</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Cop Out</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Bruce Willis</il>
+			<il>Tracy Morgan</il>
+			<il>Adam Brody</il>
+			<il>Kevin Pollak</il>
+			<il>Guillermo Diaz</il>
+			<il>Seann William Scott</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Comedy</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2010
+    </body>
+</html>

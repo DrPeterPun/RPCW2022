@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Astro Boy</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Astro Boy</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Freddie Highmore</il>
+			<il>Nicolas Cage</il>
+			<il>Donald Sutherland</il>
+			<il>Nathan Lane</il>
+			<il>Bill Nighy</il>
+			<il>Eugene Levy</il>
+			<il>Kristen Bell</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Animated</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2009
+    </body>
+</html>

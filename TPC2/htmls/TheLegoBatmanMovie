@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>The Lego Batman Movie</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>The Lego Batman Movie</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Will Arnett</il>
+			<il>Ralph Fiennes</il>
+			<il>Rosario Dawson</il>
+			<il>Michael Cera</il>
+			<il>Zach Galifianakis</il>
+			<il>Mariah Carey</il>
+			<il>Jenny Slate</il>
+			<il>Billy Dee Williams</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Animated</il>
+			<il>Comedy</il>
+			<il>Action</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2017
+    </body>
+</html>

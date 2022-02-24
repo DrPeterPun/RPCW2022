@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>The Shape of Water</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>The Shape of Water</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Sally Hawkins</il>
+			<il>Michael Shannon</il>
+			<il>Richard Jenkins</il>
+			<il>Doug Jones</il>
+			<il>Lauren Lee Smith</il>
+			<il>Michael Stuhlbarg</il>
+			<il>Octavia Spencer</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Fantasy</il>
+			<il>Horror</il>
+			<il>Romance</il>
+			<il>Science Fiction</il>
+			<il>Thriller</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2017
+    </body>
+</html>

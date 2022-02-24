@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Ralph Breaks the Internet</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Ralph Breaks the Internet</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>John C. Reilly</il>
+			<il>Sarah Silverman</il>
+			<il>Jack McBrayer</il>
+			<il>Jane Lynch</il>
+			<il>Taraji P. Henson</il>
+			<il>Gal Gadot</il>
+			<il>Alan Tudyk</il>
+			<il>Bill Hader</il>
+			<il>Alfred Molina</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Animated</il>
+			<il>Fantasy</il>
+			<il>Adventure</il>
+			<il>Comedy</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2018
+    </body>
+</html>

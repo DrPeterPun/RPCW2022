@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>The Grudge 2</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>The Grudge 2</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Sarah Michelle Gellar</il>
+			<il>Amber Tamblyn</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Horror</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2006
+    </body>
+</html>

@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Zig Zag</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Zig Zag</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>John Leguizamo</il>
+			<il>Wesley Snipes</il>
+			<il>Oliver Platt</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Drama</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2002
+    </body>
+</html>

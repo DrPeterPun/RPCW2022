@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>The Cove</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>The Cove</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>The annual killing of</il>
+			<il>dolphins</il>
+			<il>at</il>
+			<il>Taiji</il>
+			<il>Wakayama</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Documentary</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2009
+    </body>
+</html>

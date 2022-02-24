@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>The Predator</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>The Predator</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Boyd Holbrook</il>
+			<il>Trevante Rhodes</il>
+			<il>Jacob Tremblay</il>
+			<il>Keegan-Michael Key</il>
+			<il>Olivia Munn</il>
+			<il>Thomas Jane</il>
+			<il>Alfie Allen</il>
+			<il>Sterling K. Brown</il>
+			<il>Augusto Aguilera</il>
+			<il>Yvonne Strahovski</il>
+			<il>Jake Busey</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Horror</il>
+			<il>Action</il>
+			<il>Science Fiction</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2018
+    </body>
+</html>

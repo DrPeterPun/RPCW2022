@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>All About the Benjamins</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>All About the Benjamins</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Ice Cube</il>
+			<il>Mike Epps</il>
+			<il>Eva Mendes</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Action</il>
+			<il>Comedy</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2002
+    </body>
+</html>

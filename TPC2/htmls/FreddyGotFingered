@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Freddy Got Fingered</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Freddy Got Fingered</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Tom Green</il>
+			<il>Rip Torn</il>
+			<il>Harland Williams</il>
+			<il>Marisa Coughlan</il>
+			<il>Eddie Kaye Thomas</il>
+			<il>Julie Hagerty</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Comedy</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2001
+    </body>
+</html>

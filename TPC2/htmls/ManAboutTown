@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Man About Town</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Man About Town</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Ben Affleck</il>
+			<il>Rebecca Romijn</il>
+			<il>John Cleese</il>
+			<il>Jerry O'Connell</il>
+			<il>Gina Gershon</il>
+			<il>Bai Ling</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Comedy</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2006
+    </body>
+</html>

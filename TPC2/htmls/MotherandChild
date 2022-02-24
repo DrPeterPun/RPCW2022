@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Mother and Child</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Mother and Child</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Naomi Watts</il>
+			<il>Annette Bening</il>
+			<il>Kerry Washington</il>
+			<il>Jimmy Smits</il>
+			<il>Samuel L. Jackson</il>
+			<il>S. Epatha Merkerson</il>
+			<il>Cherry Jones</il>
+			<il>Elpidia Carrillo</il>
+			<il>Shareeka Epps</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Drama</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2010
+    </body>
+</html>

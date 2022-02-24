@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Happy Tears</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Happy Tears</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Parker Posey</il>
+			<il>Demi Moore</il>
+			<il>Rip Torn</il>
+			<il>Ellen Barkin</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Drama</il>
+			<il>Comedy</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2010
+    </body>
+</html>

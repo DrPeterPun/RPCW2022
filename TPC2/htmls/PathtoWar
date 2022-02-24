@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Path to War</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Path to War</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Michael Gambon</il>
+			<il>Alec Baldwin</il>
+			<il>Donald Sutherland</il>
+			<il>Felicity Huffman</il>
+			<il>Tom Skerritt</il>
+			<il>Frederic Forrest</il>
+			<il>Diana Scarwid</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Drama</il>
+			<il>Biography</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2002
+    </body>
+</html>

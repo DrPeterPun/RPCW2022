@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Le Divorce</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Le Divorce</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Kate Hudson</il>
+			<il>Naomi Watts</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Drama</il>
+			<il>Romance</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2003
+    </body>
+</html>

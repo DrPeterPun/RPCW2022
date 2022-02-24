@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Mission to Mars</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Mission to Mars</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Gary Sinise</il>
+			<il>Tim Robbins</il>
+			<il>Don Cheadle</il>
+			<il>Connie Nielsen</il>
+			<il>Jerry O'Connell</il>
+			<il>Kim Delaney</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Science Fiction</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2000
+    </body>
+</html>

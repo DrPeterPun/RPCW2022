@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>A Glimpse Inside the Mind of Charles Swan III</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>A Glimpse Inside the Mind of Charles Swan III</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Charlie Sheen</il>
+			<il>Jason Schwartzman</il>
+			<il>Katheryn Winnick</il>
+			<il>Aubrey Plaza</il>
+			<il>Mary Elizabeth Winstead</il>
+			<il>Patricia Arquette</il>
+			<il>Bill Murray</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Comedy</il>
+			<il>Drama</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2013
+    </body>
+</html>

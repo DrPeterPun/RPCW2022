@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Diggers</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Diggers</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Paul Rudd</il>
+			<il>Lauren Ambrose</il>
+			<il>Ron Eldard</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Comedy</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2006
+    </body>
+</html>

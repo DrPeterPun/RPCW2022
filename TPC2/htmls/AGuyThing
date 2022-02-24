@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>A Guy Thing</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>A Guy Thing</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Jason Lee</il>
+			<il>Julia Stiles</il>
+			<il>Selma Blair</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Romance</il>
+			<il>Comedy</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2003
+    </body>
+</html>

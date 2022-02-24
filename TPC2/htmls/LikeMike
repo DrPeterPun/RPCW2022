@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Like Mike</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Like Mike</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Bow Wow</il>
+			<il>Morris Chestnut</il>
+			<il>Jonathan Lipnicki</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Comedy</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2002
+    </body>
+</html>

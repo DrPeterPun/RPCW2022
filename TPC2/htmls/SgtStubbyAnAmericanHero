@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Sgt. Stubby: An American Hero</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Sgt. Stubby: An American Hero</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Logan Lerman</il>
+			<il>Helena Bonham Carter</il>
+			<il>Gérard Depardieu</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Animated</il>
+			<il>Family</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2018
+    </body>
+</html>

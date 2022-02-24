@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Sidewalks of New York</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Sidewalks of New York</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Edward Burns</il>
+			<il>Rosario Dawson</il>
+			<il>Dennis Farina</il>
+			<il>Heather Graham</il>
+			<il>David Krumholtz</il>
+			<il>Brittany Murphy</il>
+			<il>Stanley Tucci</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Comedy</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2001
+    </body>
+</html>

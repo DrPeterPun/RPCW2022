@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>American Wedding</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>American Wedding</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Jason Biggs</il>
+			<il>Seann William Scott</il>
+			<il>Alyson Hannigan</il>
+			<il>Eugene Levy</il>
+			<il>Fred Willard</il>
+			<il>January Jones</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Comedy</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2003
+    </body>
+</html>

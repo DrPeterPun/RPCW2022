@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Trouble with the Curve</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Trouble with the Curve</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Clint Eastwood</il>
+			<il>Amy Adams</il>
+			<il>Justin Timberlake</il>
+			<il>and</il>
+			<il>John Goodman</il>
+			<il>Matthew Lillard</il>
+			<il>Scott Eastwood</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Drama</il>
+			<il>Sports</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2012
+    </body>
+</html>

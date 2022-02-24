@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>3 Generations</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>3 Generations</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Naomi Watts</il>
+			<il>Elle Fanning</il>
+			<il>Susan Sarandon</il>
+			<il>Tate Donovan</il>
+			<il>Linda Emond</il>
+			<il>Sam Trammell</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Drama</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2017
+    </body>
+</html>

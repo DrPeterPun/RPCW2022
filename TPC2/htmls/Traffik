@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Traffik</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Traffik</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Paula Patton</il>
+			<il>Omar Epps</il>
+			<il>Missi Pyle</il>
+			<il>William Fichtner</il>
+			<il>Roselyn Sanchez</il>
+			<il>Dawn Olivieri</il>
+			<il>Laz Alonso</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Thriller</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2018
+    </body>
+</html>

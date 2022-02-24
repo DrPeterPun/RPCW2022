@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Snow White & the Huntsman</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Snow White & the Huntsman</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Kristen Stewart</il>
+			<il>Charlize Theron</il>
+			<il>Chris Hemsworth</il>
+			<il>Sam Claflin</il>
+			<il>Ian McShane</il>
+			<il>Bob Hoskins</il>
+			<il>Ray Winstone</il>
+			<il>Nick Frost</il>
+			<il>Toby Jones</il>
+			<il>Johnny Harris</il>
+			<il>Eddie Marsan</il>
+			<il>Brian Gleeson</il>
+			<il>Lily Cole</il>
+			<il>Sam Spruell</il>
+			<il>Vincent Regan</il>
+			<il>Noah Huntley</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Action</il>
+			<il>Fantasy</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2012
+    </body>
+</html>

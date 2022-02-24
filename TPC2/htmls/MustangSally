@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Mustang Sally</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Mustang Sally</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Elizabeth Daily</il>
+			<il>Mark Anthony Parrish</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Horror</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2006
+    </body>
+</html>

@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Be Cool</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Be Cool</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>John Travolta</il>
+			<il>Uma Thurman</il>
+			<il>Cedric the Entertainer</il>
+			<il>André Benjamin</il>
+			<il>Steven Tyler</il>
+			<il>Vince Vaughn</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Crime</il>
+			<il>Comedy</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2005
+    </body>
+</html>

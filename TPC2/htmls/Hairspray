@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Hairspray</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Hairspray</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>John Travolta</il>
+			<il>Michelle Pfeiffer</il>
+			<il>Christopher Walken</il>
+			<il>Amanda Bynes</il>
+			<il>James Marsden</il>
+			<il>Queen Latifah</il>
+			<il>Brittany Snow</il>
+			<il>Zac Efron</il>
+			<il>Elijah Kelley</il>
+			<il>Allison Janney</il>
+			<il>Nikki Blonsky</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Musical</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2007
+    </body>
+</html>

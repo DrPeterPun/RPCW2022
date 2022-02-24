@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>All Good Things</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>All Good Things</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Ryan Gosling</il>
+			<il>Kirsten Dunst</il>
+			<il>Frank Langella</il>
+			<il>Kristen Wiig</il>
+			<il>Philip Baker Hall</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Mystery</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2010
+    </body>
+</html>

@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Metallica Through the Never</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Metallica Through the Never</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Dane DeHaan</il>
+			<il>James Hetfield</il>
+			<il>Lars Ulrich</il>
+			<il>Kirk Hammett</il>
+			<il>Robert Trujillo</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Documentary</il>
+			<il>Musical</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2013
+    </body>
+</html>

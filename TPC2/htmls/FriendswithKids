@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Friends with Kids</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Friends with Kids</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Adam Scott</il>
+			<il>Jennifer Westfeldt</il>
+			<il>Jon Hamm</il>
+			<il>Kristen Wiig</il>
+			<il>Maya Rudolph</il>
+			<il>Chris O'Dowd</il>
+			<il>Megan Fox</il>
+			<il>Edward Burns</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Comedy</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2012
+    </body>
+</html>

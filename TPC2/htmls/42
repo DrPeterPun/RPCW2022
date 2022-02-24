@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>42</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>42</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Chadwick Boseman</il>
+			<il>Harrison Ford</il>
+			<il>Christopher Meloni</il>
+			<il>John C. McGinley</il>
+			<il>Lucas Black</il>
+			<il>Alan Tudyk</il>
+			<il>Nicole Beharie</il>
+			<il>C. J. Nitkowski</il>
+			<il>Brett Cullen</il>
+			<il>Kelley Jakle</il>
+			<il>Ryan Merriman</il>
+			<il>T. R. Knight</il>
+			<il>Hamish Linklater</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Sports</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2013
+    </body>
+</html>

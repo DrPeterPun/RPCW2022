@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Grown Ups</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Grown Ups</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Adam Sandler</il>
+			<il>Kevin James</il>
+			<il>Chris Rock</il>
+			<il>Rob Schneider</il>
+			<il>David Spade</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Comedy</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2010
+    </body>
+</html>

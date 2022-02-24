@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Curious George</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Curious George</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Will Ferrell</il>
+			<il>Drew Barrymore</il>
+			<il>David Cross</il>
+			<il>Eugene Levy</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Animated</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2006
+    </body>
+</html>

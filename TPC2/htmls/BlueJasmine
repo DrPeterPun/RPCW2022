@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Blue Jasmine</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Blue Jasmine</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Alec Baldwin</il>
+			<il>Cate Blanchett</il>
+			<il>Louis C.K.</il>
+			<il>Bobby Cannavale</il>
+			<il>Andrew Dice Clay</il>
+			<il>Sally Hawkins</il>
+			<il>Peter Sarsgaard</il>
+			<il>Michael Stuhlbarg</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Drama</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2013
+    </body>
+</html>

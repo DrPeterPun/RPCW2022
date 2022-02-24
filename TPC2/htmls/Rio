@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Rio</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Rio</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Jesse Eisenberg</il>
+			<il>Anne Hathaway</il>
+			<il>George Lopez</il>
+			<il>Jemaine Clement</il>
+			<il>Jake T. Austin</il>
+			<il>Leslie Mann</il>
+			<il>Tracy Morgan</il>
+			<il>will.i.am</il>
+			<il>Jamie Foxx</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Animated</il>
+			<il>Family</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2011
+    </body>
+</html>

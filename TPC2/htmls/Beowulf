@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Beowulf</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Beowulf</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Ray Winstone</il>
+			<il>Anthony Hopkins</il>
+			<il>John Malkovich</il>
+			<il>Robin Wright Penn</il>
+			<il>Angelina Jolie</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Fantasy</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2007
+    </body>
+</html>

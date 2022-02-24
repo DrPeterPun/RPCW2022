@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Warrior</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Warrior</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Joel Edgerton</il>
+			<il>Tom Hardy</il>
+			<il>Jennifer Morrison</il>
+			<il>Frank Grillo</il>
+			<il>Nick Nolte</il>
+			<il>Kurt Angle</il>
+			<il>Noah Emmerich</il>
+			<il>Kevin Dunn</il>
+			<il>Denzel Whitaker</il>
+			<il>Erik Apple</il>
+			<il>Vanessa Martinez</il>
+			<il>Nate Marquardt</il>
+			<il>Anthony Johnson</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Action</il>
+			<il>Drama</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2011
+    </body>
+</html>

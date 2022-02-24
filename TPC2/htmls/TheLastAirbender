@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>The Last Airbender</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>The Last Airbender</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Noah Ringer</il>
+			<il>Nicola Peltz</il>
+			<il>Jackson Rathbone</il>
+			<il>Dev Patel</il>
+			<il>Shaun Toub</il>
+			<il>Aasif Mandvi</il>
+			<il>Cliff Curtis</il>
+			<il>Jessica Andres</il>
+			<il>Katharine Houghton</il>
+			<il>Seychelle Gabriel</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Action</il>
+			<il>Adventure</il>
+			<il>Fantasy</il>
+			<il>Family</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2010
+    </body>
+</html>

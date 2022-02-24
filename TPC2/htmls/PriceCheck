@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Price Check</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Price Check</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Parker Posey</il>
+			<il>Eric Mabius</il>
+			<il>Annie Parisse</il>
+			<il>Josh Pais</il>
+			<il>Edward Herrmann</il>
+			<il>Remy Auberjonois</il>
+			<il>Jayce Bartók</il>
+			<il>Samrat Chakrabarti</il>
+			<il>Cheyenne Jackson</il>
+			<il>Stephen Kunken</il>
+			<il>Amy Schumer</il>
+			<il>Matt Servitto</il>
+			<il>Mackenzie Smith</il>
+			<il>Melinda Page Hamilton</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Comedy</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2012
+    </body>
+</html>

@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Ghosts of Girlfriends Past</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Ghosts of Girlfriends Past</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Matthew McConaughey</il>
+			<il>Jennifer Garner</il>
+			<il>Michael Douglas</il>
+			<il>Breckin Meyer</il>
+			<il>Lacey Chabert</il>
+			<il>Emma Stone</il>
+			<il>Anne Archer</il>
+			<il>Robert Forster</il>
+			<il>Amanda Walsh</il>
+			<il>Noureen DeWulf</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Fantasy</il>
+			<il>Romance</il>
+			<il>Comedy</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2009
+    </body>
+</html>

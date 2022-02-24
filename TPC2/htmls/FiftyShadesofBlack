@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Fifty Shades of Black</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Fifty Shades of Black</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Marlon Wayans</il>
+			<il>Kali Hawk</il>
+			<il>Mike Epps</il>
+
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Comedy</il>
+
+        </ul>
+        <h2>Released in:</h2>
+			2016
+    </body>
+</html>
