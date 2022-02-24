@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>The Rum Diary</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>The Rum Diary</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Johnny Depp</il>
+						<il>Aaron Eckhart</il>
+						<il>Michael Rispoli</il>
+						<il>Amber Heard</il>
+						<il>Richard Jenkins</il>
+						<il>and</il>
+						<il>Giovanni Ribisi</il>
+						<il>Amaury Nolasco</il>
+						<il>Marshall Bell</il>
+						<il>Bill Smitrovich</il>
+						<il>Julian Holloway</il>
+						<il>Karen Austin</il>
+						<il>Jason Smith</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Drama</il>
+			<il>Comedy</il>
+			<il>Thriller</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2011
+        </ul>
+    </body>
+</html>

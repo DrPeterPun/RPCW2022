@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Chasing Mavericks</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Chasing Mavericks</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Gerard Butler</il>
+						<il>Jonny Weston</il>
+						<il>Elisabeth Shue</il>
+						<il>Abigail Spencer</il>
+						<il>Leven Rambin</il>
+						<il>Taylor Handley</il>
+						<il>Scott Eastwood</il>
+						<il>Greg Long</il>
+						<il>Peter Mel</il>
+						<il>Zach Wormhoudt</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Biography</il>
+			<il>Drama</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2012
+        </ul>
+    </body>
+</html>

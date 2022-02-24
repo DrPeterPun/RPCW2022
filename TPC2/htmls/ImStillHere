@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>I'm Still Here</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>I'm Still Here</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Tumultuous year in the life of actor</il>
+						<il>Joaquin Phoenix</il>
+						<il>as he attempts to reinvent himself as a hip-hop artist.</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Satire</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2010
+        </ul>
+    </body>
+</html>

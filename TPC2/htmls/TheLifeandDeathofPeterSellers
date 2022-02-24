@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>The Life and Death of Peter Sellers</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>The Life and Death of Peter Sellers</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Geoffrey Rush</il>
+						<il>Charlize Theron</il>
+						<il>Emily Watson</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Biography</il>
+			<il>Drama</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2004
+        </ul>
+    </body>
+</html>

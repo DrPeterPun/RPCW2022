@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Fifty Shades Darker</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Fifty Shades Darker</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Dakota Johnson</il>
+						<il>Jamie Dornan</il>
+						<il>Kim Basinger</il>
+						<il>Luke Grimes</il>
+						<il>Eloise Mumford</il>
+						<il>Max Martini</il>
+						<il>Eric Johnson</il>
+						<il>Bella Heathcote</il>
+						<il>Marcia Gay Harden</il>
+						<il>Rita Ora</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Drama</il>
+			<il>Romance</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2017
+        </ul>
+    </body>
+</html>

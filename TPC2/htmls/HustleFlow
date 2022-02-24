@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Hustle & Flow</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Hustle & Flow</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Terrence Howard</il>
+						<il>Anthony Anderson</il>
+						<il>Taryn Manning</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Crime</il>
+			<il>Drama</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2005
+        </ul>
+    </body>
+</html>

@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>The Benchwarmers</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>The Benchwarmers</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Rob Schneider</il>
+						<il>David Spade</il>
+						<il>Jon Heder</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Comedy</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2006
+        </ul>
+    </body>
+</html>

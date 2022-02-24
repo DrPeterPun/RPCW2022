@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>White Chicks</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>White Chicks</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Shawn Wayans</il>
+						<il>Marlon Wayans</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Comedy</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2004
+        </ul>
+    </body>
+</html>

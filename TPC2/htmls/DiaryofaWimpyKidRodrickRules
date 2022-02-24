@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Diary of a Wimpy Kid: Rodrick Rules</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Diary of a Wimpy Kid: Rodrick Rules</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Zachary Gordon</il>
+						<il>Devon Bostick</il>
+						<il>Rachael Harris</il>
+						<il>Robert Capron</il>
+						<il>Steve Zahn</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Comedy</il>
+			<il>Family</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2011
+        </ul>
+    </body>
+</html>

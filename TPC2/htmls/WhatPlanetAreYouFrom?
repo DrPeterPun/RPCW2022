@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>What Planet Are You From?</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>What Planet Are You From?</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Garry Shandling</il>
+						<il>Annette Bening</il>
+						<il>John Goodman</il>
+						<il>Greg Kinnear</il>
+						<il>Linda Fiorentino</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Comedy</il>
+			<il>Science Fiction</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+2000
+        </ul>
+    </body>
+</html>

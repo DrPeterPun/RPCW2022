@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>All Eyez on Me</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>All Eyez on Me</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Demetrius Shipp Jr.</il>
+						<il>Kat Graham</il>
+						<il>Lauren Cohan</il>
+						<il>Hill Harper</il>
+						<il>Danai Gurira</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Biography</il>
+			<il>Drama</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2017
+        </ul>
+    </body>
+</html>

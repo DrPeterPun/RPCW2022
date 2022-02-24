@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Mary Queen of Scots</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Mary Queen of Scots</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Saoirse Ronan</il>
+						<il>Margot Robbie</il>
+						<il>Jack Lowden</il>
+						<il>Martin Compston</il>
+						<il>Joe Alwyn</il>
+						<il>Brendan Coyle</il>
+						<il>David Tennant</il>
+						<il>Guy Pearce</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Historical</il>
+			<il>Drama</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2018
+        </ul>
+    </body>
+</html>

@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Show Dogs</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Show Dogs</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Will Arnett</il>
+						<il>Natasha Lyonne</il>
+						<il>Ludacris</il>
+						<il>Stanley Tucci</il>
+						<il>Shaquille O'Neal</il>
+						<il>Gabriel Iglesias</il>
+						<il>Alan Cumming</il>
+						<il>Oliver Tompsett</il>
+						<il>Andy Beckwith</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Family</il>
+			<il>Comedy</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2018
+        </ul>
+    </body>
+</html>

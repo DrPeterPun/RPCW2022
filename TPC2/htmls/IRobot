@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>I, Robot</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>I, Robot</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Will Smith</il>
+						<il>Bridget Moynahan</il>
+						<il>Bruce Greenwood</il>
+						<il>James Cromwell</il>
+						<il>Chi McBride</il>
+						<il>Alan Tudyk</il>
+						<il>Shia LaBeouf</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Science Fiction</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2004
+        </ul>
+    </body>
+</html>

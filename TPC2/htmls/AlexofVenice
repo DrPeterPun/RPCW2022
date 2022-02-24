@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Alex of Venice</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Alex of Venice</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Mary Elizabeth Winstead</il>
+						<il>Don Johnson</il>
+						<il>Chris Messina</il>
+						<il>Derek Luke</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Drama</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2015
+        </ul>
+    </body>
+</html>

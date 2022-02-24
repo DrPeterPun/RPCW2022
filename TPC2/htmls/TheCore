@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>The Core</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>The Core</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Aaron Eckhart</il>
+						<il>Hilary Swank</il>
+						<il>Delroy Lindo</il>
+						<il>Stanley Tucci</il>
+						<il>Tchéky Karyo</il>
+						<il>Bruce Greenwood</il>
+						<il>DJ Qualls</il>
+						<il>Richard Jenkins</il>
+						<il>Alfre Woodard</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Action</il>
+			<il>Science Fiction</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2003
+        </ul>
+    </body>
+</html>

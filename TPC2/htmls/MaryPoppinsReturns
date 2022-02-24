@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Mary Poppins Returns</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Mary Poppins Returns</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Emily Blunt</il>
+						<il>Lin-Manuel Miranda</il>
+						<il>Ben Whishaw</il>
+						<il>Emily Mortimer</il>
+						<il>Julie Walters</il>
+						<il>Colin Firth</il>
+						<il>Meryl Streep</il>
+						<il>Dick Van Dyke</il>
+						<il>Angela Lansbury</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Musical</il>
+			<il>Fantasy</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2018
+        </ul>
+    </body>
+</html>

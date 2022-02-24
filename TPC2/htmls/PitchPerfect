@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Pitch Perfect</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Pitch Perfect</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Anna Kendrick</il>
+						<il>Brittany Snow</il>
+						<il>Anna Camp</il>
+						<il>Rebel Wilson</il>
+						<il>Christopher Mintz-Plasse</il>
+						<il>Skylar Astin</il>
+						<il>Freddie Stroma</il>
+						<il>Alexis Knapp</il>
+						<il>Adam DeVine</il>
+						<il>Ester Dean</il>
+						<il>Brock Kelly</il>
+						<il>Elizabeth Banks</il>
+						<il>John Michael Higgins</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Comedy</il>
+			<il>Musical</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2012
+        </ul>
+    </body>
+</html>

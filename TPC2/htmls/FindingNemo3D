@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Finding Nemo 3D</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Finding Nemo 3D</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Albert Brooks</il>
+						<il>Ellen DeGeneres</il>
+						<il>Alexander Gould</il>
+						<il>Willem Dafoe</il>
+						<il>Barry Humphries</il>
+						<il>Eric Bana</il>
+						<il>Bruce Spence</il>
+						<il>Allison Janney</il>
+						<il>Elizabeth Perkins</il>
+						<il>Geoffrey Rush</il>
+						<il>Brad Garrett</il>
+						<il>Austin Pendleton</il>
+						<il>Stephen Root</il>
+						<il>Vicki Lewis</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Adventure</il>
+			<il>Animated</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2012
+        </ul>
+    </body>
+</html>

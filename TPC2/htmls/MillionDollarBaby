@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Million Dollar Baby</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Million Dollar Baby</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Clint Eastwood</il>
+						<il>Hilary Swank</il>
+						<il>Morgan Freeman</il>
+						<il>Jay Baruchel</il>
+						<il>Anthony Mackie</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Drama</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2004
+        </ul>
+    </body>
+</html>

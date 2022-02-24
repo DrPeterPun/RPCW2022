@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>How to Be a Latin Lover</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>How to Be a Latin Lover</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Eugenio Derbez</il>
+						<il>Salma Hayek</il>
+						<il>Raphael Alejandro</il>
+						<il>Rob Lowe</il>
+						<il>Kristen Bell</il>
+						<il>Raquel Welch</il>
+						<il>Rob Riggle</il>
+						<il>Renée Taylor</il>
+						<il>Rob Huebel</il>
+						<il>Michaela Watkins</il>
+						<il>Linda Lavin</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Comedy</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2017
+        </ul>
+    </body>
+</html>

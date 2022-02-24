@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Venom</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Venom</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Tom Hardy</il>
+						<il>Michelle Williams</il>
+						<il>Riz Ahmed</il>
+						<il>Scott Haze</il>
+						<il>Reid Scott</il>
+						<il>Jenny Slate</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Superhero</il>
+			<il>Horror</il>
+			<il>Action</il>
+			<il>Science Fiction</il>
+			<il>Thriller</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2018
+        </ul>
+    </body>
+</html>

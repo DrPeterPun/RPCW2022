@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>The Only Living Boy in New York</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>The Only Living Boy in New York</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Callum Turner</il>
+						<il>Kate Beckinsale</il>
+						<il>Pierce Brosnan</il>
+						<il>Cynthia Nixon</il>
+						<il>Jeff Bridges</il>
+						<il>Kiersey Clemons</il>
+						<il>Debi Mazar</il>
+						<il>Bill Camp</il>
+						<il>Tate Donovan</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Drama</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2017
+        </ul>
+    </body>
+</html>

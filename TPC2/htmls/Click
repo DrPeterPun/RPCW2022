@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Click</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Click</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Adam Sandler</il>
+						<il>Kate Beckinsale</il>
+						<il>Christopher Walken</il>
+						<il>David Hasselhoff</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Comedy</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2006
+        </ul>
+    </body>
+</html>

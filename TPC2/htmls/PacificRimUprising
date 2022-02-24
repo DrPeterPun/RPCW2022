@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Pacific Rim Uprising</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Pacific Rim Uprising</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>John Boyega</il>
+						<il>Scott Eastwood</il>
+						<il>Cailee Spaeny</il>
+						<il>Charlie Day</il>
+						<il>Burn Gorman</il>
+						<il>Rinko Kikuchi</il>
+						<il>Jing Tian</il>
+						<il>Adria Arjona</il>
+						<il>Zhang Jin</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Action</il>
+			<il>Adventure</il>
+			<il>Science Fiction</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2018
+        </ul>
+    </body>
+</html>

@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Precious</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Precious</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Mo'Nique</il>
+						<il>Paula Patton</il>
+						<il>Mariah Carey</il>
+						<il>Lenny Kravitz</il>
+						<il>Sherri Shepherd</il>
+						<il>Gabourey Sidibe</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Drama</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2009
+        </ul>
+    </body>
+</html>

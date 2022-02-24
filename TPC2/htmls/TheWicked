@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>The Wicked</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>The Wicked</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Jess Adams</il>
+						<il>Diana Hooper</il>
+						<il>Devon Werkheiser</il>
+						<il>Justin Deeley</il>
+						<il>Jamie Kaler</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Horror</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2013
+        </ul>
+    </body>
+</html>

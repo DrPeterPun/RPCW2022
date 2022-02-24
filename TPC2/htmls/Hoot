@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Hoot</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Hoot</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Luke Wilson</il>
+						<il>Brie Larson</il>
+						<il>Logan Lerman</il>
+						<il>Cody Linley</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Family</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2006
+        </ul>
+    </body>
+</html>

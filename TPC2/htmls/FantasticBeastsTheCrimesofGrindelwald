@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Fantastic Beasts: The Crimes of Grindelwald</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Fantastic Beasts: The Crimes of Grindelwald</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Eddie Redmayne</il>
+						<il>Katherine Waterston</il>
+						<il>Alison Sudol</il>
+						<il>Dan Fogler</il>
+						<il>Ezra Miller</il>
+						<il>Jude Law</il>
+						<il>Johnny Depp</il>
+						<il>Zoë Kravitz</il>
+						<il>Callum Turner</il>
+						<il>Claudia Kim</il>
+						<il>William Nadylam</il>
+						<il>Carmen Ejogo</il>
+						<il>Kevin Guthrie</il>
+						<il>Poppy Corby-Tuech</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Fantasy</il>
+			<il>Drama</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2018
+        </ul>
+    </body>
+</html>

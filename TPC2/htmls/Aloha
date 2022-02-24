@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Aloha</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Aloha</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Bradley Cooper</il>
+						<il>Emma Stone</il>
+						<il>Rachel McAdams</il>
+						<il>John Krasinski</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Romance</il>
+			<il>Comedy</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2015
+        </ul>
+    </body>
+</html>

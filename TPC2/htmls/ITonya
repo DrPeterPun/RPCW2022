@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>I, Tonya</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>I, Tonya</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Margot Robbie</il>
+						<il>Sebastian Stan</il>
+						<il>Allison Janney</il>
+						<il>Julianne Nicholson</il>
+						<il>Mckenna Grace</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Biography</il>
+			<il>Drama</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2017
+        </ul>
+    </body>
+</html>

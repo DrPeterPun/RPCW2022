@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Sin City</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Sin City</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Jessica Alba</il>
+						<il>Bruce Willis</il>
+						<il>Benicio del Toro</il>
+						<il>Brittany Murphy</il>
+						<il>Clive Owen</il>
+						<il>Mickey Rourke</il>
+						<il>Rosario Dawson</il>
+						<il>Josh Hartnett</il>
+						<il>Carla Gugino</il>
+						<il>Elijah Wood</il>
+						<il>Nick Stahl</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Action</il>
+			<il>Science Fiction</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2005
+        </ul>
+    </body>
+</html>

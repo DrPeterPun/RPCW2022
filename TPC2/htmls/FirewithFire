@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Fire with Fire</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Fire with Fire</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Josh Duhamel</il>
+						<il>50 Cent</il>
+						<il>Bruce Willis</il>
+						<il>Vincent D'Onofrio</il>
+						<il>Richard Schiff</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Action</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2012
+        </ul>
+    </body>
+</html>

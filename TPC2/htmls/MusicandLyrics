@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Music and Lyrics</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Music and Lyrics</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Hugh Grant</il>
+						<il>Drew Barrymore</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Romance</il>
+			<il>Comedy</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2007
+        </ul>
+    </body>
+</html>

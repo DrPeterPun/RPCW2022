@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Color of the Cross</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Color of the Cross</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Jean-Claude La Marre</il>
+						<il>Debbi Morgan</il>
+						<il>Elya Baskin</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Biography</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2006
+        </ul>
+    </body>
+</html>

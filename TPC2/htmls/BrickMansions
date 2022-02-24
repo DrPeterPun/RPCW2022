@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Brick Mansions</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Brick Mansions</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Paul Walker</il>
+						<il>David Belle</il>
+						<il>RZA</il>
+						<il>Catalina Denis</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Action</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2014
+        </ul>
+    </body>
+</html>

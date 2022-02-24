@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>People Like Us</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>People Like Us</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Chris Pine</il>
+						<il>Elizabeth Banks</il>
+						<il>Olivia Wilde</il>
+						<il>Michael Hall D'Addario</il>
+						<il>Mark Duplass</il>
+						<il>Philip Baker Hall</il>
+						<il>Jon Favreau</il>
+						<il>Michelle Pfeiffer</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Drama</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2012
+        </ul>
+    </body>
+</html>

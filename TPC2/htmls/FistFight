@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Fist Fight</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Fist Fight</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Ice Cube</il>
+						<il>Charlie Day</il>
+						<il>Christina Hendricks</il>
+						<il>Dennis Haysbert</il>
+						<il>Tracy Morgan</il>
+						<il>Jillian Bell</il>
+						<il>Dean Norris</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Comedy</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2017
+        </ul>
+    </body>
+</html>

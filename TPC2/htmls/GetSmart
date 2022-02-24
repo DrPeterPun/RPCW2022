@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Get Smart</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Get Smart</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Steve Carell</il>
+						<il>Anne Hathaway</il>
+						<il>Dwayne Johnson</il>
+						<il>Alan Arkin</il>
+						<il>Terry Crews</il>
+						<il>James Caan</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Comedy</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2008
+        </ul>
+    </body>
+</html>

@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>The Time Machine</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>The Time Machine</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Guy Pearce</il>
+						<il>Samantha Mumba</il>
+						<il>Jeremy Irons</il>
+						<il>Mark Addy</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Science Fiction</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2002
+        </ul>
+    </body>
+</html>

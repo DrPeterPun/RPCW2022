@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Cedar Rapids</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Cedar Rapids</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Ed Helms</il>
+						<il>John C. Reilly</il>
+						<il>Anne Heche</il>
+						<il>Isiah Whitlock, Jr.</il>
+						<il>Kurtwood Smith</il>
+						<il>Stephen Root</il>
+						<il>Mike O'Malley</il>
+						<il>and</il>
+						<il>Sigourney Weaver</il>
+						<il>Alia Shawkat</il>
+						<il>Rob Corddry</il>
+						<il>Thomas Lennon</il>
+						<il>Welker White</il>
+						<il>Steve Blackwood</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Comedy</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2011
+        </ul>
+    </body>
+</html>

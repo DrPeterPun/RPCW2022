@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Dark Blue</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Dark Blue</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Kurt Russell</il>
+						<il>Scott Speedman</il>
+						<il>Michael Michele</il>
+						<il>Brendan Gleeson</il>
+						<il>Ving Rhames</il>
+						<il>Kurupt</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Crime</il>
+			<il>Drama</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2003
+        </ul>
+    </body>
+</html>

@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Jay and Silent Bob Strike Back</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Jay and Silent Bob Strike Back</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Jason Mewes</il>
+						<il>Kevin Smith</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Comedy</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2001
+        </ul>
+    </body>
+</html>

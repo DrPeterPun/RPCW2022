@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>The Battery</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>The Battery</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Jeremy Gardner</il>
+						<il>Adam Cronheim</il>
+						<il>Niels Bolle</il>
+						<il>Alana O'Brien</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Drama</il>
+			<il>Horror</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2012
+        </ul>
+    </body>
+</html>

@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Oz the Great and Powerful</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Oz the Great and Powerful</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>James Franco</il>
+						<il>Mila Kunis</il>
+						<il>Rachel Weisz</il>
+						<il>Michelle Williams</il>
+						<il>Zach Braff</il>
+						<il>Bill Cobbs</il>
+						<il>Joey King</il>
+						<il>(voice)</il>
+						<il>Tony Cox</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Adventure</il>
+			<il>Fantasy</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2013
+        </ul>
+    </body>
+</html>

@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Terror Tract</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Terror Tract</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>John Ritter</il>
+						<il>David DeLuise</il>
+						<il>Allison Smith</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Comedy</il>
+			<il>Horror</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2000
+        </ul>
+    </body>
+</html>

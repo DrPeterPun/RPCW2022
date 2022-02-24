@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Casino Jack</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Casino Jack</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Kevin Spacey</il>
+						<il>Barry Pepper</il>
+						<il>Kelly Preston</il>
+						<il>Jon Lovitz</il>
+						<il>Rachelle Lefevre</il>
+						<il>Daniel Kash</il>
+						<il>Graham Greene</il>
+						<il>Maury Chaykin</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Political</il>
+			<il>Drama</il>
+			<il>Thriller</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2010
+        </ul>
+    </body>
+</html>

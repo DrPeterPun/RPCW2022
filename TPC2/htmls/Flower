@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Flower</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Flower</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Zoey Deutch</il>
+						<il>Kathryn Hahn</il>
+						<il>Tim Heidecker</il>
+						<il>Joey Morgan</il>
+						<il>Adam Scott</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Comedy</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2018
+        </ul>
+    </body>
+</html>

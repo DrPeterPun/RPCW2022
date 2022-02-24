@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Akeelah and the Bee</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Akeelah and the Bee</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Keke Palmer</il>
+						<il>Laurence Fishburne</il>
+						<il>Angela Bassett</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Family</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2006
+        </ul>
+    </body>
+</html>

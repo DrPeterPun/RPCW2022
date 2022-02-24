@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Vanilla Sky</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Vanilla Sky</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Tom Cruise</il>
+						<il>Penélope Cruz</il>
+						<il>Cameron Diaz</il>
+						<il>Jason Lee</il>
+						<il>Kurt Russell</il>
+						<il>Noah Taylor</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Thriller</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2001
+        </ul>
+    </body>
+</html>

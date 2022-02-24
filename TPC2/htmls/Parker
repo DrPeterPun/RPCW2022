@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Parker</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Parker</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Jason Statham</il>
+						<il>Jennifer Lopez</il>
+						<il>Michael Chiklis</il>
+						<il>Bobby Cannavale</il>
+						<il>and</il>
+						<il>Nick Nolte</il>
+						<il>Clifton Collins, Jr.</il>
+						<il>Wendell Pierce</il>
+						<il>Patti LuPone</il>
+						<il>Carlos Carrasco</il>
+						<il>Micah A. Hauptman</il>
+						<il>Emma Booth</il>
+						<il>Daniel Bernhardt</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Crime</il>
+			<il>Thriller</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2013
+        </ul>
+    </body>
+</html>

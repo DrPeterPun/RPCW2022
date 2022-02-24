@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>The Brothers Bloom</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>The Brothers Bloom</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Adrien Brody</il>
+						<il>Mark Ruffalo</il>
+						<il>Rachel Weisz</il>
+						<il>Rinko Kikuchi</il>
+						<il>Robbie Coltrane</il>
+						<il>Maximilian Schell</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Comedy</il>
+			<il>Crime</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2009
+        </ul>
+    </body>
+</html>

@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Snow Dogs</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Snow Dogs</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Cuba Gooding Jr.</il>
+						<il>James Coburn</il>
+						<il>Nichelle Nichols</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Family</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2002
+        </ul>
+    </body>
+</html>

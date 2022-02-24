@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>The Nun</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>The Nun</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Demián Bichir</il>
+						<il>Taissa Farmiga</il>
+						<il>Jonas Bloquet</il>
+						<il>Charlotte Hope</il>
+						<il>Ingrid Bisu</il>
+						<il>Bonnie Aarons</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Horror</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2018
+        </ul>
+    </body>
+</html>

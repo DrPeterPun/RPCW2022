@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Just Go with It</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Just Go with It</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Adam Sandler</il>
+						<il>Jennifer Aniston</il>
+						<il>Brooklyn Decker</il>
+						<il>Nick Swardson</il>
+						<il>Nicole Kidman</il>
+						<il>Dave Matthews</il>
+						<il>Bailee Madison</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Romance</il>
+			<il>Comedy</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2011
+        </ul>
+    </body>
+</html>

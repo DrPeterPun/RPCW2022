@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>xXx</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>xXx</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Vin Diesel</il>
+						<il>Asia Argento</il>
+						<il>Marton Csokas</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Action</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2002
+        </ul>
+    </body>
+</html>

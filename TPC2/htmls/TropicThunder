@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Tropic Thunder</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Tropic Thunder</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Ben Stiller</il>
+						<il>Jack Black</il>
+						<il>Robert Downey, Jr.</il>
+						<il>Steve Coogan</il>
+						<il>Nick Nolte</il>
+						<il>Tom Cruise</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Comedy</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2008
+        </ul>
+    </body>
+</html>

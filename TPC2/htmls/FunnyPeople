@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Funny People</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Funny People</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Adam Sandler</il>
+						<il>Seth Rogen</il>
+						<il>Leslie Mann</il>
+						<il>Eric Bana</il>
+						<il>Jonah Hill</il>
+						<il>RZA</il>
+						<il>Jason Schwartzman</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Comedy</il>
+			<il>Drama</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2009
+        </ul>
+    </body>
+</html>

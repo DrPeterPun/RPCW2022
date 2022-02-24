@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Beyond the Sea</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Beyond the Sea</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Kevin Spacey</il>
+						<il>Kate Bosworth</il>
+						<il>Bob Hoskins</il>
+						<il>John Goodman</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Biography</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2004
+        </ul>
+    </body>
+</html>

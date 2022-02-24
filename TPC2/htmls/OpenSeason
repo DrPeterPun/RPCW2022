@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Open Season</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Open Season</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Martin Lawrence</il>
+						<il>Ashton Kutcher</il>
+						<il>Debra Messing</il>
+						<il>Gary Sinise</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Animated</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2006
+        </ul>
+    </body>
+</html>

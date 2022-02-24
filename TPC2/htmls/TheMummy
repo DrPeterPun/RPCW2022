@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>The Mummy</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>The Mummy</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Tom Cruise</il>
+						<il>Russell Crowe</il>
+						<il>Sofia Boutella</il>
+						<il>Annabelle Wallis</il>
+						<il>Jake Johnson</il>
+						<il>Marwan Kenzari</il>
+						<il>Courtney B. Vance</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Action</il>
+			<il>Adventure</il>
+			<il>Fantasy</il>
+			<il>Horror</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2017
+        </ul>
+    </body>
+</html>

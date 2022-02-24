@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Rise of the Planet of the Apes</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Rise of the Planet of the Apes</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>James Franco</il>
+						<il>Freida Pinto</il>
+						<il>Andy Serkis</il>
+						<il>Tom Felton</il>
+						<il>David Hewlett</il>
+						<il>Chelah Horsdal</il>
+						<il>Brian Cox</il>
+						<il>Jamie Harris</il>
+						<il>Tyler Labine</il>
+						<il>David Oyelowo</il>
+						<il>John Lithgow</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Science Fiction</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2011
+        </ul>
+    </body>
+</html>

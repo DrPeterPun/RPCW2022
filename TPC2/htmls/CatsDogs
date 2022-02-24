@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Cats & Dogs</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Cats & Dogs</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Jeff Goldblum</il>
+						<il>Elizabeth Perkins</il>
+						<il>Tobey Maguire</il>
+						<il>Sean Hayes</il>
+						<il>Alec Baldwin</il>
+						<il>Alexander Pollock</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Comedy</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2001
+        </ul>
+    </body>
+</html>

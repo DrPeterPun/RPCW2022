@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>American Animals</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>American Animals</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Evan Peters</il>
+						<il>Barry Keoghan</il>
+						<il>Blake Jenner</il>
+						<il>Jared Abrahamson</il>
+						<il>Udo Kier</il>
+						<il>Ann Dowd</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Crime</il>
+			<il>Drama</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2018
+        </ul>
+    </body>
+</html>

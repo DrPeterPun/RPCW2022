@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>The Smurfs: The Legend of Smurfy Hollow</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>The Smurfs: The Legend of Smurfy Hollow</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Fred Armisen</il>
+						<il>Melissa Sturm</il>
+						<il>Jack Angel</il>
+						<il>Alan Cumming</il>
+						<il>Anton Yelchin</il>
+						<il>Hank Azaria</il>
+						<il>Tom Kane</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Animated</il>
+			<il>Family</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2013
+        </ul>
+    </body>
+</html>

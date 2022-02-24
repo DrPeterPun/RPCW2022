@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Scream 3</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Scream 3</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>David Arquette</il>
+						<il>Neve Campbell</il>
+						<il>Courteney Cox</il>
+						<il>Patrick Dempsey</il>
+						<il>Scott Foley</il>
+						<il>Emily Mortimer</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Horror</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2000
+        </ul>
+    </body>
+</html>

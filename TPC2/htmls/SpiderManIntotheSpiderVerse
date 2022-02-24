@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Spider-Man: Into the Spider-Verse</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Spider-Man: Into the Spider-Verse</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Shameik Moore</il>
+						<il>Hailee Steinfeld</il>
+						<il>Mahershala Ali</il>
+						<il>Jake Johnson</il>
+						<il>Liev Schreiber</il>
+						<il>Brian Tyree Henry</il>
+						<il>Luna Lauren Velez</il>
+						<il>Lily Tomlin</il>
+						<il>John Mulaney</il>
+						<il>Kimiko Glenn</il>
+						<il>Nicholas Cage</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Animated</il>
+			<il>Superhero</il>
+			<il>Action</il>
+			<il>Comedy</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2018
+        </ul>
+    </body>
+</html>

@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>War Dogs</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>War Dogs</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Jonah Hill</il>
+						<il>Miles Teller</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Crime</il>
+			<il>Drama</il>
+			<il>Comedy</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2016
+        </ul>
+    </body>
+</html>

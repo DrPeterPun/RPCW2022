@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Resurrecting the Champ</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Resurrecting the Champ</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Samuel L. Jackson</il>
+						<il>Josh Hartnett</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Drama</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2007
+        </ul>
+    </body>
+</html>

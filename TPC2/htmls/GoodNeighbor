@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Good Neighbor</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Good Neighbor</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Billy Dee Williams</il>
+						<il>Danica McKellar</il>
+						<il>Tobin Bell</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Thriller</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2001
+        </ul>
+    </body>
+</html>

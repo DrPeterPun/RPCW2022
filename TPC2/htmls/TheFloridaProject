@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>The Florida Project</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>The Florida Project</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Willem Dafoe</il>
+						<il>Bria Vinaite</il>
+						<il>Brooklynn Prince</il>
+						<il>Valeria Cotto</il>
+						<il>Caleb Landry Jones</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Drama</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2017
+        </ul>
+    </body>
+</html>

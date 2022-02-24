@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Superman Returns</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Superman Returns</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Brandon Routh</il>
+						<il>Kate Bosworth</il>
+						<il>Kevin Spacey</il>
+						<il>Frank Langella</il>
+						<il>James Marsden</il>
+						<il>Eva Marie Saint</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Superhero</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2006
+        </ul>
+    </body>
+</html>

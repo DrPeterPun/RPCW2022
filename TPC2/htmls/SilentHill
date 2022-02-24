@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Silent Hill</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Silent Hill</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Radha Mitchell</il>
+						<il>Sean Bean</il>
+						<il>Laurie Holden</il>
+						<il>Jodelle Ferland</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Horror</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2006
+        </ul>
+    </body>
+</html>

@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Monster Trucks</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Monster Trucks</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Lucas Till</il>
+						<il>Jane Levy</il>
+						<il>Amy Ryan</il>
+						<il>Holt McCallany</il>
+						<il>Rob Lowe</il>
+						<il>Danny Glover</il>
+						<il>Frank Whaley</il>
+						<il>Chad Willett</il>
+						<il>Barry Pepper</il>
+						<il>Thomas Lennon</il>
+						<il>Tucker Albrizzi</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Animated</il>
+			<il>Adventure</il>
+			<il>Science Fiction</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2017
+        </ul>
+    </body>
+</html>

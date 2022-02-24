@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Night School</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Night School</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Kevin Hart</il>
+						<il>Tiffany Haddish</il>
+						<il>Taran Killam</il>
+						<il>Rob Riggle</il>
+						<il>Ben Schwartz</il>
+						<il>Yvonne Orji</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Comedy</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2018
+        </ul>
+    </body>
+</html>

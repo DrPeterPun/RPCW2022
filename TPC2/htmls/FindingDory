@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Finding Dory</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Finding Dory</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Ellen DeGeneres</il>
+						<il>Albert Brooks</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Animated</il>
+			<il>Adventure</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2016
+        </ul>
+    </body>
+</html>

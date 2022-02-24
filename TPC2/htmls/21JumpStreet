@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>21 Jump Street</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>21 Jump Street</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Jonah Hill</il>
+						<il>Channing Tatum</il>
+						<il>Brie Larson</il>
+						<il>Ice Cube</il>
+						<il>Ellie Kemper</il>
+						<il>Dave Franco</il>
+						<il>Rob Riggle</il>
+						<il>Johnny Depp</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Action</il>
+			<il>Comedy</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2012
+        </ul>
+    </body>
+</html>

@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>View from the Top</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>View from the Top</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Gwyneth Paltrow</il>
+						<il>Christina Applegate</il>
+						<il>Mark Ruffalo</il>
+						<il>Kelly Preston</il>
+						<il>Rob Lowe</il>
+						<il>Candice Bergen</il>
+						<il>Mike Myers</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Romance</il>
+			<il>Comedy</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2003
+        </ul>
+    </body>
+</html>

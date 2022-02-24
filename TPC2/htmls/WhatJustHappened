@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>What Just Happened</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>What Just Happened</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Robert De Niro</il>
+						<il>Sean Penn</il>
+						<il>Catherine Keener</il>
+						<il>John Turturro</il>
+						<il>Kristen Stewart</il>
+						<il>Stanley Tucci</il>
+						<il>Bruce Willis</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Comedy</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2008
+        </ul>
+    </body>
+</html>

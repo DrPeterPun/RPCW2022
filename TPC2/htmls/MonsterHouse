@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Monster House</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Monster House</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Mitchel Musso</il>
+						<il>Sam Lerner</il>
+						<il>Spencer Locke</il>
+						<il>Steve Buscemi</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Animated</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2006
+        </ul>
+    </body>
+</html>

@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>The Holiday</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>The Holiday</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Cameron Diaz</il>
+						<il>Kate Winslet</il>
+						<il>Jude Law</il>
+						<il>Jack Black</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Romance</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2006
+        </ul>
+    </body>
+</html>

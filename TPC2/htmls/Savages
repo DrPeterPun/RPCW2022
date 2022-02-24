@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Savages</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Savages</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Taylor Kitsch</il>
+						<il>Aaron Johnson</il>
+						<il>Blake Lively</il>
+						<il>Uma Thurman</il>
+						<il>Salma Hayek</il>
+						<il>Benicio del Toro</il>
+						<il>Emile Hirsch</il>
+						<il>John Travolta</il>
+						<il>Joel David Moore</il>
+						<il>Demián Bichir</il>
+						<il>Mía Maestro</il>
+						<il>Trevor Donovan</il>
+						<il>Sandra Echeverría</il>
+						<il>Gillian Zinser</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Crime</il>
+			<il>Thriller</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2012
+        </ul>
+    </body>
+</html>

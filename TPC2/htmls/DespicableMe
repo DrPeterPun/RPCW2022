@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Despicable Me</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Despicable Me</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Steve Carell</il>
+						<il>Miranda Cosgrove</il>
+						<il>Jason Segel</il>
+						<il>Russell Brand</il>
+						<il>Kristen Wiig</il>
+						<il>Will Arnett</il>
+						<il>Ken Jeong</il>
+						<il>Danny McBride</il>
+						<il>Julie Andrews</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Animated</il>
+			<il>Family</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2010
+        </ul>
+    </body>
+</html>

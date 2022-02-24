@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Raze</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Raze</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Zoë Bell</il>
+						<il>Rachel Nichols</il>
+						<il>Tracie Thoms</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Thriller</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2014
+        </ul>
+    </body>
+</html>

@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Widows</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Widows</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Viola Davis</il>
+						<il>Michelle Rodriguez</il>
+						<il>Elizabeth Debicki</il>
+						<il>Cynthia Erivo</il>
+						<il>Colin Farrell</il>
+						<il>Brian Tyree Henry</il>
+						<il>Daniel Kaluuya</il>
+						<il>Garret Dillahunt</il>
+						<il>Carrie Coon</il>
+						<il>Jacki Weaver</il>
+						<il>Jon Bernthal</il>
+						<il>Manuel Garcia-Rulfo</il>
+						<il>Robert Duvall</il>
+						<il>Liam Neeson</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Action</il>
+			<il>Thriller</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2018
+        </ul>
+    </body>
+</html>

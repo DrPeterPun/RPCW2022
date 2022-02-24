@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Old School</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Old School</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Luke Wilson</il>
+						<il>Will Ferrell</il>
+						<il>Vince Vaughn</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Comedy</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2003
+        </ul>
+    </body>
+</html>

@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Behind the Candelabra</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Behind the Candelabra</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Michael Douglas</il>
+						<il>Matt Damon</il>
+						<il>Dan Aykroyd</il>
+						<il>Scott Bakula</il>
+						<il>Rob Lowe</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Drama</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2013
+        </ul>
+    </body>
+</html>

@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Nancy Drew</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Nancy Drew</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Emma Roberts</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Crime</il>
+			<il>Family</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2007
+        </ul>
+    </body>
+</html>

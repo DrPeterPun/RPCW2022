@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>One Night with the King</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>One Night with the King</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Tiffany Dupont</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Drama</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2006
+        </ul>
+    </body>
+</html>

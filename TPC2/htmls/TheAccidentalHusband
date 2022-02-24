@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>The Accidental Husband</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>The Accidental Husband</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Uma Thurman</il>
+						<il>Jeffrey Dean Morgan</il>
+						<il>Colin Firth</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Romance</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2008
+        </ul>
+    </body>
+</html>

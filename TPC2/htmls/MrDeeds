@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Mr. Deeds</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Mr. Deeds</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Adam Sandler</il>
+						<il>Winona Ryder</il>
+						<il>John Turturro</il>
+						<il>Peter Gallagher</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Comedy</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2002
+        </ul>
+    </body>
+</html>

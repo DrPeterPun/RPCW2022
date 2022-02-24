@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Deadpool</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Deadpool</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Ryan Reynolds</il>
+						<il>T.J. Miller</il>
+						<il>Morena Baccarin</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Thriller</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2016
+        </ul>
+    </body>
+</html>

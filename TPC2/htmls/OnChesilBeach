@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>On Chesil Beach</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>On Chesil Beach</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Saoirse Ronan</il>
+						<il>Billy Howle</il>
+						<il>Emily Watson</il>
+						<il>Anne-Marie Duff</il>
+						<il>Samuel West</il>
+						<il>Adrian Scarborough</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Drama</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2018
+        </ul>
+    </body>
+</html>

@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Uncle Drew</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Uncle Drew</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Kyrie Irving</il>
+						<il>Lil Rel Howery</il>
+						<il>Shaquille O'Neal</il>
+						<il>Reggie Miller</il>
+						<il>Nate Robinson</il>
+						<il>Chris Webber</il>
+						<il>Erica Ash</il>
+						<il>Lisa Leslie</il>
+						<il>Nick Kroll</il>
+						<il>Tiffany Haddish</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Comedy</il>
+			<il>Family</il>
+			<il>Sports</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2018
+        </ul>
+    </body>
+</html>

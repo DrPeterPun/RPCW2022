@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Duck</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Duck</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Philip Baker Hall</il>
+						<il>Bill Cobbs</il>
+						<il>Bill Brochtrup</il>
+						<il>Amy Hill</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Drama</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2005
+        </ul>
+    </body>
+</html>

@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Kong: Skull Island</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Kong: Skull Island</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Tom Hiddleston</il>
+						<il>Brie Larson</il>
+						<il>Samuel L. Jackson</il>
+						<il>John Goodman</il>
+						<il>John C. Reilly</il>
+						<il>Toby Kebbell</il>
+						<il>Jing Tian</il>
+						<il>Jason Mitchell</il>
+						<il>Corey Hawkins</il>
+						<il>Thomas Mann</il>
+						<il>John Ortiz</il>
+						<il>Shea Whigham</il>
+						<il>Terry Notary</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Action</il>
+			<il>Adventure</il>
+			<il>Fantasy</il>
+			<il>Science Fiction</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2017
+        </ul>
+    </body>
+</html>

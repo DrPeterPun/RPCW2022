@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Hey Arnold!: The Movie</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Hey Arnold!: The Movie</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Spencer Klein</il>
+						<il>Francesca Smith</il>
+						<il>Jamil Walker Smith</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Animated</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2002
+        </ul>
+    </body>
+</html>

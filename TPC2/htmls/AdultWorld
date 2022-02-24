@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Adult World</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Adult World</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Emma Roberts</il>
+						<il>John Cusack</il>
+						<il>Evan Peters</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Comedy</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2014
+        </ul>
+    </body>
+</html>

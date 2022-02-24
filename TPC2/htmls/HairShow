@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Hair Show</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Hair Show</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Kellita Smith</il>
+						<il>Mo'Nique</il>
+						<il>David Ramsey</il>
+						<il>Gina Torres</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Comedy</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2004
+        </ul>
+    </body>
+</html>

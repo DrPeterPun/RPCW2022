@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>The Hate U Give</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>The Hate U Give</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Amandla Stenberg</il>
+						<il>Regina Hall</il>
+						<il>Russell Hornsby</il>
+						<il>KJ Apa</il>
+						<il>Algee Smith</il>
+						<il>Lamar Johnson</il>
+						<il>Issa Rae</il>
+						<il>Sabrina Carpenter</il>
+						<il>Common</il>
+						<il>Anthony Mackie</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Drama</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2018
+        </ul>
+    </body>
+</html>

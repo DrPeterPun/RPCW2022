@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Bee Season</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Bee Season</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Richard Gere</il>
+						<il>Juliette Binoche</il>
+						<il>Flora Cross</il>
+						<il>Max Minghella</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Drama</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2005
+        </ul>
+    </body>
+</html>

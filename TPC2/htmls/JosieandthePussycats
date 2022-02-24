@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Josie and the Pussycats</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Josie and the Pussycats</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Rachael Leigh Cook</il>
+						<il>Tara Reid</il>
+						<il>Rosario Dawson</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Musical</il>
+			<il>Comedy</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2001
+        </ul>
+    </body>
+</html>

@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Puff, Puff, Pass</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Puff, Puff, Pass</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Danny Masterson</il>
+						<il>Ronnie Warner</il>
+						<il>Mekhi Phifer</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Comedy</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2006
+        </ul>
+    </body>
+</html>

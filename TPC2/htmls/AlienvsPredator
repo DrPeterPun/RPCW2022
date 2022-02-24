@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Alien vs. Predator</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Alien vs. Predator</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Sanaa Lathan</il>
+						<il>Lance Henriksen</il>
+						<il>Raoul Bova</il>
+						<il>Ewen Bremner</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Horror</il>
+			<il>Science Fiction</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2004
+        </ul>
+    </body>
+</html>

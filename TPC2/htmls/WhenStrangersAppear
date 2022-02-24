@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>When Strangers Appear</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>When Strangers Appear</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Radha Mitchell</il>
+						<il>Barry Watson</il>
+						<il>Josh Lucas</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Drama</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2001
+        </ul>
+    </body>
+</html>

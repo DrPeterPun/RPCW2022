@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>High School</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>High School</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Adrien Brody</il>
+						<il>Sean Marquette</il>
+						<il>Matt Bush</il>
+						<il>Colin Hanks</il>
+						<il>Adhir Kalyan</il>
+						<il>and</il>
+						<il>Michael Chiklis</il>
+						<il>Robert Bailey, Jr.</il>
+						<il>Mykelti Williamson</il>
+						<il>Andrew Wilson</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Comedy</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2012
+        </ul>
+    </body>
+</html>

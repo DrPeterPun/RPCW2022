@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Think Like a Man Too</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Think Like a Man Too</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Michael Ealy</il>
+						<il>Jerry Ferrara</il>
+						<il>Meagan Good</il>
+						<il>Regina Hall</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Comedy</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2014
+        </ul>
+    </body>
+</html>

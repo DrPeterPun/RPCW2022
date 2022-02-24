@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Terminal</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Terminal</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Margot Robbie</il>
+						<il>Simon Pegg</il>
+						<il>Dexter Fletcher</il>
+						<il>Max Irons</il>
+						<il>Mike Myers</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Drama</il>
+			<il>Thriller</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2018
+        </ul>
+    </body>
+</html>

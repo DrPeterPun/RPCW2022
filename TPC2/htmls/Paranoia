@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Paranoia</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Paranoia</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Liam Hemsworth</il>
+						<il>Gary Oldman</il>
+						<il>Amber Heard</il>
+						<il>Harrison Ford</il>
+						<il>Lucas Till</il>
+						<il>Embeth Davidtz</il>
+						<il>Julian McMahon</il>
+						<il>Josh Holloway</il>
+						<il>and</il>
+						<il>Richard Dreyfuss</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Thriller</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2013
+        </ul>
+    </body>
+</html>

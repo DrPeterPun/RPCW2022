@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Knight and Day</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Knight and Day</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Tom Cruise</il>
+						<il>Cameron Diaz</il>
+						<il>Maggie Grace</il>
+						<il>Peter Sarsgaard</il>
+						<il>Paul Dano</il>
+						<il>Viola Davis</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Action</il>
+			<il>Comedy</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2010
+        </ul>
+    </body>
+</html>

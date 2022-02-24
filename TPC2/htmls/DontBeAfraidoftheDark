@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Don't Be Afraid of the Dark</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Don't Be Afraid of the Dark</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Katie Holmes</il>
+						<il>Guy Pearce</il>
+						<il>Bailee Madison</il>
+						<il>Jack Thompson</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Horror</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2011
+        </ul>
+    </body>
+</html>

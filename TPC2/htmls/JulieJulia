@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Julie & Julia</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Julie & Julia</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Meryl Streep</il>
+						<il>Amy Adams</il>
+						<il>Stanley Tucci</il>
+						<il>Chris Messina</il>
+						<il>Linda Emond</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Biography</il>
+			<il>Romance</il>
+			<il>Comedy</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2009
+        </ul>
+    </body>
+</html>

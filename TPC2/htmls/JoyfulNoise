@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Joyful Noise</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Joyful Noise</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Queen Latifah</il>
+						<il>Dolly Parton</il>
+						<il>Keke Palmer</il>
+						<il>Jeremy Jordan</il>
+						<il>Courtney B. Vance</il>
+						<il>Kris Kristofferson</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Comedy</il>
+			<il>Musical</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2012
+        </ul>
+    </body>
+</html>

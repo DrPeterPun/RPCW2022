@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Pitch Perfect 2</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Pitch Perfect 2</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Anna Kendrick</il>
+						<il>Skylar Astin</il>
+						<il>Rebel Wilson</il>
+						<il>Brittany Snow</il>
+						<il>Ester Dean</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Comedy</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2015
+        </ul>
+    </body>
+</html>

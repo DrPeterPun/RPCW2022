@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>The Greatest Showman</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>The Greatest Showman</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Hugh Jackman</il>
+						<il>Zac Efron</il>
+						<il>Rebecca Ferguson</il>
+						<il>Michelle Williams</il>
+						<il>Yahya Abdul-Mateen II</il>
+						<il>Zendaya</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Biography</il>
+			<il>Musical</il>
+			<il>Drama</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2017
+        </ul>
+    </body>
+</html>

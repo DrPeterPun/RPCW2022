@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Excision</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Excision</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>AnnaLynne McCord</il>
+						<il>Traci Lords</il>
+						<il>Ariel Winter</il>
+						<il>Roger Bart</il>
+						<il>Jeremy Sumpter</il>
+						<il>Malcolm McDowell</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Horror</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2012
+        </ul>
+    </body>
+</html>

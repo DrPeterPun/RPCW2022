@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Freddy vs. Jason</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Freddy vs. Jason</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Robert Englund</il>
+						<il>Ken Kirzinger</il>
+						<il>Monica Keena</il>
+						<il>Jason Ritter</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Horror</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2003
+        </ul>
+    </body>
+</html>

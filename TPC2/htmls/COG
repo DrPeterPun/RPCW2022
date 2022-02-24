@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>C.O.G.</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>C.O.G.</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Jonathan Groff</il>
+						<il>Denis O'Hare</il>
+						<il>Casey Wilson</il>
+						<il>Dean Stockwell</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Drama</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2013
+        </ul>
+    </body>
+</html>

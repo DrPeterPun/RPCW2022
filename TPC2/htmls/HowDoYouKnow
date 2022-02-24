@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>How Do You Know</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>How Do You Know</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Reese Witherspoon</il>
+						<il>Owen Wilson</il>
+						<il>Paul Rudd</il>
+						<il>Jack Nicholson</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Romance</il>
+			<il>Comedy</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2010
+        </ul>
+    </body>
+</html>

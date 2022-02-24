@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Ghost World</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Ghost World</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Thora Birch</il>
+						<il>Scarlett Johansson</il>
+						<il>Brad Renfro</il>
+						<il>Illeana Douglas</il>
+						<il>Steve Buscemi</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Drama</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2001
+        </ul>
+    </body>
+</html>

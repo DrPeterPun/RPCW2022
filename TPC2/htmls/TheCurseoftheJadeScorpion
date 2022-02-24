@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>The Curse of the Jade Scorpion</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>The Curse of the Jade Scorpion</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Woody Allen</il>
+						<il>Elizabeth Berkley</il>
+						<il>Helen Hunt</il>
+						<il>Dan Aykroyd</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Comedy</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2001
+        </ul>
+    </body>
+</html>

@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Okja</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Okja</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Tilda Swinton</il>
+						<il>Paul Dano</il>
+						<il>Ahn Seo-hyun</il>
+						<il>Byun Hee-bong</il>
+						<il>Steven Yeun</il>
+						<il>Lily Collins</il>
+						<il>Yoon Je-moon</il>
+						<il>Shirley Henderson</il>
+						<il>Daniel Henshall</il>
+						<il>Devon Bostick</il>
+						<il>Choi Woo-shik</il>
+						<il>Giancarlo Esposito</il>
+						<il>Jake Gyllenhaal</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Action</il>
+			<il>Adventure</il>
+			<il>Drama</il>
+			<il>Fantasy</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2017
+        </ul>
+    </body>
+</html>

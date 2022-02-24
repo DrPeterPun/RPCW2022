@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Austin Powers in Goldmember</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Austin Powers in Goldmember</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Mike Myers</il>
+						<il>Beyoncé Knowles</il>
+						<il>Michael Caine</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Comedy</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2002
+        </ul>
+    </body>
+</html>

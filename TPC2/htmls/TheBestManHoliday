@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>The Best Man Holiday</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>The Best Man Holiday</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Morris Chestnut</il>
+						<il>Taye Diggs</il>
+						<il>Regina Hall</il>
+						<il>Terrence Howard</il>
+						<il>Sanaa Lathan</il>
+						<il>Nia Long</il>
+						<il>Harold Perrineau</il>
+						<il>Monica Calhoun</il>
+						<il>Melissa De Sousa</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Romance</il>
+			<il>Comedy</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2013
+        </ul>
+    </body>
+</html>

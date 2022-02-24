@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>The Devil's Candy</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>The Devil's Candy</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Ethan Embry</il>
+						<il>Shiri Appleby</il>
+						<il>Kiara Glasco</il>
+						<il>Pruitt Taylor Vince</il>
+						<il>Craig Nigh</il>
+						<il>Marco Perella</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Horror</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2017
+        </ul>
+    </body>
+</html>

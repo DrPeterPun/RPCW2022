@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Leatherface</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Leatherface</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Stephen Dorff</il>
+						<il>Vanessa Grasse</il>
+						<il>Sam Strike</il>
+						<il>Lili Taylor</il>
+						<il>James Bloor</il>
+						<il>Jessica Madsen</il>
+						<il>Sam Coleman</il>
+						<il>Finn Jones</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Horror</il>
+			<il>Thriller</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2017
+        </ul>
+    </body>
+</html>

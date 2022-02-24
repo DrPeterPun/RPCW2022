@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Margin Call</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Margin Call</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Kevin Spacey</il>
+						<il>Paul Bettany</il>
+						<il>Jeremy Irons</il>
+						<il>Zachary Quinto</il>
+						<il>Penn Badgley</il>
+						<il>Simon Baker</il>
+						<il>Mary McDonnell</il>
+						<il>Demi Moore</il>
+						<il>Stanley Tucci</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Drama</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2011
+        </ul>
+    </body>
+</html>

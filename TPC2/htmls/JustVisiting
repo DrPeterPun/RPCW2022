@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Just Visiting</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Just Visiting</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Jean Reno</il>
+						<il>Christina Applegate</il>
+						<il>Christian Clavier</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Fantasy</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2001
+        </ul>
+    </body>
+</html>

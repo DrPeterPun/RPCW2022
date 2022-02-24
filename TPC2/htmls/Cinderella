@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Cinderella</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Cinderella</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Lily James</il>
+						<il>Richard Madden</il>
+						<il>Cate Blanchett</il>
+						<il>Helena Bonham Carter</il>
+						<il>Holliday Grainger</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Romance</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2015
+        </ul>
+    </body>
+</html>

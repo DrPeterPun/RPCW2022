@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>In the Mix</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>In the Mix</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Usher</il>
+						<il>Emmanuelle Chriqui</il>
+						<il>Chazz Palminteri</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Comedy</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2005
+        </ul>
+    </body>
+</html>

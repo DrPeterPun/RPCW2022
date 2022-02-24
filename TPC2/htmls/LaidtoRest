@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Laid to Rest</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Laid to Rest</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Bobbi Sue Luther</il>
+						<il>Kevin Gage</il>
+						<il>Sean Whalen</il>
+						<il>Johnathon Schaech</il>
+						<il>Thomas Dekker</il>
+						<il>Nick Principe</il>
+						<il>Richard Lynch</il>
+						<il>Lena Headey</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Horror</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2009
+        </ul>
+    </body>
+</html>

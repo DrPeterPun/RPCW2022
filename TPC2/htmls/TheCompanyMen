@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>The Company Men</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>The Company Men</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Ben Affleck</il>
+						<il>Chris Cooper</il>
+						<il>Kevin Costner</il>
+						<il>Tommy Lee Jones</il>
+						<il>Maria Bello</il>
+						<il>Rosemarie DeWitt</il>
+						<il>Craig T. Nelson</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Drama</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2010
+        </ul>
+    </body>
+</html>

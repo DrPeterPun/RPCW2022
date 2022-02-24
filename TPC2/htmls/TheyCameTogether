@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>They Came Together</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>They Came Together</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Paul Rudd</il>
+						<il>Amy Poehler</il>
+						<il>Cobie Smulders</il>
+						<il>Christopher Meloni</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Comedy</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2014
+        </ul>
+    </body>
+</html>

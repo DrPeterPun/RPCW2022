@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Machete</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Machete</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Danny Trejo</il>
+						<il>Michelle Rodriguez</il>
+						<il>Cheech Marin</il>
+						<il>Jeff Fahey</il>
+						<il>Lindsay Lohan</il>
+						<il>Don Johnson</il>
+						<il>Jessica Alba</il>
+						<il>Steven Seagal</il>
+						<il>Robert De Niro</il>
+						<il>Daryl Sabara</il>
+						<il>Tom Savini</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Action</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2010
+        </ul>
+    </body>
+</html>

@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Gigantic</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Gigantic</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Paul Dano</il>
+						<il>Zooey Deschanel</il>
+						<il>Ed Asner</il>
+						<il>Jane Alexander</il>
+						<il>John Goodman</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Comedy</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2009
+        </ul>
+    </body>
+</html>

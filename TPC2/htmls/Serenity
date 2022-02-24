@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Serenity</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Serenity</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Matthew McConaughey</il>
+						<il>Anne Hathaway</il>
+						<il>Diane Lane</il>
+						<il>Jason Clarke</il>
+						<il>Djimon Hounsou</il>
+						<il>Jeremy Strong</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Noir</il>
+			<il>Thriller</il>
+			<il>Drama</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2018
+        </ul>
+    </body>
+</html>

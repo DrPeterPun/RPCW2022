@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Confessions of a Shopaholic</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Confessions of a Shopaholic</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Isla Fisher</il>
+						<il>Hugh Dancy</il>
+						<il>Joan Cusack</il>
+						<il>John Goodman</il>
+						<il>John Lithgow</il>
+						<il>Kristin Scott Thomas</il>
+						<il>Leslie Bibb</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Romance</il>
+			<il>Comedy</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2009
+        </ul>
+    </body>
+</html>

@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Welcome to the Rileys</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Welcome to the Rileys</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>James Gandolfini</il>
+						<il>Kristen Stewart</il>
+						<il>Melissa Leo</il>
+						<il>Ally Sheedy</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Drama</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2010
+        </ul>
+    </body>
+</html>

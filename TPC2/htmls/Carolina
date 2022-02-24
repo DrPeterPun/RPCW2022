@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Carolina</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Carolina</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Julia Stiles</il>
+						<il>Shirley MacLaine</il>
+						<il>Alessandro Nivola</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Romance</il>
+			<il>Comedy</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2003
+        </ul>
+    </body>
+</html>

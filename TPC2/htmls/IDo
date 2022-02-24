@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>I Do</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>I Do</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>David W. Ross</il>
+						<il>Jamie-Lynn Sigler</il>
+						<il>Grant Bowler</il>
+						<il>Alicia Witt</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Drama</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2012
+        </ul>
+    </body>
+</html>

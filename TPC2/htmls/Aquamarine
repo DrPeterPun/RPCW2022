@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Aquamarine</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Aquamarine</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Emma Roberts</il>
+						<il>Sara Paxton</il>
+						<il>JoJo</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Fantasy</il>
+			<il>Teen</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2006
+        </ul>
+    </body>
+</html>

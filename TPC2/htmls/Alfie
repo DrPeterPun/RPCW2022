@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Alfie</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Alfie</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Jude Law</il>
+						<il>Susan Sarandon</il>
+						<il>Marisa Tomei</il>
+						<il>Nia Long</il>
+						<il>Sienna Miller</il>
+						<il>Jane Krakowski</il>
+						<il>Omar Epps</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Comedy</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2004
+        </ul>
+    </body>
+</html>

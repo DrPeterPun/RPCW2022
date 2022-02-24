@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Paranoid Park</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Paranoid Park</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Gabe Nevins</il>
+						<il>Jake Miller</il>
+						<il>Taylor Momsen</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Drama</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2007
+        </ul>
+    </body>
+</html>

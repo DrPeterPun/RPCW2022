@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Thor: Ragnarok</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Thor: Ragnarok</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Chris Hemsworth</il>
+						<il>Tom Hiddleston</il>
+						<il>Cate Blanchett</il>
+						<il>Idris Elba</il>
+						<il>Jeff Goldblum</il>
+						<il>Tessa Thompson</il>
+						<il>Karl Urban</il>
+						<il>Mark Ruffalo</il>
+						<il>Anthony Hopkins</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Superhero</il>
+			<il>Action</il>
+			<il>Adventure</il>
+			<il>Fantasy</il>
+			<il>Science Fiction</il>
+			<il>Comedy</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2017
+        </ul>
+    </body>
+</html>

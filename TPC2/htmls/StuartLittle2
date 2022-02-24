@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Stuart Little 2</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Stuart Little 2</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Geena Davis</il>
+						<il>Hugh Laurie</il>
+						<il>Jonathan Lipnicki</il>
+						<il>Michael J. Fox</il>
+						<il>Melanie Griffith</il>
+						<il>Nathan Lane</il>
+						<il>James Woods</il>
+						<il>Steve Zahn</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Family</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2002
+        </ul>
+    </body>
+</html>

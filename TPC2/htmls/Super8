@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Super 8</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Super 8</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Joel Courtney</il>
+						<il>Elle Fanning</il>
+						<il>Kyle Chandler</il>
+						<il>Ron Eldard</il>
+						<il>Noah Emmerich</il>
+						<il>Gabriel Basso</il>
+						<il>Riley Griffiths</il>
+						<il>Ryan Lee</il>
+						<il>Zach Mills</il>
+						<il>Amanda Michalka</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Science Fiction</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2011
+        </ul>
+    </body>
+</html>

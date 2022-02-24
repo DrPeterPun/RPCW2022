@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Brooklyn's Finest</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Brooklyn's Finest</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Richard Gere</il>
+						<il>Don Cheadle</il>
+						<il>Ethan Hawke</il>
+						<il>Wesley Snipes</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Crime</il>
+			<il>Drama</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2010
+        </ul>
+    </body>
+</html>

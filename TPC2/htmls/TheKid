@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>The Kid</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>The Kid</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Bruce Willis</il>
+						<il>Lily Tomlin</il>
+						<il>Jean Smart</il>
+						<il>Spencer Breslin</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Family</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2000
+        </ul>
+    </body>
+</html>

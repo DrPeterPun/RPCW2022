@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>My Little Pony: The Movie</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>My Little Pony: The Movie</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Tara Strong</il>
+						<il>Ashleigh Ball</il>
+						<il>Andrea Libman</il>
+						<il>Tabitha St. Germain</il>
+						<il>Cathy Weseluck</il>
+						<il>Kristin Chenoweth</il>
+						<il>Emily Blunt</il>
+						<il>Michael Peña</il>
+						<il>Uzo Aduba</il>
+						<il>Liev Schreiber</il>
+						<il>Taye Diggs</il>
+						<il>Sia</il>
+						<il>Zoe Saldana</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Animated</il>
+			<il>Adventure</il>
+			<il>Comedy</il>
+			<il>Family</il>
+			<il>Fantasy</il>
+			<il>Musical</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2017
+        </ul>
+    </body>
+</html>

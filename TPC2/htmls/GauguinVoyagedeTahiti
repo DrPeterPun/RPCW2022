@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Gauguin - Voyage de Tahiti</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Gauguin - Voyage de Tahiti</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Vincent Cassel</il>
+						<il>Tuheï Adams</il>
+						<il>Malik Zidi</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Biography</il>
+			<il>Drama</il>
+			<il>Romance</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2018
+        </ul>
+    </body>
+</html>

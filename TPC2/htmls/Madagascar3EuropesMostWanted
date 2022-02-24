@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Madagascar 3: Europe's Most Wanted</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Madagascar 3: Europe's Most Wanted</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Ben Stiller</il>
+						<il>Chris Rock</il>
+						<il>David Schwimmer</il>
+						<il>Jada Pinkett Smith</il>
+						<il>Frances McDormand</il>
+						<il>Sacha Baron Cohen</il>
+						<il>Cedric the Entertainer</il>
+						<il>Andy Richter</il>
+						<il>Bryan Cranston</il>
+						<il>Jessica Chastain</il>
+						<il>Martin Short</il>
+						<il>Paz Vega</il>
+						<il>Tom McGrath</il>
+						<il>Chris Miller</il>
+						<il>Christopher Knights</il>
+						<il>John DiMaggio</il>
+						<il>Conrad Vernon</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Animated</il>
+			<il>Family</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2012
+        </ul>
+    </body>
+</html>

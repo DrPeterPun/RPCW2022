@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Why Did I Get Married Too?</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Why Did I Get Married Too?</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Tyler Perry</il>
+						<il>Janet Jackson</il>
+						<il>Jill Scott</il>
+						<il>Malik Yoba</il>
+						<il>Richard T. Jones</il>
+						<il>Michael Jai White</il>
+						<il>Lamman Rucker</il>
+						<il>Sharon Leal</il>
+						<il>Tasha Smith</il>
+						<il>Denise Boutte</il>
+						<il>Keyshia Cole</il>
+						<il>Cicely Tyson</il>
+						<il>Louis Gossett, Jr.</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Comedy</il>
+			<il>Drama</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2010
+        </ul>
+    </body>
+</html>

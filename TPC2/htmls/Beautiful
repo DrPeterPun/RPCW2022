@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Beautiful</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Beautiful</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Minnie Driver</il>
+						<il>Hallie Kate Eisenberg</il>
+						<il>Kathleen Turner</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Comedy</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2000
+        </ul>
+    </body>
+</html>

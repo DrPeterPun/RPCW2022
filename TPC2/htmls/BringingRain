@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Bringing Rain</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Bringing Rain</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Adrian Grenier</il>
+						<il>Niesha Butler</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Drama</il>
+			<il>Romance</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2003
+        </ul>
+    </body>
+</html>

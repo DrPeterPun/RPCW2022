@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Lost in Florence</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Lost in Florence</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Brett Dalton</il>
+						<il>Stana Katic</il>
+						<il>Alessandra Mastronardi</il>
+						<il>Alessandro Preziosi</il>
+						<il>Emily Atack</il>
+						<il>Rob Aramayo</il>
+						<il>Marco Bonini</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Romance</il>
+			<il>Drama</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2017
+        </ul>
+    </body>
+</html>

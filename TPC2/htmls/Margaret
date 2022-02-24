@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Margaret</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Margaret</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Anna Paquin</il>
+						<il>J. Smith-Cameron</il>
+						<il>Jean Reno</il>
+						<il>Jeannie Berlin</il>
+						<il>Allison Janney</il>
+						<il>Matthew Broderick</il>
+						<il>Mark Ruffalo</il>
+						<il>Matt Damon</il>
+						<il>Kieran Culkin</il>
+						<il>Olivia Thirlby</il>
+						<il>John Gallagher, Jr.</il>
+						<il>Rosemarie DeWitt</il>
+						<il>Matt Bush</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Drama</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2011
+        </ul>
+    </body>
+</html>

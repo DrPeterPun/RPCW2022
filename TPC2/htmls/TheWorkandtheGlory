@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>The Work and the Glory</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>The Work and the Glory</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Sam Hennings</il>
+						<il>Brenda Strong</il>
+						<il>Eric Johnson</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Drama</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2004
+        </ul>
+    </body>
+</html>

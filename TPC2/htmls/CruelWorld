@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Cruel World</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Cruel World</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Edward Furlong</il>
+						<il>Susan Ward</il>
+						<il>Daniel Franzese</il>
+						<il>Andrew Keegan</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Horror</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2005
+        </ul>
+    </body>
+</html>

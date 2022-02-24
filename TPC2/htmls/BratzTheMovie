@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Bratz: The Movie</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Bratz: The Movie</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Nathalia Ramos</il>
+						<il>Skyler Shaye</il>
+						<il>Logan Browning</il>
+						<il>Janel Parrish</il>
+						<il>Chelsea Staub</il>
+						<il>Lainie Kazan</il>
+						<il>Jon Voight</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Comedy</il>
+			<il>Family</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2007
+        </ul>
+    </body>
+</html>

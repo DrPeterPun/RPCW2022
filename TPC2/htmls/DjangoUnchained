@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Django Unchained</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Django Unchained</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Jamie Foxx</il>
+						<il>Christoph Waltz</il>
+						<il>Leonardo DiCaprio</il>
+						<il>Kerry Washington</il>
+						<il>Samuel L. Jackson</il>
+						<il>Walton Goggins</il>
+						<il>Dennis Christopher</il>
+						<il>James Remar</il>
+						<il>Michael Parks</il>
+						<il>Don Johnson</il>
+						<il>Laura Cayouette</il>
+						<il>James Russo</il>
+						<il>Tom Wopat</il>
+						<il>Misty Upham</il>
+						<il>Rex Linn</il>
+						<il>Cooper Huckabee</il>
+						<il>Doc Duhame</il>
+						<il>M. C. Gainey</il>
+						<il>Bruce Dern</il>
+						<il>Ned Bellamy</il>
+						<il>Franco Nero</il>
+						<il>Jonah Hill</il>
+						<il>Robert Carradine</il>
+						<il>James Parks</il>
+						<il>Tom Savini</il>
+						<il>Quentin Tarantino</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Western</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2012
+        </ul>
+    </body>
+</html>

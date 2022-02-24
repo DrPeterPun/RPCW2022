@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Downsizing</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Downsizing</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Matt Damon</il>
+						<il>Christoph Waltz</il>
+						<il>Hong Chau</il>
+						<il>Kristen Wiig</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Science Fiction</il>
+			<il>Comedy</il>
+			<il>Drama</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2017
+        </ul>
+    </body>
+</html>

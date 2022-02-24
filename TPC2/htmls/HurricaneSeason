@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Hurricane Season</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Hurricane Season</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Forest Whitaker</il>
+						<il>Lil Wayne</il>
+						<il>Bow Wow</il>
+						<il>Isaiah Washington</il>
+						<il>Taraji P. Henson</il>
+						<il>Michael Gaston</il>
+						<il>Jackie Long</il>
+						<il>Khleo Thomas</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Drama</il>
+			<il>Sports</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2010
+        </ul>
+    </body>
+</html>

@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Hoodwinked Too! Hood vs. Evil</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Hoodwinked Too! Hood vs. Evil</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Hayden Panettiere</il>
+						<il>Glenn Close</il>
+						<il>Patrick Warburton</il>
+						<il>Joan Cusack</il>
+						<il>Bill Hader</il>
+						<il>Amy Poehler</il>
+						<il>Andy Dick</il>
+						<il>David Ogden Stiers</il>
+						<il>Cory Edwards</il>
+						<il>Martin Short</il>
+						<il>Debra Wilson</il>
+						<il>Brad Garrett</il>
+						<il>Wayne Newton</il>
+						<il>David Alan Grier</il>
+						<il>Cheech Marin</il>
+						<il>Tommy Chong</il>
+						<il>Rob Paulsen</il>
+						<il>Heidi Klum</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Animated</il>
+			<il>Family</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2011
+        </ul>
+    </body>
+</html>

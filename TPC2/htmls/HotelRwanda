@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Hotel Rwanda</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Hotel Rwanda</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Don Cheadle</il>
+						<il>Sophie Okonedo</il>
+						<il>Nick Nolte</il>
+						<il>Joaquin Phoenix</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Drama</il>
+			<il>War</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2004
+        </ul>
+    </body>
+</html>

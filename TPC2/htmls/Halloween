@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Halloween</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Halloween</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Jamie Lee Curtis</il>
+						<il>Judy Greer</il>
+						<il>Andi Matichak</il>
+						<il>Will Patton</il>
+						<il>Virginia Gardner</il>
+						<il>Nick Castle</il>
+						<il>James Jude Courtney</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Horror</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2018
+        </ul>
+    </body>
+</html>07
+        </ul>
+    </body>
+</html>

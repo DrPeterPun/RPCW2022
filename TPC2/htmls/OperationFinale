@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Operation Finale</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Operation Finale</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Oscar Isaac</il>
+						<il>Ben Kingsley</il>
+						<il>Lior Raz</il>
+						<il>Mélanie Laurent</il>
+						<il>Nick Kroll</il>
+						<il>Joe Alwyn</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Historical</il>
+			<il>Drama</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2018
+        </ul>
+    </body>
+</html>

@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Safety Not Guaranteed</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Safety Not Guaranteed</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Aubrey Plaza</il>
+						<il>Mark Duplass</il>
+						<il>Jake Johnson</il>
+						<il>Karan Soni</il>
+						<il>Jenica Bergere</il>
+						<il>Kristen Bell</il>
+						<il>Jeff Garlin</il>
+						<il>Mary Lynn Rajskub</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Comedy</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2012
+        </ul>
+    </body>
+</html>

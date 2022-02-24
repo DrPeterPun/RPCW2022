@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>We're the Millers</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>We're the Millers</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Jason Sudeikis</il>
+						<il>Jennifer Aniston</il>
+						<il>Emma Roberts</il>
+						<il>Will Poulter</il>
+						<il>Ed Helms</il>
+						<il>Nick Offerman</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Comedy</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2013
+        </ul>
+    </body>
+</html>

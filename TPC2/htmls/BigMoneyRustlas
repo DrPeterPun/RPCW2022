@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Big Money Rustlas</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Big Money Rustlas</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Insane Clown Posse</il>
+						<il>(</il>
+						<il>Violent J</il>
+						<il>Shaggy 2 Dope</il>
+						<il>)</il>
+						<il>Twiztid</il>
+						<il>(</il>
+						<il>Jamie Madrox</il>
+						<il>Monoxide</il>
+						<il>)</il>
+						<il>Jason Mewes</il>
+						<il>Mark Jury</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Comedy</il>
+			<il>Western</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2010
+        </ul>
+    </body>
+</html>

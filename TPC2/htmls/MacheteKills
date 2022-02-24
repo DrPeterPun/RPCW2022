@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Machete Kills</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Machete Kills</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Danny Trejo</il>
+						<il>Michelle Rodriguez</il>
+						<il>Sofía Vergara</il>
+						<il>Amber Heard</il>
+						<il>Carlos Estevez</il>
+						<il>Antonio Banderas</il>
+						<il>Cuba Gooding Jr.</il>
+						<il>Walt Goggins</il>
+						<il>William Sadler</il>
+						<il>Demián Bichir</il>
+						<il>Mel Gibson</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Action</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2013
+        </ul>
+    </body>
+</html>

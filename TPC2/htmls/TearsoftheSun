@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Tears of the Sun</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Tears of the Sun</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Bruce Willis</il>
+						<il>Monica Bellucci</il>
+						<il>Cole Hauser</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>War</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2003
+        </ul>
+    </body>
+</html>

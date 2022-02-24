@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>American Assassin</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>American Assassin</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Dylan O'Brien</il>
+						<il>Michael Keaton</il>
+						<il>Sanaa Lathan</il>
+						<il>Shiva Negar</il>
+						<il>Taylor Kitsch</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Action</il>
+			<il>Thriller</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2017
+        </ul>
+    </body>
+</html>

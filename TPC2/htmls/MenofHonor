@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Men of Honor</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Men of Honor</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Robert De Niro</il>
+						<il>Cuba Gooding, Jr.</il>
+						<il>Charlize Theron</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Biography</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2000
+        </ul>
+    </body>
+</html>

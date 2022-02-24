@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>What Happens in Vegas</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>What Happens in Vegas</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Cameron Diaz</il>
+						<il>Ashton Kutcher</il>
+						<il>Dennis Farina</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Comedy</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2008
+        </ul>
+    </body>
+</html>

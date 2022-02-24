@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Cowboys & Aliens</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Cowboys & Aliens</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Daniel Craig</il>
+						<il>Harrison Ford</il>
+						<il>Olivia Wilde</il>
+						<il>Ana de la Reguera</il>
+						<il>Sam Rockwell</il>
+						<il>Adam Beach</il>
+						<il>Paul Dano</il>
+						<il>Noah Ringer</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Western</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2011
+        </ul>
+    </body>
+</html>

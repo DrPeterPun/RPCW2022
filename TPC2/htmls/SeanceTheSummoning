@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Seance: The Summoning</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Seance: The Summoning</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Bobby Campo</il>
+						<il>Chris Olivero</il>
+						<il>Cortney Palm</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Horror</il>
+			<il>Thriller</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2011
+        </ul>
+    </body>
+</html>

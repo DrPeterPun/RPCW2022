@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Gangster Squad</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Gangster Squad</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Josh Brolin</il>
+						<il>Ryan Gosling</il>
+						<il>Nick Nolte</il>
+						<il>Emma Stone</il>
+						<il>Anthony Mackie</il>
+						<il>Giovanni Ribisi</il>
+						<il>Michael Peña</il>
+						<il>Robert Patrick</il>
+						<il>Sean Penn</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Action</il>
+			<il>Crime</il>
+			<il>Drama</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2013
+        </ul>
+    </body>
+</html>

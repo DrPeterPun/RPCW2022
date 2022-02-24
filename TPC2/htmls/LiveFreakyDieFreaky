@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Live Freaky! Die Freaky!</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Live Freaky! Die Freaky!</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Jason Schmidt</il>
+						<il>Tim Armstrong</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Animated</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2006
+        </ul>
+    </body>
+</html>

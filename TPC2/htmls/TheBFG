@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>The BFG</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>The BFG</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Mark Rylance</il>
+						<il>Ruby Barnhill</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Fantasy</il>
+			<il>Adventure</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2016
+        </ul>
+    </body>
+</html>

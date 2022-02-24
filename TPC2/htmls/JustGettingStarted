@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Just Getting Started</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Just Getting Started</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Morgan Freeman</il>
+						<il>Tommy Lee Jones</il>
+						<il>Rene Russo</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Action</il>
+			<il>Comedy</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2017
+        </ul>
+    </body>
+</html>

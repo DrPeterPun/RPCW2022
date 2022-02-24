@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>The Words</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>The Words</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Bradley Cooper</il>
+						<il>Jeremy Irons</il>
+						<il>Dennis Quaid</il>
+						<il>Olivia Wilde</il>
+						<il>and</il>
+						<il>Zoe Saldana</il>
+						<il>Ben Barnes</il>
+						<il>Nora Arnezeder</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Drama</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2012
+        </ul>
+    </body>
+</html>

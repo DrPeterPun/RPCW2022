@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>The Thing About My Folks</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>The Thing About My Folks</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Peter Falk</il>
+						<il>Paul Reiser</il>
+						<il>Olympia Dukakis</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Comedy</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2005
+        </ul>
+    </body>
+</html>

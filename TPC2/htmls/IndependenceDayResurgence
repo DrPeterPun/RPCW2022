@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Independence Day: Resurgence</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Independence Day: Resurgence</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Liam Hemsworth</il>
+						<il>Maika Monroe</il>
+						<il>Jeff Goldblum</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Science Fiction</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2016
+        </ul>
+    </body>
+</html>

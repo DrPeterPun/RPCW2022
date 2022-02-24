@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Goosebumps 2: Haunted Halloween</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Goosebumps 2: Haunted Halloween</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Wendi McLendon-Covey</il>
+						<il>Madison Iseman</il>
+						<il>Jeremy Ray Taylor</il>
+						<il>Caleel Harris</il>
+						<il>Chris Parnell</il>
+						<il>Ken Jeong</il>
+						<il>Jack Black</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Horror</il>
+			<il>Comedy</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2018
+        </ul>
+    </body>
+</html>

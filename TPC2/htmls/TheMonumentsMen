@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>The Monuments Men</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>The Monuments Men</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>George Clooney</il>
+						<il>Matt Damon</il>
+						<il>Bill Murray</il>
+						<il>John Goodman</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>War</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2014
+        </ul>
+    </body>
+</html>

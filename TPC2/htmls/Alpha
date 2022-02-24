@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Alpha</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Alpha</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Kodi Smit-McPhee</il>
+						<il>Leonor Varela</il>
+						<il>Jens Hultén</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Adventure</il>
+			<il>Fantasy</il>
+			<il>Drama</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2018
+        </ul>
+    </body>
+</html>

@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Last Flag Flying</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Last Flag Flying</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Steve Carell</il>
+						<il>Bryan Cranston</il>
+						<il>Laurence Fishburne</il>
+						<il>Yul Vazquez</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Comedy</il>
+			<il>Drama</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2017
+        </ul>
+    </body>
+</html>

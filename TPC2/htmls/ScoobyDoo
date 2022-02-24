@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Scooby-Doo</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Scooby-Doo</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Sarah Michelle Gellar</il>
+						<il>Freddie Prinze Jr.</il>
+						<il>Matthew Lillard</il>
+						<il>Linda Cardellini</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Family</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2002
+        </ul>
+    </body>
+</html>

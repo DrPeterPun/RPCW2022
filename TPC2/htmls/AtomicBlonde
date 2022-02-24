@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Atomic Blonde</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Atomic Blonde</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Charlize Theron</il>
+						<il>James McAvoy</il>
+						<il>John Goodman</il>
+						<il>Sofia Boutella</il>
+						<il>Toby Jones</il>
+						<il>Eddie Marsan</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Spy</il>
+			<il>Action</il>
+			<il>Thriller</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2017
+        </ul>
+    </body>
+</html>

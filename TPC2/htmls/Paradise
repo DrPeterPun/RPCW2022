@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Paradise</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Paradise</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Julianne Hough</il>
+						<il>Russell Brand</il>
+						<il>Octavia Spencer</il>
+						<il>Nick Offerman</il>
+						<il>Holly Hunter</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Drama</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2013
+        </ul>
+    </body>
+</html>

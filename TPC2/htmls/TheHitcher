@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>The Hitcher</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>The Hitcher</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Sophia Bush</il>
+						<il>Sean Bean</il>
+						<il>Zachary Knighton</il>
+						<il>Neal McDonough</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Horror</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2007
+        </ul>
+    </body>
+</html>

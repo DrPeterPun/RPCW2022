@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Away We Go</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Away We Go</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>John Krasinski</il>
+						<il>Maya Rudolph</il>
+						<il>Jeff Daniels</il>
+						<il>Maggie Gyllenhaal</il>
+						<il>Allison Janney</il>
+						<il>Chris Messina</il>
+						<il>Catherine O'Hara</il>
+						<il>Paul Schneider</il>
+						<il>Jim Gaffigan</il>
+						<il>Melanie Lynskey</il>
+						<il>Josh Hamilton</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Comedy</il>
+			<il>Drama</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2009
+        </ul>
+    </body>
+</html>

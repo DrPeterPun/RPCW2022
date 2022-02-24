@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Hellboy</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Hellboy</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Ron Perlman</il>
+						<il>Doug Jones</il>
+						<il>Selma Blair</il>
+						<il>John Hurt</il>
+						<il>Rupert Evans</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Superhero</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2004
+        </ul>
+    </body>
+</html>

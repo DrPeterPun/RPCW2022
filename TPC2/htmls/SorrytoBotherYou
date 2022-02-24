@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Sorry to Bother You</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Sorry to Bother You</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Lakeith Stanfield</il>
+						<il>Tessa Thompson</il>
+						<il>Armie Hammer</il>
+						<il>Steven Yeun</il>
+						<il>Jermaine Fowler</il>
+						<il>Omari Hardwick</il>
+						<il>Terry Crews</il>
+						<il>Danny Glover</il>
+						<il>Patton Oswalt</il>
+						<il>David Cross</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Science Fiction</il>
+			<il>Fantasy</il>
+			<il>Comedy</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2018
+        </ul>
+    </body>
+</html>

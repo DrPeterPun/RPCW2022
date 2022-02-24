@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Yogi Bear</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Yogi Bear</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Dan Aykroyd</il>
+						<il>Justin Timberlake</il>
+						<il>Anna Faris</il>
+						<il>Tom Cavanagh</il>
+						<il>T. J. Miller</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Family</il>
+			<il>Live Action</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2010
+        </ul>
+    </body>
+</html>

@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Percy Jackson & the Olympians: The Lightning Thief</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Percy Jackson & the Olympians: The Lightning Thief</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Logan Lerman</il>
+						<il>Brandon T. Jackson</il>
+						<il>Alexandra Daddario</il>
+						<il>Jake Abel</il>
+						<il>Rosario Dawson</il>
+						<il>Steve Coogan</il>
+						<il>Uma Thurman</il>
+						<il>Pierce Brosnan</il>
+						<il>Sean Bean</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Adventure</il>
+			<il>Family</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2010
+        </ul>
+    </body>
+</html>

@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Seabiscuit</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Seabiscuit</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Tobey Maguire</il>
+						<il>Jeff Bridges</il>
+						<il>Chris Cooper</il>
+						<il>Elizabeth Banks</il>
+						<il>William H. Macy</il>
+						<il>Gary Stevens</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Drama</il>
+			<il>Biography</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2003
+        </ul>
+    </body>
+</html>

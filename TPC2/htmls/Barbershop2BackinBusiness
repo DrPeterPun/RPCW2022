@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Barbershop 2: Back in Business</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Barbershop 2: Back in Business</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Ice Cube</il>
+						<il>Cedric the Entertainer</il>
+						<il>Queen Latifah</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Comedy</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2004
+        </ul>
+    </body>
+</html>

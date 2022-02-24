@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Chronicle</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Chronicle</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Dane DeHaan</il>
+						<il>Michael B. Jordan</il>
+						<il>Alex Russell</il>
+						<il>Michael Kelly</il>
+						<il>Ashley Hinshaw</il>
+						<il>Anna Wood</il>
+						<il>Joe Vaz</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Science Fiction</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2012
+        </ul>
+    </body>
+</html>

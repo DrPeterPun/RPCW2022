@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Arbitrage</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Arbitrage</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Richard Gere</il>
+						<il>Susan Sarandon</il>
+						<il>Tim Roth</il>
+						<il>Brit Marling</il>
+						<il>Laetitia Casta</il>
+						<il>Nate Parker</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Drama</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2012
+        </ul>
+    </body>
+</html>

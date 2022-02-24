@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Kink</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Kink</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>About the website</il>
+						<il>Kink.com</il>
+						<il>.</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Documentary</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2013
+        </ul>
+    </body>
+</html>

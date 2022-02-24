@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Monsters, Inc.</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Monsters, Inc.</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>John Goodman</il>
+						<il>Billy Crystal</il>
+						<il>Steve Buscemi</il>
+						<il>James Coburn</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Animated</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2001
+        </ul>
+    </body>
+</html>

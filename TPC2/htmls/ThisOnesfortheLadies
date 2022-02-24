@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>This One's for the Ladies</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>This One's for the Ladies</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>C-Pudding</il>
+						<il>Poundcake</il>
+						<il>Tyga & Raw Dawg</il>
+						<il>Sweet Tea</il>
+						<il>Young Rider</il>
+						<il>Blaze</il>
+						<il>Michele</il>
+						<il>Double Trouble</il>
+						<il>Satan</il>
+						<il>Fever</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Documentary</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2018
+        </ul>
+    </body>
+</html>

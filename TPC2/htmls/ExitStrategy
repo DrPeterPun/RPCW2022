@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Exit Strategy</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Exit Strategy</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Jameel Saleem</il>
+						<il>Noelle Balfour</il>
+						<il>Kimelia Weathers</il>
+						<il>Fuzzy Fantabulous</il>
+						<il>Liz Hernandez</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Romance</il>
+			<il>Comedy</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2012
+        </ul>
+    </body>
+</html>

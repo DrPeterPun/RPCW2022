@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>John Q</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>John Q</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Denzel Washington</il>
+						<il>Robert Duvall</il>
+						<il>James Woods</il>
+						<il>Anne Heche</il>
+						<il>Ray Liotta</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Crime</il>
+			<il>Drama</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2002
+        </ul>
+    </body>
+</html>

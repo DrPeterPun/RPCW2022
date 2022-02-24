@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Mayhem</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Mayhem</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Steven Yeun</il>
+						<il>Samara Weaving</il>
+						<il>Steven Brand</il>
+						<il>Caroline Chikezie</il>
+						<il>Kerry Fox</il>
+						<il>Dallas Roberts</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Action</il>
+			<il>Horror</il>
+			<il>Comedy</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2017
+        </ul>
+    </body>
+</html>

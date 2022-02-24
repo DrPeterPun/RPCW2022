@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Easy Listening</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Easy Listening</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>David Ian</il>
+						<il>Traci Crouch</il>
+						<il>Timothy Crow</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Comedy</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2002
+        </ul>
+    </body>
+</html>

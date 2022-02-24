@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Gringo</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Gringo</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>David Oyelowo</il>
+						<il>Charlize Theron</il>
+						<il>Joel Edgerton</il>
+						<il>Amanda Seyfried</il>
+						<il>Thandie Newton</il>
+						<il>Sharlto Copley</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Action</il>
+			<il>Comedy</il>
+			<il>Drama</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2018
+        </ul>
+    </body>
+</html>

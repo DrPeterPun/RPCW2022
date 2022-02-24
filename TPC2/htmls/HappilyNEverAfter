@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Happily N'Ever After</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Happily N'Ever After</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Sarah Michelle Gellar</il>
+						<il>Freddie Prinze Jr.</il>
+						<il>Andy Dick</il>
+						<il>Wallace Shawn</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Animated</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2007
+        </ul>
+    </body>
+</html>

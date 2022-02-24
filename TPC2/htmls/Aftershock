@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Aftershock</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Aftershock</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Eli Roth</il>
+						<il>Andrea Osvárt</il>
+						<il>Ariel Levy</il>
+						<il>Natasha Yarovenko</il>
+						<il>Nicolás Martínez</il>
+						<il>Lorenza Izzo</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Horror</il>
+			<il>Thriller</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2013
+        </ul>
+    </body>
+</html>

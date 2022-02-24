@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Blade: Trinity</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Blade: Trinity</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Wesley Snipes</il>
+						<il>Jessica Biel</il>
+						<il>Ryan Reynolds</il>
+						<il>Kris Kristofferson</il>
+						<il>Dominic Purcell</il>
+						<il>Parker Posey</il>
+						<il>Triple H</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Horror</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2004
+        </ul>
+    </body>
+</html>

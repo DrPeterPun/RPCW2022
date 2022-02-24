@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Life of Pi</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Life of Pi</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Suraj Sharma</il>
+						<il>Irrfan Khan</il>
+						<il>Tabu</il>
+						<il>Rafe Spall</il>
+						<il>Gérard Depardieu</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Action</il>
+			<il>Adventure</il>
+			<il>Drama</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2012
+        </ul>
+    </body>
+</html>

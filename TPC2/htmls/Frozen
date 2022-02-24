@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Frozen</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Frozen</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Kristen Bell</il>
+						<il>Idina Menzel</il>
+						<il>Jonathan Groff</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Animated</il>
+			<il>Fantasy</il>
+			<il>Musical</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2013
+        </ul>
+    </body>
+</html>

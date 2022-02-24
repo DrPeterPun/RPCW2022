@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Million Dollar Arm</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Million Dollar Arm</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Jon Hamm</il>
+						<il>Aasif Mandvi</il>
+						<il>Madhur Mittal</il>
+						<il>Lake Bell</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Drama</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2014
+        </ul>
+    </body>
+</html>

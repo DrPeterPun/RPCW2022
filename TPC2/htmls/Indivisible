@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Indivisible</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Indivisible</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Justin Bruening</il>
+						<il>Sarah Drew</il>
+						<il>Jason George</il>
+						<il>Tia Mowry</il>
+						<il>Michael O'Neill</il>
+						<il>Eric Close</il>
+						<il>Madeline Carroll</il>
+						<il>Tanner Stine</il>
+						<il>Skye P. Marshall</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Drama</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2018
+        </ul>
+    </body>
+</html>

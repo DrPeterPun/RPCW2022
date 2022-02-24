@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Artie Lange's Beer League</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Artie Lange's Beer League</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Artie Lange</il>
+						<il>Ralph Macchio</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Comedy</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2006
+        </ul>
+    </body>
+</html>

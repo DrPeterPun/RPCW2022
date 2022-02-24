@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Argo</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Argo</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Ben Affleck</il>
+						<il>Bryan Cranston</il>
+						<il>Alan Arkin</il>
+						<il>John Goodman</il>
+						<il>Kyle Chandler</il>
+						<il>Victor Garber</il>
+						<il>Tate Donovan</il>
+						<il>Clea DuVall</il>
+						<il>Michael Parks</il>
+						<il>Tom Lenk</il>
+						<il>Christopher Stanley</il>
+						<il>Taylor Schilling</il>
+						<il>Ashley Wood</il>
+						<il>Chris Messina</il>
+						<il>Richard Kind</il>
+						<il>Titus Welliver</il>
+						<il>Rory Cochrane</il>
+						<il>Devansh Mehta</il>
+						<il>Omid Abtahi</il>
+						<il>Scoot McNairy</il>
+						<il>Kerry Bishé</il>
+						<il>Christopher Denham</il>
+						<il>Bob Gunton</il>
+						<il>Philip Baker Hall</il>
+						<il>Adrienne Barbeau</il>
+						<il>Fouad Hajji</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Thriller</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2012
+        </ul>
+    </body>
+</html>

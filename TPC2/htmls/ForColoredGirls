@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>For Colored Girls</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>For Colored Girls</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Janet Jackson</il>
+						<il>Thandie Newton</il>
+						<il>Whoopi Goldberg</il>
+						<il>Phylicia Rashad</il>
+						<il>Anika Noni Rose</il>
+						<il>Loretta Devine</il>
+						<il>Kimberly Elise</il>
+						<il>Kerry Washington</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Drama</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2010
+        </ul>
+    </body>
+</html>

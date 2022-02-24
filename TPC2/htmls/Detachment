@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Detachment</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Detachment</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Adrien Brody</il>
+						<il>Marcia Gay Harden</il>
+						<il>Christina Hendricks</il>
+						<il>William Petersen</il>
+						<il>Bryan Cranston</il>
+						<il>Tim Blake Nelson</il>
+						<il>Betty Kaye</il>
+						<il>Sami Gayle</il>
+						<il>Lucy Liu</il>
+						<il>Blythe Danner</il>
+						<il>James Caan</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Drama</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2012
+        </ul>
+    </body>
+</html>

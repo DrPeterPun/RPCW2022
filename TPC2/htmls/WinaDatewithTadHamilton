@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Win a Date with Tad Hamilton!</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Win a Date with Tad Hamilton!</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Kate Bosworth</il>
+						<il>Topher Grace</il>
+						<il>Josh Duhamel</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Comedy</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2004
+        </ul>
+    </body>
+</html>

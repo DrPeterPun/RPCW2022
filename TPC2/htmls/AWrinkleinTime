@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>A Wrinkle in Time</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>A Wrinkle in Time</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Storm Reid</il>
+						<il>Oprah Winfrey</il>
+						<il>Reese Witherspoon</il>
+						<il>Mindy Kaling</il>
+						<il>Levi Miller</il>
+						<il>Deric McCabe</il>
+						<il>Chris Pine</il>
+						<il>Gugu Mbatha-Raw</il>
+						<il>Michael Peña</il>
+						<il>Zach Galifianakis</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Fantasy</il>
+			<il>Family</il>
+			<il>Adventure</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2018
+        </ul>
+    </body>
+</html>

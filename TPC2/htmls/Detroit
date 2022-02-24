@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Detroit</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Detroit</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>John Boyega</il>
+						<il>Will Poulter</il>
+						<il>Algee Smith</il>
+						<il>Jacob Latimore</il>
+						<il>Jason Mitchell</il>
+						<il>Hannah Murray</il>
+						<il>Kaitlyn Dever</il>
+						<il>Jack Reynor</il>
+						<il>Ben O'Toole</il>
+						<il>John Krasinski</il>
+						<il>Anthony Mackie</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Crime</il>
+			<il>Drama</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2017
+        </ul>
+    </body>
+</html>

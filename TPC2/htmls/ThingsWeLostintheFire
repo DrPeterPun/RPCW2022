@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Things We Lost in the Fire</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Things We Lost in the Fire</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Halle Berry</il>
+						<il>Benicio del Toro</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Drama</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2007
+        </ul>
+    </body>
+</html>

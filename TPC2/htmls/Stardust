@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Stardust</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Stardust</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Claire Danes</il>
+						<il>Michelle Pfeiffer</il>
+						<il>Robert De Niro</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Fantasy</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2007
+        </ul>
+    </body>
+</html>

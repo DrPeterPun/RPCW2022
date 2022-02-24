@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Dinner for Schmucks</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Dinner for Schmucks</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Steve Carell</il>
+						<il>Paul Rudd</il>
+						<il>Jemaine Clement</il>
+						<il>Jeff Dunham</il>
+						<il>Zach Galifianakis</il>
+						<il>Bruce Greenwood</il>
+						<il>Ron Livingston</il>
+						<il>Rick Overton</il>
+						<il>Lucy Punch</il>
+						<il>Andrea Savage</il>
+						<il>David Walliams</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Comedy</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2010
+        </ul>
+    </body>
+</html>

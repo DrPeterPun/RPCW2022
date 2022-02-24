@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Fifty Shades of Grey</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Fifty Shades of Grey</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Jamie Dornan</il>
+						<il>Dakota Johnson</il>
+						<il>Rita Ora</il>
+						<il>Luke Grimes</il>
+						<il>Marcia Gay Harden</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Romance</il>
+			<il>Thriller</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2015
+        </ul>
+    </body>
+</html>

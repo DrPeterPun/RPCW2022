@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Vicky Cristina Barcelona</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Vicky Cristina Barcelona</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Javier Bardem</il>
+						<il>Penélope Cruz</il>
+						<il>Scarlett Johansson</il>
+						<il>Rebecca Hall</il>
+						<il>Patricia Clarkson</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Romance</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2008
+        </ul>
+    </body>
+</html>

@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Taking Woodstock</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Taking Woodstock</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Demetri Martin</il>
+						<il>Dan Fogler</il>
+						<il>Henry Goodman</il>
+						<il>Jonathan Groff</il>
+						<il>Eugene Levy</il>
+						<il>Jeffrey Dean Morgan</il>
+						<il>Imelda Staunton</il>
+						<il>Emile Hirsch</il>
+						<il>Liev Schreiber</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Comedy</il>
+			<il>Musical</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2009
+        </ul>
+    </body>
+</html>

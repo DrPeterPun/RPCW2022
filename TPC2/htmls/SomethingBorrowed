@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Something Borrowed</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Something Borrowed</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Kate Hudson</il>
+						<il>Ginnifer Goodwin</il>
+						<il>John Krasinski</il>
+						<il>Colin Egglesfield</il>
+						<il>Steve Howey</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Romance</il>
+			<il>Comedy</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2011
+        </ul>
+    </body>
+</html>

@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Elizabethtown</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Elizabethtown</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Orlando Bloom</il>
+						<il>Kirsten Dunst</il>
+						<il>Susan Sarandon</il>
+						<il>Alec Baldwin</il>
+						<il>Jessica Biel</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Comedy</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2005
+        </ul>
+    </body>
+</html>

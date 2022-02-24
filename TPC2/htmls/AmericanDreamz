@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>American Dreamz</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>American Dreamz</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Hugh Grant</il>
+						<il>Dennis Quaid</il>
+						<il>Mandy Moore</il>
+						<il>Marcia Gay Harden</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Comedy</il>
+			<il>Satire</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2006
+        </ul>
+    </body>
+</html>

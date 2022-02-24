@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Magic Mike</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Magic Mike</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Channing Tatum</il>
+						<il>Alex Pettyfer</il>
+						<il>and</il>
+						<il>Matthew McConaughey</il>
+						<il>Cody Horn</il>
+						<il>Olivia Munn</il>
+						<il>Matt Bomer</il>
+						<il>Riley Keough</il>
+						<il>Joe Manganiello</il>
+						<il>Kevin Nash</il>
+						<il>Adam Rodríguez</il>
+						<il>Gabriel Iglesias</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Comedy</il>
+			<il>Drama</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2012
+        </ul>
+    </body>
+</html>

@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Nothin' 2 Lose</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Nothin' 2 Lose</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Brian Hooks</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Comedy</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2000
+        </ul>
+    </body>
+</html>

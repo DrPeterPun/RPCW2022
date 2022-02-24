@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Seed of Chucky</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Seed of Chucky</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Jennifer Tilly</il>
+						<il>Redman</il>
+						<il>Hannah Spearritt</il>
+						<il>John Waters</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Horror</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2004
+        </ul>
+    </body>
+</html>

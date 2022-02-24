@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Star Wars: The Last Jedi</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Star Wars: The Last Jedi</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Mark Hamill</il>
+						<il>Carrie Fisher</il>
+						<il>Adam Driver</il>
+						<il>Daisy Ridley</il>
+						<il>John Boyega</il>
+						<il>Oscar Isaac</il>
+						<il>Lupita Nyong'o</il>
+						<il>Domhnall Gleeson</il>
+						<il>Benicio del Toro</il>
+						<il>Laura Dern</il>
+						<il>Anthony Daniels</il>
+						<il>Gwendoline Christie</il>
+						<il>Andy Serkis</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Action</il>
+			<il>Adventure</il>
+			<il>Fantasy</il>
+			<il>Science Fiction</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2017
+        </ul>
+    </body>
+</html>

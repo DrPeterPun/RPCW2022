@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Ant-Man and the Wasp</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Ant-Man and the Wasp</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Paul Rudd</il>
+						<il>Evangeline Lilly</il>
+						<il>Michael Peña</il>
+						<il>Michael Douglas</il>
+						<il>Michelle Pfeiffer</il>
+						<il>Walton Goggins</il>
+						<il>Hannah John-Kamen</il>
+						<il>Bobby Cannavale</il>
+						<il>Judy Greer</il>
+						<il>Tip "T.I." Harris</il>
+						<il>David Dastmalchian</il>
+						<il>Abby Ryder Fortson</il>
+						<il>Randall Park</il>
+						<il>Laurence Fishburne</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Superhero</il>
+			<il>Action</il>
+			<il>Adventure</il>
+			<il>Comedy</il>
+			<il>Science Fiction</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2018
+        </ul>
+    </body>
+</html>

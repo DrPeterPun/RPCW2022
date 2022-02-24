@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>The Original Kings of Comedy</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>The Original Kings of Comedy</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>stand-up comedy</il>
+						<il>of</il>
+						<il>Steve Harvey</il>
+						<il>D. L. Hughley</il>
+						<il>Cedric the Entertainer</il>
+						<il>Bernie Mac</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Documentary</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2000
+        </ul>
+    </body>
+</html>

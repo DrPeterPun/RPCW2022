@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Criminal</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Criminal</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Kevin Costner</il>
+						<il>Gary Oldman</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Action</il>
+			<il>Thriller</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2016
+        </ul>
+    </body>
+</html>ody>
+</html>

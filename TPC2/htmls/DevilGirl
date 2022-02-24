@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Devil Girl</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Devil Girl</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Jessica Graham</il>
+						<il>Joe Wanjai Ross</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Thriller</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2007
+        </ul>
+    </body>
+</html>

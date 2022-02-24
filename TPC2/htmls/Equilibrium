@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Equilibrium</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Equilibrium</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Christian Bale</il>
+						<il>Taye Diggs</il>
+						<il>Emily Watson</il>
+						<il>Angus Macfadyen</il>
+						<il>Sean Bean</il>
+						<il>William Fichtner</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Science Fiction</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2002
+        </ul>
+    </body>
+</html>

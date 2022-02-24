@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>300: Rise of an Empire</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>300: Rise of an Empire</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Sullivan Stapleton</il>
+						<il>Eva Green</il>
+						<il>Lena Headey</il>
+						<il>Rodrigo Santoro</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Fantasy</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2014
+        </ul>
+    </body>
+</html>

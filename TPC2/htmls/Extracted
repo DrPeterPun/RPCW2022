@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Extracted</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Extracted</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Sasha Roiz</il>
+						<il>Rodney Eastman</il>
+						<il>Dominic Bogart</il>
+						<il>Jenny Molin</il>
+						<il>Nick Jamison</il>
+						<il>Brad Culver</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Thriller</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2012
+        </ul>
+    </body>
+</html>

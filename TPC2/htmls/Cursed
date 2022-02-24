@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Cursed</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Cursed</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Christina Ricci</il>
+						<il>Jesse Eisenberg</il>
+						<il>Joshua Jackson</il>
+						<il>Judy Greer</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Horror</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2005
+        </ul>
+    </body>
+</html>

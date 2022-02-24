@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Ready Player One</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Ready Player One</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Tye Sheridan</il>
+						<il>Olivia Cooke</il>
+						<il>Ben Mendelsohn</il>
+						<il>Mark Rylance</il>
+						<il>Simon Pegg</il>
+						<il>T.J. Miller</il>
+						<il>Lena Waithe</il>
+						<il>Win Morisaki</il>
+						<il>Philip Zhao</il>
+						<il>Hannah John-Kamen</il>
+						<il>Susan Lynch</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Adventure</il>
+			<il>Science Fiction</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2018
+        </ul>
+    </body>
+</html>

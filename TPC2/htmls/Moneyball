@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Moneyball</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Moneyball</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Brad Pitt</il>
+						<il>Jonah Hill</il>
+						<il>Philip Seymour Hoffman</il>
+						<il>Robin Wright</il>
+						<il>Chris Pratt</il>
+						<il>Casey Bond</il>
+						<il>Stephen Bishop</il>
+						<il>Royce Clayton</il>
+						<il>David Hutchinson</il>
+						<il>Kathryn Morris</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Drama</il>
+			<il>Sports</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2011
+        </ul>
+    </body>
+</html>

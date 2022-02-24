@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Night at the Museum: Battle of the Smithsonian</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Night at the Museum: Battle of the Smithsonian</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Ben Stiller</il>
+						<il>Dick Van Dyke</il>
+						<il>Robin Williams</il>
+						<il>Amy Adams</il>
+						<il>Hank Azaria</il>
+						<il>Owen Wilson</il>
+						<il>Steve Coogan</il>
+						<il>Jonah Hill</il>
+						<il>Ricky Gervais</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Adventure</il>
+			<il>Family</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2009
+        </ul>
+    </body>
+</html>

@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Get Hard</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Get Hard</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Will Ferrell</il>
+						<il>Kevin Hart</il>
+						<il>Alison Brie</il>
+						<il>Edwina Findley</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Comedy</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2015
+        </ul>
+    </body>
+</html>

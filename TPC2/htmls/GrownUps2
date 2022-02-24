@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Grown Ups 2</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Grown Ups 2</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Adam Sandler</il>
+						<il>Kevin James</il>
+						<il>Chris Rock</il>
+						<il>David Spade</il>
+						<il>Salma Hayek</il>
+						<il>Maya Rudolph</il>
+						<il>Maria Bello</il>
+						<il>Nick Swardson</il>
+						<il>Taylor Lautner</il>
+						<il>David Henrie</il>
+						<il>Patrick Schwarzenegger</il>
+						<il>Cheri Oteri</il>
+						<il>Steve Buscemi</il>
+						<il>Milo Ventimiglia</il>
+						<il>Aly Michalka</il>
+						<il>Alexander Ludwig</il>
+						<il>Andy Samberg</il>
+						<il>Steve Austin</il>
+						<il>Will Forte</il>
+						<il>Taran Killam</il>
+						<il>Jon Lovitz</il>
+						<il>Akiva Schaffer</il>
+						<il>Jorma Taccone</il>
+						<il>Tim Meadows</il>
+						<il>Shaquille O'Neal</il>
+						<il>Colin Quinn</il>
+						<il>Bobby Moynihan</il>
+						<il>Paul Brittain</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Comedy</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2013
+        </ul>
+    </body>
+</html>

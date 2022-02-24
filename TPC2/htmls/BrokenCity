@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Broken City</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Broken City</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Mark Wahlberg</il>
+						<il>Russell Crowe</il>
+						<il>Catherine Zeta-Jones</il>
+						<il>Barry Pepper</il>
+						<il>Kyle Chandler</il>
+						<il>Natalie Martinez</il>
+						<il>Jeffrey Wright</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Crime</il>
+			<il>Drama</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2013
+        </ul>
+    </body>
+</html>

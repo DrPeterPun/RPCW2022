@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Paranormal Activity 3</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Paranormal Activity 3</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Katie Featherston</il>
+						<il>Sprague Grayden</il>
+						<il>Brian Boland</il>
+						<il>Lauren Bittner</il>
+						<il>Christopher Nicholas Smith</il>
+						<il>Mark Fredrichs</il>
+						<il>Chloe Cserngey</il>
+						<il>Jessica Tyler Brown</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Supernatural</il>
+			<il>Horror</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2011
+        </ul>
+    </body>
+</html>

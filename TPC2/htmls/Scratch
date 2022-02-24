@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Scratch</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Scratch</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Hip hop music</il>
+						<il>and</il>
+						<il>disc jockeys</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Documentary</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2001
+        </ul>
+    </body>
+</html>

@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Extremely Loud and Incredibly Close</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Extremely Loud and Incredibly Close</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Tom Hanks</il>
+						<il>Sandra Bullock</il>
+						<il>Thomas Horn</il>
+						<il>Max von Sydow</il>
+						<il>Viola Davis</il>
+						<il>John Goodman</il>
+						<il>Jeffrey Wright</il>
+						<il>James Gandolfini</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Drama</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2011
+        </ul>
+    </body>
+</html>

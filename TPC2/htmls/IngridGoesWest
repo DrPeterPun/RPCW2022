@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Ingrid Goes West</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Ingrid Goes West</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Aubrey Plaza</il>
+						<il>Elizabeth Olsen</il>
+						<il>O'Shea Jackson Jr.</il>
+						<il>Wyatt Russell</il>
+						<il>Billy Magnussen</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Comedy</il>
+			<il>Drama</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2017
+        </ul>
+    </body>
+</html>

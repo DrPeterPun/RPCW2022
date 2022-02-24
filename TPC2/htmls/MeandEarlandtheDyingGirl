@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Me and Earl and the Dying Girl</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Me and Earl and the Dying Girl</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Thomas Mann</il>
+						<il>Olivia Cooke</il>
+						<il>RJ Cyler</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Comedy</il>
+			<il>Drama</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2015
+        </ul>
+    </body>
+</html>

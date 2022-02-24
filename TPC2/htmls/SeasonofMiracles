@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Season of Miracles</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Season of Miracles</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>John Schneider</il>
+						<il>Grayson Russell</il>
+						<il>Andrew Wilson Williams</il>
+						<il>Nancy Stafford</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Drama</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2013
+        </ul>
+    </body>
+</html>

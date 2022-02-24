@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Paul Blart: Mall Cop 2</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Paul Blart: Mall Cop 2</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Kevin James</il>
+						<il>Neal McDonough</il>
+						<il>Daniella Alonso</il>
+						<il>David Henrie</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Comedy</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2015
+        </ul>
+    </body>
+</html>

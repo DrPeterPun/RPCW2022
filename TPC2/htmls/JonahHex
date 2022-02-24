@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Jonah Hex</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Jonah Hex</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Josh Brolin</il>
+						<il>John Malkovich</il>
+						<il>Megan Fox</il>
+						<il>Michael Fassbender</il>
+						<il>Will Arnett</il>
+						<il>Michael Shannon</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Superhero</il>
+			<il>Western</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2010
+        </ul>
+    </body>
+</html>

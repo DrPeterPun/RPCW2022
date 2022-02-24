@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>The Revenant</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>The Revenant</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Leonardo DiCaprio</il>
+						<il>Tom Hardy</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Western</il>
+			<il>Thriller</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2015
+        </ul>
+    </body>
+</html>

@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>The Homesman</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>The Homesman</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Tommy Lee Jones</il>
+						<il>Hilary Swank</il>
+						<il>Grace Gummer</il>
+						<il>Miranda Otto</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Drama</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2014
+        </ul>
+    </body>
+</html>

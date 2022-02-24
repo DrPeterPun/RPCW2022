@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Between Us</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Between Us</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Olivia Thirlby</il>
+						<il>Ben Feldman</il>
+						<il>Adam Goldberg</il>
+						<il>Analeigh Tipton</il>
+						<il>Scott Haze</il>
+						<il>Peter Bogdanovich</il>
+						<il>Lesley Ann Warren</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Comedy</il>
+			<il>Romance</il>
+			<il>Drama</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2017
+        </ul>
+    </body>
+</html>

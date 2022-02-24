@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>The Cabin in the Woods</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>The Cabin in the Woods</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Kristen Connolly</il>
+						<il>Chris Hemsworth</il>
+						<il>Anna Hutchison</il>
+						<il>Fran Kranz</il>
+						<il>Jesse Williams</il>
+						<il>Richard Jenkins</il>
+						<il>Bradley Whitford</il>
+						<il>Brian J. White</il>
+						<il>Amy Acker</il>
+						<il>Tom Lenk</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Horror</il>
+			<il>Thriller</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2012
+        </ul>
+    </body>
+</html>

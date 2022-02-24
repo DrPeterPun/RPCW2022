@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Armed Response</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Armed Response</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Wesley Snipes</il>
+						<il>Anne Heche</il>
+						<il>Dave Annable</il>
+						<il>Seth Rollins</il>
+						<il>Gene Simmons</il>
+						<il>Mo Gallini</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Thriller</il>
+			<il>Science Fiction</il>
+			<il>Action</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2017
+        </ul>
+    </body>
+</html>

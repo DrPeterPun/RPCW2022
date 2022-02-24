@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>The Cooler</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>The Cooler</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>William H. Macy</il>
+						<il>Maria Bello</il>
+						<il>Alec Baldwin</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Drama</il>
+			<il>Romance</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2003
+        </ul>
+    </body>
+</html>

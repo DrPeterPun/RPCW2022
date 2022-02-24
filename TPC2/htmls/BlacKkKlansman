@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>BlacKkKlansman</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>BlacKkKlansman</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>John David Washington</il>
+						<il>Adam Driver</il>
+						<il>Laura Harrier</il>
+						<il>Topher Grace</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Crime</il>
+			<il>Drama</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2018
+        </ul>
+    </body>
+</html>

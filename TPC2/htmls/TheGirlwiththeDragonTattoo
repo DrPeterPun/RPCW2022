@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>The Girl with the Dragon Tattoo</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>The Girl with the Dragon Tattoo</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Daniel Craig</il>
+						<il>Rooney Mara</il>
+						<il>Christopher Plummer</il>
+						<il>Stellan Skarsgård</il>
+						<il>Steven Berkoff</il>
+						<il>Robin Wright</il>
+						<il>Yorick van Wageningen</il>
+						<il>Joely Richardson</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Drama</il>
+			<il>Thriller</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2011
+        </ul>
+    </body>
+</html>

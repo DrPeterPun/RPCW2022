@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Max</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Max</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Josh Wiggins</il>
+						<il>Dejon LaQuake</il>
+						<il>Thomas Haden Church</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Adventure</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2015
+        </ul>
+    </body>
+</html>

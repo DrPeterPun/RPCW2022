@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Beginners</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Beginners</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Ewan McGregor</il>
+						<il>Christopher Plummer</il>
+						<il>Mélanie Laurent</il>
+						<il>Goran Višnjić</il>
+						<il>Kai Lennox</il>
+						<il>Mary Page Keller</il>
+						<il>Keegan Boos</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Drama</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2011
+        </ul>
+    </body>
+</html>

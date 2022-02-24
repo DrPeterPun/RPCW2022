@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>The Sisterhood of the Traveling Pants 2</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>The Sisterhood of the Traveling Pants 2</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Amber Tamblyn</il>
+						<il>America Ferrera</il>
+						<il>Blake Lively</il>
+						<il>Alexis Bledel</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Comedy</il>
+			<il>Drama</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2008
+        </ul>
+    </body>
+</html>

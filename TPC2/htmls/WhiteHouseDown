@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>White House Down</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>White House Down</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Channing Tatum</il>
+						<il>Jamie Foxx</il>
+						<il>Maggie Gyllenhaal</il>
+						<il>Jason Clarke</il>
+						<il>Richard Jenkins</il>
+						<il>James Woods</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Action</il>
+			<il>Comedy</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2013
+        </ul>
+    </body>
+</html>

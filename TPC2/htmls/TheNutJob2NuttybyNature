@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>The Nut Job 2: Nutty by Nature</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>The Nut Job 2: Nutty by Nature</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Will Arnett</il>
+						<il>Katherine Heigl</il>
+						<il>Maya Rudolph</il>
+						<il>Sebastian Maniscalco</il>
+						<il>Kari Wahlgren</il>
+						<il>Bobby Moynihan</il>
+						<il>Isabela Moner</il>
+						<il>Bobby Cannavale</il>
+						<il>Gabriel Iglesias</il>
+						<il>Jeff Dunham</il>
+						<il>Peter Stormare</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Animated</il>
+			<il>Comedy</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2017
+        </ul>
+    </body>
+</html>

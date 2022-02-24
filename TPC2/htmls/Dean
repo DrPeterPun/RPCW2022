@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Dean</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Dean</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Demetri Martin</il>
+						<il>Kevin Kline</il>
+						<il>Gillian Jacobs</il>
+						<il>Mary Steenburgen</il>
+						<il>Reid Scott</il>
+						<il>Rory Scovel</il>
+						<il>Christine Woods</il>
+						<il>Ginger Gonzaga</il>
+						<il>Peter Scolari</il>
+						<il>Briga Heelan</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Comedy</il>
+			<il>Drama</il>
+			<il>Romance</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2017
+        </ul>
+    </body>
+</html>

@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>The Nutcracker and the Four Realms</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>The Nutcracker and the Four Realms</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Keira Knightley</il>
+						<il>Mackenzie Foy</il>
+						<il>Eugenio Derbez</il>
+						<il>Matthew Macfadyen</il>
+						<il>Richard E. Grant</il>
+						<il>Misty Copeland</il>
+						<il>Helen Mirren</il>
+						<il>Morgan Freeman</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Fantasy</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2018
+        </ul>
+    </body>
+</html>

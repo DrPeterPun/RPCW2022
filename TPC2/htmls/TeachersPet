@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Teacher's Pet</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Teacher's Pet</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Nathan Lane</il>
+						<il>Kelsey Grammer</il>
+						<il>Shaun Fleming</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Animated</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2004
+        </ul>
+    </body>
+</html>

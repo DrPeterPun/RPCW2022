@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Big Fat Liar</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Big Fat Liar</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Frankie Muniz</il>
+						<il>Paul Giamatti</il>
+						<il>Amanda Bynes</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Comedy</il>
+			<il>Family</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2002
+        </ul>
+    </body>
+</html>

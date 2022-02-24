@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Center Stage</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Center Stage</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Amanda Schull</il>
+						<il>Peter Gallagher</il>
+						<il>Ethan Stiefel</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Musical</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2000
+        </ul>
+    </body>
+</html>

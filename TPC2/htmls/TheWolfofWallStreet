@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>The Wolf of Wall Street</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>The Wolf of Wall Street</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Leonardo DiCaprio</il>
+						<il>Jonah Hill</il>
+						<il>Margot Robbie</il>
+						<il>Matthew McConaughey</il>
+						<il>Kyle Chandler</il>
+						<il>Rob Reiner</il>
+						<il>Jon Favreau</il>
+						<il>Jean Dujardin</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Comedy</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2013
+        </ul>
+    </body>
+</html>

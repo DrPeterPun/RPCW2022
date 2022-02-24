@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Nine</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Nine</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Daniel Day-Lewis</il>
+						<il>Marion Cotillard</il>
+						<il>Nicole Kidman</il>
+						<il>Penélope Cruz</il>
+						<il>Kate Hudson</il>
+						<il>Judi Dench</il>
+						<il>Fergie</il>
+						<il>Sophia Loren</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Musical</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2009
+        </ul>
+    </body>
+</html>

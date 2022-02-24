@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Veronika Decides to Die</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Veronika Decides to Die</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Sarah Michelle Gellar</il>
+						<il>Jonathan Tucker</il>
+						<il>Erika Christensen</il>
+						<il>Melissa Leo</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Drama</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2015
+        </ul>
+    </body>
+</html>

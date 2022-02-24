@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Suburban Girl</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Suburban Girl</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Sarah Michelle Gellar</il>
+						<il>Alec Baldwin</il>
+						<il>Maggie Grace</il>
+						<il>Chris Carmack</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Romance</il>
+			<il>Comedy</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2007
+        </ul>
+    </body>
+</html>

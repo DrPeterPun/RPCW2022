@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>The Thing</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>The Thing</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Mary Elizabeth Winstead</il>
+						<il>Joel Edgerton</il>
+						<il>Ulrich Thomsen</il>
+						<il>Adewale Akinnuoye-Agbaje</il>
+						<il>Eric Christian Olsen</il>
+						<il>Kim Bubbs</il>
+						<il>Jørgen Langhelle</il>
+						<il>Jonathan Lloyd Walker</il>
+						<il>Trond Espen Seim</il>
+						<il>Stig Henrik Hoff</il>
+						<il>Carsten Bjørnlund</il>
+						<il>Jan Gunnar Røise</il>
+						<il>Paul Braunstein</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Horror</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2011
+        </ul>
+    </body>
+</html>

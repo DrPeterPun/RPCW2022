@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Street Fighter: The Legend of Chun-Li</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Street Fighter: The Legend of Chun-Li</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Kristin Kreuk</il>
+						<il>Chris Klein</il>
+						<il>Neal McDonough</il>
+						<il>Robin Shou</il>
+						<il>Moon Bloodgood</il>
+						<il>Josie Ho</il>
+						<il>Taboo</il>
+						<il>Michael Clarke Duncan</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Action</il>
+			<il>Crime</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2009
+        </ul>
+    </body>
+</html>

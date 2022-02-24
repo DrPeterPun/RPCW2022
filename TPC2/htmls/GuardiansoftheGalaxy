@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Guardians of the Galaxy</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Guardians of the Galaxy</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Vin Diesel</il>
+						<il>Dave Bautista</il>
+						<il>Zoe Saldana</il>
+						<il>Chris Pratt</il>
+						<il>Bradley Cooper</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Superhero</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2014
+        </ul>
+    </body>
+</html>

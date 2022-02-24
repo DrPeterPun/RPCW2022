@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>The Big Sick</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>The Big Sick</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Kumail Nanjiani</il>
+						<il>Zoe Kazan</il>
+						<il>Holly Hunter</il>
+						<il>Ray Romano</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Romance</il>
+			<il>Comedy</il>
+			<il>Drama</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2017
+        </ul>
+    </body>
+</html>

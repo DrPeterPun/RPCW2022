@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Wall Street: Money Never Sleeps</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Wall Street: Money Never Sleeps</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Michael Douglas</il>
+						<il>Shia LaBeouf</il>
+						<il>Josh Brolin</il>
+						<il>Carey Mulligan</il>
+						<il>Eli Wallach</il>
+						<il>Susan Sarandon</il>
+						<il>Frank Langella</il>
+						<il>Vanessa Ferlito</il>
+						<il>Charlie Sheen</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Drama</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2010
+        </ul>
+    </body>
+</html>

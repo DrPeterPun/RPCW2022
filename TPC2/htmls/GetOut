@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Get Out</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Get Out</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Daniel Kaluuya</il>
+						<il>Allison Williams</il>
+						<il>Catherine Keener</il>
+						<il>Bradley Whitford</il>
+						<il>Caleb Landry Jones</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Horror</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2017
+        </ul>
+    </body>
+</html>

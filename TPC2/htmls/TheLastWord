@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>The Last Word</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>The Last Word</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Shirley MacLaine</il>
+						<il>Amanda Seyfried</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Comedy</il>
+			<il>Drama</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2017
+        </ul>
+    </body>
+</html>

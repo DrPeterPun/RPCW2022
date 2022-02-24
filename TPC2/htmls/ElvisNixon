@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Elvis & Nixon</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Elvis & Nixon</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Kevin Spacey</il>
+						<il>Michael Shannon</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Drama</il>
+			<il>Comedy</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2016
+        </ul>
+    </body>
+</html>

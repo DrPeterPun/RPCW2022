@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Married Life</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Married Life</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Chris Cooper</il>
+						<il>Patricia Clarkson</il>
+						<il>Pierce Brosnan</il>
+						<il>Rachel McAdams</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Crime</il>
+			<il>Drama</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2007
+        </ul>
+    </body>
+</html>

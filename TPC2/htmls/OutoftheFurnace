@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Out of the Furnace</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Out of the Furnace</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Christian Bale</il>
+						<il>Woody Harrelson</il>
+						<il>Casey Affleck</il>
+						<il>Forest Whitaker</il>
+						<il>Willem Dafoe</il>
+						<il>Zoe Saldana</il>
+						<il>Sam Shepard</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Crime</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2013
+        </ul>
+    </body>
+</html>

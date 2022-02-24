@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Far Marfa</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Far Marfa</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Johnny Sneed</il>
+						<il>Jesse Bernstein</il>
+						<il>Julie Mintz</il>
+						<il>Ty Mitchell</il>
+						<il>Jolyn Janis</il>
+						<il>Will Nelson</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Comedy</il>
+			<il>Drama</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2013
+        </ul>
+    </body>
+</html>

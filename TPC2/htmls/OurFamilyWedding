@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Our Family Wedding</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Our Family Wedding</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Forest Whitaker</il>
+						<il>America Ferrera</il>
+						<il>Carlos Mencia</il>
+						<il>Regina King</il>
+						<il>Lance Gross</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Comedy</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2010
+        </ul>
+    </body>
+</html>

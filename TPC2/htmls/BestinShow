@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Best in Show</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Best in Show</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Parker Posey</il>
+						<il>Michael McKean</il>
+						<il>Catherine O'Hara</il>
+						<il>Eugene Levy</il>
+						<il>Michael Hitchcock</il>
+						<il>Jennifer Coolidge</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Satire</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2000
+        </ul>
+    </body>
+</html>

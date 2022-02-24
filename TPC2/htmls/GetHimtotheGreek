@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Get Him to the Greek</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Get Him to the Greek</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Jonah Hill</il>
+						<il>Russell Brand</il>
+						<il>Elisabeth Moss</il>
+						<il>Rose Byrne</il>
+						<il>Colm Meaney</il>
+						<il>Sean Combs</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Comedy</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2010
+        </ul>
+    </body>
+</html>

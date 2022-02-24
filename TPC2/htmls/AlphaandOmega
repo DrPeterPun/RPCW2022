@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Alpha and Omega</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Alpha and Omega</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Justin Long</il>
+						<il>Hayden Panettiere</il>
+						<il>Dennis Hopper</il>
+						<il>Danny Glover</il>
+						<il>Christina Ricci</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Animated</il>
+			<il>Comedy</il>
+			<il>Drama</il>
+			<il>Family</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2010
+        </ul>
+    </body>
+</html>

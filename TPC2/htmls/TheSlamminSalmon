@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>The Slammin' Salmon</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>The Slammin' Salmon</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Michael Clarke Duncan</il>
+						<il>Jay Chandrasekhar</il>
+						<il>Kevin Heffernan</il>
+						<il>Steve Lemme</il>
+						<il>Paul Soter</il>
+						<il>Erik Stolhanske</il>
+						<il>April Bowlby</il>
+						<il>Sendhil Ramamurthy</il>
+						<il>Lance Henriksen</il>
+						<il>Olivia Munn</il>
+						<il>Vivica A. Fox</il>
+						<il>Morgan Fairchild</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Comedy</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2009
+        </ul>
+    </body>
+</html>

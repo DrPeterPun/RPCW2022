@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Love, Simon</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Love, Simon</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Nick Robinson</il>
+						<il>Katherine Langford</il>
+						<il>Alexandra Shipp</il>
+						<il>Jorge Lendeborg Jr.</il>
+						<il>Miles Heizer</il>
+						<il>Keiynan Lonsdale</il>
+						<il>Logan Miller</il>
+						<il>Jennifer Garner</il>
+						<il>Josh Duhamel</il>
+						<il>Tony Hale</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Drama</il>
+			<il>Comedy</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2018
+        </ul>
+    </body>
+</html>

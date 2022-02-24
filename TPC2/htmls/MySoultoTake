@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>My Soul to Take</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>My Soul to Take</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Max Thieriot</il>
+						<il>Denzel Whitaker</il>
+						<il>Raúl Esparza</il>
+						<il>Shareeka Epps</il>
+						<il>Zena Grey</il>
+						<il>Trevor St. John</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Horror</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2010
+        </ul>
+    </body>
+</html>

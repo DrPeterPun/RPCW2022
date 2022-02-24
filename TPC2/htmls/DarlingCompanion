@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Darling Companion</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Darling Companion</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Mark Duplass</il>
+						<il>Richard Jenkins</il>
+						<il>Diane Keaton</il>
+						<il>Kevin Kline</il>
+						<il>Elisabeth Moss</il>
+						<il>Sam Shepard</il>
+						<il>Dianne Wiest</il>
+						<il>Ayelet Zurer</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Comedy</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2012
+        </ul>
+    </body>
+</html>

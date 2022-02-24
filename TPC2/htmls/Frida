@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Frida</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Frida</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Salma Hayek</il>
+						<il>Alfred Molina</il>
+						<il>Geoffrey Rush</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Biography</il>
+			<il>Drama</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2002
+        </ul>
+    </body>
+</html>

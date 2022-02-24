@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Burlesque</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Burlesque</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Cher</il>
+						<il>Christina Aguilera</il>
+						<il>Stanley Tucci</il>
+						<il>Eric Dane</il>
+						<il>Kristen Bell</il>
+						<il>Cam Gigandet</il>
+						<il>Alan Cumming</il>
+						<il>Julianne Hough</il>
+						<il>Peter Gallagher</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Musical</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2010
+        </ul>
+    </body>
+</html>

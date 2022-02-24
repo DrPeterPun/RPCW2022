@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Wilson</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Wilson</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Woody Harrelson</il>
+						<il>Laura Dern</il>
+						<il>Isabella Amara</il>
+						<il>Judy Greer</il>
+						<il>Cheryl Hines</il>
+						<il>Margo Martindale</il>
+						<il>David Warshofsky</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Comedy</il>
+			<il>Drama</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2017
+        </ul>
+    </body>
+</html>

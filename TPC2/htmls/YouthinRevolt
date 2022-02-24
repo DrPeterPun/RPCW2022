@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Youth in Revolt</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Youth in Revolt</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Michael Cera</il>
+						<il>Portia Doubleday</il>
+						<il>Jean Smart</il>
+						<il>Mary Kay Place</il>
+						<il>Justin Long</il>
+						<il>Ray Liotta</il>
+						<il>Steve Buscemi</il>
+						<il>Zach Galifianakis</il>
+						<il>Ari Graynor</il>
+						<il>Fred Willard</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Comedy</il>
+			<il>Drama</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2010
+        </ul>
+    </body>
+</html>

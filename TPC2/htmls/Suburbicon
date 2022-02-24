@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Suburbicon</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <h1>Suburbicon</h1>
+        <h2>Actors:</h2>
+        <ul>
+			<il>Matt Damon</il>
+						<il>Julianne Moore</il>
+						<il>Oscar Isaac</il>
+			
+        </ul>
+        <h2>Genres:</h2>
+        <ul>
+			<il>Crime</il>
+			<il>Comedy</il>
+			<il>Drama</il>
+			<il>Mystery</il>
+			<il>Thriller</il>
+
+        </ul>
+        <h2>Released in:</h2>
+        <ul>
+			2017
+        </ul>
+    </body>
+</html>
