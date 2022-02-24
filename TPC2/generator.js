@@ -1,6 +1,7 @@
 const fs = require('fs')
 const url = require('url')
 const http = require('http')
+const port = 12345
 
 var movieSample = fs.readFileSync("movieSample.html").toString()
 const directory = './htmls'
@@ -8,10 +9,15 @@ if(!fs.existsSync(directory)){
     fs.mkdirSync(directory)
 }
 
-const ms = './htmls/movies'
+const ms = './htmls/filmes/'
 if(!fs.existsSync(ms)){
     fs.mkdirSync(ms)
 }
+
+function actorHref(actor) {
+    return ("<a href=\"http::localhost:"+port+"/actor/"+actor+"\"> " +actor + " <a/>")
+}
+
 
 fs.readFile('cinemaATP.json', function (err, data) {
     var movies = JSON.parse(data)
@@ -23,7 +29,7 @@ fs.readFile('cinemaATP.json', function (err, data) {
         var actors = movie["cast"]
         var actorString = ""
         actors.forEach( act =>{
-            actorString+="\t\t\t<li>" +act + "</li>\n"
+            actorString+="\t\t\t<li>" + actorHref(act) + "</li>\n"
         })
 
         var genres = movie["genres"]
@@ -42,7 +48,7 @@ fs.readFile('cinemaATP.json', function (err, data) {
         //console.log(newhtml)
         newhtml = newhtml.replace(/<!--YEAR-->/g,"\t\t\t" + year)
         //console.log(newhtml)
-        fs.writeFile("./htmls/movies/"+titlefile+".html",newhtml, (err) => {
+        fs.writeFile(ms+titlefile+".html",newhtml, (err) => {
             if (err) {
                console.log(err)
                throw err 

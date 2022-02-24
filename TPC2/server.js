@@ -1,6 +1,8 @@
 const fs = require('fs')
 const url = require('url')
 const http = require('http')
+const port = 12345
+
 
 http.createServer(function (req,res) {
     var q = url.parse(req.url, true)
@@ -10,7 +12,7 @@ http.createServer(function (req,res) {
         serveFile(path,res)
     }
 
-}).listen(12345)
+}).listen(port)
 
 function serveFile(path,res) {
     var p = path.split("/")
