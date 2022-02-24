@@ -7,6 +7,12 @@ if(!fs.existsSync(directory)){
     fs.mkdirSync(directory)
 }
 
+const ms = './htmls/movies'
+if(!fs.existsSync(ms)){
+    fs.mkdirSync(ms)
+}
+
+
 
 fs.readFile('cinemaATP.json', function (err, data) {
     var movies = JSON.parse(data)
@@ -18,13 +24,13 @@ fs.readFile('cinemaATP.json', function (err, data) {
         var actors = movie["cast"]
         var actorString = ""
         actors.forEach( act =>{
-            actorString+="\t\t\t<il>" +act + "</il>\n"
+            actorString+="\t\t\t<li>" +act + "</li>\n"
         })
 
         var genres = movie["genres"]
         var genresString = ""
         genres.forEach( gen =>{
-            genresString+="\t\t\t<il>" + gen + "</il>\n"
+            genresString+="\t\t\t<li>" + gen + "</li>\n"
         })
 
         var year = movie["year"]
@@ -37,7 +43,7 @@ fs.readFile('cinemaATP.json', function (err, data) {
         //console.log(newhtml)
         newhtml = newhtml.replace(/<!--YEAR-->/g,"\t\t\t" + year)
         //console.log(newhtml)
-        fs.writeFile("./htmls/"+titlefile,newhtml, (err) => {
+        fs.writeFile("./htmls/movies/"+titlefile+".html",newhtml, (err) => {
             if (err) {
                console.log(err)
                throw err 
