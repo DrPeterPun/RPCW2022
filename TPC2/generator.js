@@ -1,7 +1,8 @@
 const fs = require('fs')
 const url = require('url')
+const http = require('http')
 
-var sample = fs.readFileSync("sample.html").toString()
+var movieSample = fs.readFileSync("movieSample.html").toString()
 const directory = './htmls'
 if(!fs.existsSync(directory)){
     fs.mkdirSync(directory)
@@ -11,8 +12,6 @@ const ms = './htmls/movies'
 if(!fs.existsSync(ms)){
     fs.mkdirSync(ms)
 }
-
-
 
 fs.readFile('cinemaATP.json', function (err, data) {
     var movies = JSON.parse(data)
@@ -35,7 +34,7 @@ fs.readFile('cinemaATP.json', function (err, data) {
 
         var year = movie["year"]
 
-        var newhtml = sample .replace(/<!--MOVIE TITLE-->/g,title)
+        var newhtml = movieSample.replace(/<!--MOVIE TITLE-->/g,title)
         //console.log(newhtml)
         newhtml = newhtml.replace(/<!--ACTORS-->/g,actorString)
         //console.log(newhtml)
@@ -53,5 +52,5 @@ fs.readFile('cinemaATP.json', function (err, data) {
         console.log("----------------\n")
         console.log(newhtml)
     });
-
 })
+
