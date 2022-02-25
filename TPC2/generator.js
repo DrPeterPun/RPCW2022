@@ -1,9 +1,15 @@
 const fs = require('fs')
 const url = require('url')
 const http = require('http')
+const { deepStrictEqual } = require('assert')
 const port = 12345
 
+console.log("TESTE 123123")
+
+
+var actorSample = fs.readFileSync("actorSample.html").toString()
 var movieSample = fs.readFileSync("movieSample.html").toString()
+var indexSample = fs.readFileSync("indexSample.html").toString()
 const directory = './htmls'
 if(!fs.existsSync(directory)){
     fs.mkdirSync(directory)
@@ -19,6 +25,9 @@ if(!fs.existsSync(as)){
     fs.mkdirSync(as)
 }
 
+const movieindex = './movieIndex.html'
+const actorindex = './actorIndex.html'
+
 function urlFiler(word) {
     return word.replace(/\s|\W/g,"")
 }
@@ -27,12 +36,12 @@ var actorDict = {}
 
 // creates the html href when given an actor
 function actorHref(actor) {
-    return ("<a href=\"http::localhost:"+port+"/actor/"+urlFiler(actor)+"\"> " +actor + " <a/>")
+    return ("<a href=\"http://localhost:"+port+"/atores/"+urlFiler(actor)+"\"> " +actor + " <a/>")
 }
 
 // creates the html href when given a movie 
 function movieHref(movie) {
-    return ("<a href=\"http::localhost:"+port+"/filme/"+urlFiler(movie)+"\"> " +movie + " <a/>")
+    return ("<a href=\"http://localhost:"+port+"/filmes/"+urlFiler(movie)+"\"> " +movie + " <a/>")
 }
 
 function addKey(actor,movie) {
@@ -42,8 +51,11 @@ function addKey(actor,movie) {
     actorDict[actor].push(movie)
 }
 
+
 fs.readFile('cinemaATP.json', function (err, data) {
     var movies = JSON.parse(data)
+
+    //iterates through movies, creates the movie files.html files, created the actors dictionary
     movies.forEach(movie => {
         var title = movie["title"]
         // title without spaces for easier use
@@ -62,7 +74,7 @@ fs.readFile('cinemaATP.json', function (err, data) {
         })
         
         actors.forEach(a => {
-            console.log(a+"::" + title)
+            //console.log(a+"::" + title)
             addKey(a,title)
         })
 
@@ -77,18 +89,20 @@ fs.readFile('cinemaATP.json', function (err, data) {
         newhtml = newhtml.replace(/<!--YEAR-->/g,"\t\t\t" + year)
         //console.log(newhtml)
         
-        //fs.writeFile(ms+titlefile+".html",newhtml, (err) => {
-        //    if (err) {
-        //       console.log(err)
-        //       throw err 
-        //    }
-        //    //console.log("file:" + titlefile + " has been created")
-        //})
+        fs.writeFile(ms+titlefile+".html",newhtml, (err) => {
+            if (err) {
+               console.log(err)
+               throw err 
+            }
+            //console.log("file:" + titlefile + " has been created")
+        })
         //console.log("----------------\n")
         //console.log(newhtml)
-    });
+        
+    });//movies.forEach(movie => 
 
-    var actorSample = fs.readFileSync("actorSample.html").toString()
+
+    //creates the actor.html pages
     for (const actor in actorDict) {
        
         var movString = ""
@@ -99,17 +113,49 @@ fs.readFile('cinemaATP.json', function (err, data) {
         var actorhtml = actorSample.replace(/<!--ACTOR-->/g,actor)
         actorhtml = actorhtml.replace(/<!--MOVIES-->/g,movString)
         
-        fs.writeFile(as+urlFiler(actor)+".html",actorhtml, (err) => {
+        fs.writeFile(as+urlFiler(urlFiler(actor))+".html",actorhtml, (err) => {
         if (err) {
             console.log(err)
             throw err 
         }
-        console.log("file:" + as+urlFiler(actor) + " has been created")
-    })
+        //console.log("file:" + as+urlFiler(actor) + " has been created")
+        })
     }
     
+
+    //write the actor index to .html
+    var actorIndex = indexSample.replace(/<!--TITLE-->/g,"Atores")
+    var actIndS = ""
+    Object.keys(actorDict).forEach( actor => {
+        actIndS+="\t\t\t<li>" + actorHref(actor) + "</li>\n"
+        //console.log(actor)
+    })
     
+    //console.log(actorDict)
     
+    actorIndex = actorIndex.replace(/<!--ELEMENT-->/g,actIndS)
+    fs.writeFile(actorindex,actorIndex, (err) => {
+        if (err) {
+            console.log(err)
+        throw err 
+        }
+        //console.log("file:" + titlefile + " has been created")
+    })
+
+    
+    //write the movie indext to .html
+    var movieIndex = indexSample.replace(/<!--TITLE-->/g,"Filmes")
+    var movIndS = ""
+    movies.forEach( movie => {
+        movIndS+="\t\t\t<li>" + movieHref(movie["title"]) + "</li>\n"
+    })
+    movieIndex = movieIndex.replace(/<!--ELEMENT-->/g,movIndS)
+    fs.writeFile(movieindex,movieIndex, (err) => {
+        if (err) {
+           console.log(err)
+               throw err 
+        }
+        //console.log("file:" + titlefile + " has been created")
+    })
+
 })
-
-
