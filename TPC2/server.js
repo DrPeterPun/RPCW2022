@@ -3,7 +3,7 @@ const url = require('url')
 const http = require('http')
 const port = 12345
 
-
+console.log("a ouvir a porta" + port)
 http.createServer(function (req,res) {
     var q = url.parse(req.url, true)
     var path = url.parse(req.url, true).pathname
@@ -19,9 +19,9 @@ http.createServer(function (req,res) {
     //necesserely its an index file
     }else if (spath.length==2) {
         if (spath[1]=="filmes") {
-            serveIndex("movieIndex.html",res)            
+            serveIndex("index/movieIndex.html",res)            
         }else if (spath[1]=="atores"){
-            serveIndex("actorIndex.html",res)
+            serveIndex("index/actorIndex.html",res)
         }else{
 
         }

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+    <meta>
+        <titulo>TPC2: Servidor e gerador de html para o dataset cinemaATP</titulo>
+        <data>2022-02-15</data>
+        <autor>
+            <id>a80376</id>
+            <nome>Pedro Barbosa Pereira</nome>
+        </autor>
+        <uc>
+            <sigla>RPCW2022</sigla>
+            <nome>Representação e Processamento de Conhecimento na Web</nome>
+        </uc>
+    </meta>
+    <resumo>
+        <p>Neste TPC2, foi-nos pedido para gerar paginas html a partir de um dataset e criar tambem um servidor para as servir</p>
+    </resumo>
+    <resultados>
+        <resultado>
+            <url>server.js</url>
+            <texto>Servidor web</texto>
+        </resultado>
+        <resultado>
+            <url>gerador.js</url>
+            <texto>.js que gera todos os .html'</texto>
+        </resultado>    
+        <resultado>
+        <url>sample/actorSample.html</url>
+            <texto>html apartir do qual vao ser gerados os html's de cada ator</texto>
+        </resultado>    
+        <resultado>
+        <url>sample/movieSample.html</url>
+            <texto>html apartir do qual vao ser gerados os html's de cada filme</texto>
+        </resultado>
+        <resultado>
+        <url>sample/indexSample.html</url>
+            <texto>html apartir do qual vao ser gerados os html's que servem de indice </texto>
+        </resultado>
+    </resultados>
+</doc>

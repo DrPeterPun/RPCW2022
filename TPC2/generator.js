@@ -7,9 +7,9 @@ const port = 12345
 console.log("TESTE 123123")
 
 
-var actorSample = fs.readFileSync("actorSample.html").toString()
-var movieSample = fs.readFileSync("movieSample.html").toString()
-var indexSample = fs.readFileSync("indexSample.html").toString()
+var actorSample = fs.readFileSync("sample/actorSample.html").toString()
+var movieSample = fs.readFileSync("sample/movieSample.html").toString()
+var indexSample = fs.readFileSync("sample/indexSample.html").toString()
 const directory = './htmls'
 if(!fs.existsSync(directory)){
     fs.mkdirSync(directory)
@@ -25,8 +25,8 @@ if(!fs.existsSync(as)){
     fs.mkdirSync(as)
 }
 
-const movieindex = './movieIndex.html'
-const actorindex = './actorIndex.html'
+const movieindex = './index/movieIndex.html'
+const actorindex = './index/actorIndex.html'
 
 function urlFiler(word) {
     return word.replace(/\s|\W/g,"")
@@ -126,9 +126,9 @@ fs.readFile('cinemaATP.json', function (err, data) {
     //write the actor index to .html
     var actorIndex = indexSample.replace(/<!--TITLE-->/g,"Atores")
     var actIndS = ""
-    Object.keys(actorDict).forEach( actor => {
+    Object.keys(actorDict).sort().forEach( actor => {
         actIndS+="\t\t\t<li>" + actorHref(actor) + "</li>\n"
-        //console.log(actor)
+        console.log(actor)
     })
     
     //console.log(actorDict)
@@ -146,8 +146,17 @@ fs.readFile('cinemaATP.json', function (err, data) {
     //write the movie indext to .html
     var movieIndex = indexSample.replace(/<!--TITLE-->/g,"Filmes")
     var movIndS = ""
-    movies.forEach( movie => {
-        movIndS+="\t\t\t<li>" + movieHref(movie["title"]) + "</li>\n"
+    //movies.sort().forEach( movie => {
+    //    movIndS+="\t\t\t<li>" + movieHref(movie["title"]) + "</li>\n"
+    //})
+    var jankarray = []
+    for(let i = 0; i< movies.length;i++){
+        jankarray[i] = (movies[i]["title"]) 
+        console.log(jankarray[i])
+    }
+    
+    jankarray.sort().forEach( movie => {
+        movIndS+="\t\t\t<li>" + movieHref(movie) + "</li>\n"
     })
     movieIndex = movieIndex.replace(/<!--ELEMENT-->/g,movIndS)
     fs.writeFile(movieindex,movieIndex, (err) => {
