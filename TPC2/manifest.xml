@@ -14,6 +14,13 @@
     </meta>
     <resumo>
         <p>Neste TPC2, foi-nos pedido para gerar paginas html a partir de um dataset e criar tambem um servidor para as servir</p>
+        <p>O servidor serve os paths: ; ::porta/filmes/&lt;nomedofilme&gt; </p>
+        <ul>
+            <li> ::porta/filmes/&lt;nomedofilme&gt; que da a pagina do filme </li>
+            <li> ::porta/atores/&lt;nomedoator&gt; que da a pagina do ator </li>
+            <li> ::porta/filmes que da o indice de filmes</li>
+            <li> ::porta/atores que da o indice de atores</li>
+        </ul>
     </resumo>
     <resultados>
         <resultado>
