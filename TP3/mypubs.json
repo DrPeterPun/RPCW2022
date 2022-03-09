@@ -1,0 +1,41 @@
+{
+    "pubs" :
+
+    [
+    {
+        "address": "Madrid, Espanha",
+        "authors": [
+            "Alexandra Lourenco",
+            "Pedro Penteado",
+            "Jose Carlos Jamalho"
+        ],
+        "id": "bad2017",
+        "title": "Da gestao",
+        "type": "inproceedings",
+        "year": "2015"
+    },
+    {
+        "address": "Fundacao, Portugal",
+        "authors": [
+            "Alexandra Lourenco",
+            "Jose Carlos Jamalho"
+        ],
+        "id": "bad2017",
+        "title": "CLAV",
+        "type": "inproceedings",
+        "year": "2017"
+    },
+    {
+        "address": "Lisboa, Portugal",
+        "authors": [
+            "Pedro Penteado",
+            "Jose Carlos Jamalho"
+        ],
+        "id": "Lisb2019",
+        "title": "Cena em lisbon",
+        "type": "LIBOOOOOOa",
+        "year": "2019"
+    }
+    ]
+
+}
