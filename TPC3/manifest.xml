@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+    <meta>
+        <titulo>TPC3: Servidor para interagir com a api de dados atravez do json-server </titulo>
+        <data>2022-03-10</data>
+        <autor>
+            <id>a80376</id>
+            <nome>Pedro Barbosa Pereira</nome>
+        </autor>
+        <uc>
+            <sigla>RPCW2022</sigla>
+            <nome>Representação e Processamento de Conhecimento na Web</nome>
+        </uc>
+    </meta>
+    <resumo>
+        <p>Neste TPC3, criei um servidor que  faz get requests ao json-server e serve 4 paginas principais, alunos;cursos;instrumentos e uma pagina que contem apena links para as outras 3</p>
+        <p>Cada uma destas paginas e uma tabela em que no caso dos cursos e dos instrumentos as entradas da tabela tem um link para uma pagina com informacao especifica relativa a essa entrada</p>
+    </resumo>
+    <resultados>
+        <resultado>
+            <url>server.js</url>
+            <texto>Servidor</texto>
+        </resultado>
+        <resultado>
+            <url>db.json</url>
+            <texto>dataset utilizado</texto>
+        </resultado>
+        <resultado>
+            <url>favicon.ico</url>
+            <texto> icon que do site </texto>
+        </resultado>
+    </resultados>
+</doc>

@@ -1,0 +1,23 @@
+dataset: escola de musica
+
+api de dados: a que estamos a utilizar na aula (json-server na porta 3000)
+
+implementar um servico na porta 4000 que responde nas seguintes rotas:
+
+localhost:4000/
+    => pagina web com 3 links:
+        lista de cussos
+        lista de alunos
+        lista de instrumentos
+estes liks sao pedidos ao servidor que nos criamos
+
+link dos alunos
+
+<a href="localhost:4000/alunos"> lista de alunos </a>
+
+por sua vez a pagina:
+
+localhost:4000/alunos/
+    tabela com 
+    id | nome | curso | instrumento
+
