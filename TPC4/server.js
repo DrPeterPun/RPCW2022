@@ -32,11 +32,11 @@ async function genMainPage(){
    
     //FAZER AS TABELAS!   =--------------------------= 
     pagHTML += `<h2> Por completar </h2>`
-    pagHTML += genTable(tl)
+    pagHTML += genTableList(tl)
     console.log(tl)
 
     pagHTML += `<h2> Completas </h2>`
-    pagHTML += genTable(r)
+    pagHTML += genTableResolved(r)
     console.log()
     pagHTML +=`
     </html>
@@ -44,7 +44,7 @@ async function genMainPage(){
   return pagHTML
 }
 
-function genTable(data){
+function genTableList(data){
     body = `
     <table>
     <tr>
@@ -65,14 +65,9 @@ function genTable(data){
         <th>${elem.data}</th>
         
         <th>
-            <form class="w3-container" action="/tasks/${elem.id}" method="POST">
-            <input class="w3-btn w3-blue-grey" type="submit" value="DEL"/>
-        </form>
-        </th>
-        <th>
-            <form class="w3-container" action="/tasks/${elem.id}" method="POST">
+            <form class="w3-container" action="/complete/${elem.id}" method="POST">
             <input class="w3-btn w3-blue-grey" type="submit" value="Marcar Completa"/>
-        </form>
+            </form>
         </th>
     </tr>
 `       
@@ -83,7 +78,39 @@ function genTable(data){
 
 }
 
+function genTableResolved(data){
+    body = `
+    <table>
+    <tr>
+        <th>id</th>
+        <th>nome</th>
+        <th>tipo</th>
+        <th>descricao</th>
+        <th>data</th>
+    </tr>`
 
+    data.forEach(elem=> {
+        body += `
+    <tr>
+        <th>${elem.id}</th>
+        <th>${elem.nome}</th>
+        <th>${elem.tipo}</th>
+        <th>${elem.desc}</th>
+        <th>${elem.data}</th>
+        
+        <th>
+            <form class="w3-container" action="/delete/${elem.id}" method="POST">
+            <input class="w3-btn w3-blue-grey" type="submit" value="DEL"/>
+            </form>
+        </th>
+    </tr>
+`       
+    });
+
+    body += "\n</table>"
+    return body
+
+}
 // faz o form
 function genForm(){
     return `
@@ -118,12 +145,49 @@ function getReq(path) {
     return axios.get(`http://localhost:3000/${path}`)
 }
 
+function delReq(path) {
+    var d = new Date().toISOString().substr(0, 16)
+    console.log("db del: " + `http://localhost:3000/tasks/${path}` + "  " + d)
+    return axios.delete(`http://localhost:3000/tasks/${path}`)
+    
+}
+
+function putReq(path, body){
+    var d = new Date().toISOString().substr(0, 16)
+    console.log("db PUT: " + `http://localhost:3000/tasks/${path}` + "  " + d)
+    return axios.put(`http://localhost:3000/tasks/${path}`, body).catch(error => {
+        console.log('Error: ' + error);
+    }); 
+}
+
 function postReq(path,body) {
-    axios.post(`http://localhost:3000/${path}`, body).then(resp =>
-        console.log(resp.data))
-    .catch(error => {
+    var d = new Date().toISOString().substr(0, 16)
+    console.log("db POST: " + `http://localhost:3000/${path}` + "  " + d)
+    return axios.post(`http://localhost:3000/${path}`, body).catch(error => {
         console.log('Error: ' + error);
     });   
+}
+
+function markComplete(id){
+    return getReq("tasks?id="+id).then( result => {
+        parsed = result.data
+        
+        var nome = parsed.nome
+        var desc = parsed.descricao
+        var tipo = parsed.tipo
+        var data = parsed.data
+
+        const payload = {
+        "id" : id, 
+        "nome" : nome,
+        "desc" : desc,
+        "tipo" : tipo,
+        "data" : data,
+        "comp" : "yes" 
+        } 
+        return putReq(id,payload)
+        
+    })
 }
 
 // Criação do servidor
@@ -132,6 +196,7 @@ var tdserver = http.createServer(function (req, res) {
     var d = new Date().toISOString().substr(0, 16)
     console.log(req.method + " " + req.url + " " + d)
 
+    
     // Tratamento do pedido
     switch(req.method){
         case "GET": 
@@ -146,36 +211,43 @@ var tdserver = http.createServer(function (req, res) {
             }
             break
         case "POST":
-            // POST REQUEST
-            let body = ``
-            req.on(`data`, chunk => {
-                body+= chunk.toString()}) //converts buffer to string
-            req.on(`end`, () => {
-                const parsed = parse(body)
-                console.log(parsed)
+            // POST REQUEST normal
+            if(req.url == "/" )
+            {
+                let body = ``
+                req.on(`data`, chunk => {
+                    body+= chunk.toString()}) //converts buffer to string
+                req.on(`end`, () => {
+                    const parsed = parse(body)
+                    console.log(parsed)
 
-                var nome = parsed.nome
-                var desc = parsed.descricao
-                var tipo = parsed.tipo
-                var data = new Date().toISOString().substr(0, 16)
-                var comp = "no"
+                    var nome = parsed.nome
+                    var desc = parsed.descricao
+                    var tipo = parsed.tipo
+                    var data = new Date().toISOString().substr(0, 16)
+                    var comp = "no"
 
-                const payload ={
-                    "nome" : nome,
-                    "desc" : desc,
-                    "tipo" : tipo,
-                    "data" : data,
-                    "comp" : comp
-                }
+                    const payload ={
+                        "nome" : nome,
+                        "desc" : desc,
+                        "tipo" : tipo,
+                        "data" : data,
+                        "comp" : comp
+                    }
 
-                postReq("tasks",payload)
+                    postReq("tasks",payload).then(
+                    genMainPage().then(result => res.end(result)))
+                })
+            }else if (req.url.split("/")[1]=="delete" ) {
+                //fazer o delete 
+                delReq(req.url.split("/")[2]).then(
+                    genMainPage().then(result => res.end(result)))
+            }else if (req.url.split("/")[1]=="complete") {
+                 markComplete(req.url.split("/")[2]).then(
+                    genMainPage().then(result => res.end(result)))
+            }
+            
 
-                genMainPage().then(result => res.end(result))
-            })
-
-            break
-        case "DELETE":
-            // DELETE REQUEST
             break
         default: 
             res.writeHead(200, {'Content-Type': 'text/html;charset=utf-8'})
