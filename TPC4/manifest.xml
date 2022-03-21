@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+    <meta>
+        <titulo>TPC4: Servidor que implementa uma ToDo list  </titulo>
+        <data>2022-03-21</data>
+        <autor>
+            <id>a80376</id>
+            <nome>Pedro Barbosa Pereira</nome>
+        </autor>
+        <uc>
+            <sigla>RPCW2022</sigla>
+            <nome>Representação e Processamento de Conhecimento na Web</nome>
+        </uc>
+    </meta>
+    <resumo>
+        <p>Neste TPC4, criei um servidor que faz GET,POST,PUT e DELETE requests ao json-server de forma a implementar uma todo list</p>
+        <p>Depois de carregar no butao que marca uma tarefa como completa a pagina nao esta a dar update corretamente e a tabela das tarefas por completar continua a mostrar essa tarefa, um reload manual corrige isto. Nao entendo porque mas os DEL das tarefas ja completas nao tem este comportamento</p>
+    </resumo>
+    <resultados>
+        <resultado>
+            <url>server.js</url>
+            <texto>Servidor</texto>
+        </resultado>
+        <resultado>
+            <url>todo.json</url>
+            <texto>json que contem a todo list </texto>
+        </resultado>
+    </resultados>
+</doc>
