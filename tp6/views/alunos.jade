@@ -1,0 +1,16 @@
+extends layout
+
+block content 
+    h1 lista de alunos
+    h2  22 de marco de 2022
+    table 
+        tr 
+            th Identificador
+            th Nome
+            th Link para o git
+        each a in alunos
+            tr 
+                td= a.Id
+                td= a.Nome 
+                td= a.Git
+    
