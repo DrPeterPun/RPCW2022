@@ -1,0 +1,15 @@
+extends layout
+
+block content
+    h1= title
+    form(type="hidden", name="_method", value ="put", action="/musicas/inserir")
+        p Provincia
+            input(type="text", name="prov")
+        p Local
+            input(type="text", name="local")
+        p Musico
+            input(type="text", name="musico")
+        p Titulo
+            input(type="text", name="titulo")
+        input(type="submit", name ="submeter")
+            

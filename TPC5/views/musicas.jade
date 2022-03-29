@@ -1,0 +1,17 @@
+extends layout
+
+block content 
+    h1 lista de musicas
+    table 
+        tr 
+            th Prov
+            th local
+            th Musico
+            th Titulo
+        each a in musicas
+            tr 
+                td= a.prov
+                td= a.local
+                td= a.musico
+                td= a.tit
+    

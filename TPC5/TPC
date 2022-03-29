@@ -1,0 +1,13 @@
+1 colocar o arq-son a ser servido pelo json server
+2 criar uma app com as rotas:
+
+GET
+/ 
+/musicas => lista de musicas
+/musicas/:id
+/musicas/prov/:id => lista de musicas desta provincia
+
+GET
+/musicas/inserir
+
+manda um formularop para o user, e mete e faz um post par ao json server com esses dados ( ou direto ou para o servidor e depois ele é qu emanda para o json server)

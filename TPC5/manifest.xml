@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+    <meta>
+        <titulo>TPC5: Servidor que serve o dataset musicas e ofrece um form para fazer um post ao mesmo</titulo>
+        <data>2022-03-29</data>
+        <autor>
+            <id>a80376</id>
+            <nome>Pedro Barbosa Pereira</nome>
+        </autor>
+        <uc>
+            <sigla>RPCW2022</sigla>
+            <nome>Representação e Processamento de Conhecimento na Web</nome>
+        </uc>
+    </meta>
+    <resumo>
+        <p>Neste TPC4, criei um servidor em express que responde a get requests para acedar ao dataset arq-son.json e permite fazer posts para inserir os proprios valores neste</p>
+    </resumo>
+    <resultados>
+        <resultado>
+            <url>routes/</url>
+            <texto>roteadores</texto>
+        </resultado>
+        <resultado>
+            <url>adpp.js</url>
+            <texto>.js principal do servidor</texto>
+        </resultado>
+        <resultado>
+            <url>views/.</url>
+            <texto>views todas que foram criadas para servir as varias paginas</texto>
+        </resultado>
+    </resultados>
+</doc>

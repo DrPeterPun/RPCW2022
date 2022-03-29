@@ -1,0 +1,16 @@
+extends layout
+
+block content 
+    h1 Musica com id: #{musica.id} 
+    table 
+        tr 
+            th Prov
+            th local
+            th Musico
+            th Titulo
+            tr 
+                td= musica.prov
+                td= musica.local
+                td= musica.musico
+                td= musica.tit
+    
