@@ -1,0 +1,15 @@
+tpc da aula de 29/03
+
+web app gerada a partir do express: ( views em pug)
+modelo: json file OU bd mongo, NUNCA meter ficheiros dentro da bd, guardar a meta informacao tho (no json ou mongo)
+
+app:
+
+get /
+pagina principal: 
+
+com form de submicao de ficheiros em cima
+em baixo a lista de ficheiros (com date , file, size, type, desccricao[ tem de ter um campo no form, legit straight up texto])
+desafio extra, meter um link nas cenas para dar para ver a imagem
+
+meter um butao que remove os ficheiros tbm

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+    <meta>
+        <titulo>TPC6: web app que permite dar upload a ficheiros, e motra que ficheiros tem guardados</titulo>
+        <data>2022-04-05</data>
+        <autor>
+            <id>a80376</id>
+            <nome>Pedro Barbosa Pereira</nome>
+        </autor>
+        <uc>
+            <sigla>RPCW2022</sigla>
+            <nome>Representação e Processamento de Conhecimento na Web</nome>
+        </uc>
+    </meta>
+    <resumo>
+        <p>Neste TPC6, criei uma web app que recebe upload de ficheiros e mostra que ficheiros foram uploaded e alguma informacao relativa aos mesmos.</p>
+        <p>Nao entendo a razao mas os upload nao funcionam. Quando chamo req.file o objeto nao existe</p>
+        <p> </p>
+    </resumo>
+    <resultados>
+        <resultado>
+            <url>app.js</url>
+            <texto>.js principal do servidor</texto>
+        </resultado>
+        <resultado>
+            <url>views/index.pug</url>
+            <texto> unica view necessaria, ja que a web app so contem uma pagina</texto>
+        </resultado>
+        <resultado>
+            <url>db.json</url>
+            <texto> ficheiro .json que contem as informacoes relativas aos ficheiros que foram uploaded</texto>
+        </resultado>
+    </resultados>
+</doc>
