@@ -30,5 +30,9 @@
             <url>db.json</url>
             <texto> ficheiro .json que contem as informacoes relativas aos ficheiros que foram uploaded</texto>
         </resultado>
+        <resultado>
+            <url>public/stylesheets/</url>
+            <texto> ficheiro .json que contem as informacoes relativas aos ficheiros que foram uploaded</texto>
+        </resultado>
     </resultados>
 </doc>
