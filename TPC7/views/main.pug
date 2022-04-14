@@ -1,0 +1,14 @@
+extends layout
+
+block content
+  h1= title
+  p PLACEHODER TEXT!
+  table
+    tr
+      th Código
+      th Título
+    each c in classes
+      tr
+        td
+          a(href='http://localhost:3123/classes?codigo='+ c.codigo) #{c.codigo}
+        td= c.titulo
