@@ -1,0 +1,38 @@
+extends layout
+
+block content
+  h1= title
+  p  
+    if !(prev == "")
+      a(href='http://localhost:3123/classes/' + prev) Back     
+    a(href='http://localhost:3123/') Main Page
+  p Código : #{codigo};Id : #{id};Status : #{status};Nivel: #{nivel}; 
+  p Descricao : #{desc}
+  
+  if !(typeof notasAp === "undefined")
+    p Notas AP:
+    each n in notasAp
+      p #{n.nota}
+  
+  if !(typeof notasEx === "undefined")
+    p Notas EX:
+    each n in notasEx
+      p #{n.nota}
+
+  p Filhos: 
+  table
+    tr
+      th Código
+      th Titulo
+      th Id 
+      th Status
+    each f in filhos
+      tr
+        td
+          a(href='http://localhost:3123/classes/'+ f.codigo) #{f.codigo}
+        td= f.titulo
+        td= f.id
+        td= f.status
+  
+    
+        

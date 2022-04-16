@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+    <meta>
+        <titulo>TPC7: web app que apresenta os dados obtidos apartir da api de dados do CLAV </titulo>
+        <data>2022-04-16</data>
+        <autor>
+            <id>a80376</id>
+            <nome>Pedro Barbosa Pereira</nome>
+        </autor>
+        <uc>
+            <sigla>RPCW2022</sigla>
+            <nome>Representação e Processamento de Conhecimento na Web</nome>
+        </uc>
+    </meta>
+    <resumo>
+        <p>Neste TPC6, criei uma web app que serve dois tipos de paginas, a pagina principal que tem todas as classes de nivel 1. O outro tipo de pagina apresenta a informacao relevante de uma das outras classes e todos os seus descendentes.</p>
+        <p> </p>
+    </resumo>
+    <resultados>
+        <resultado>
+            <url>app.js</url>
+            <texto>.js principal do servidor</texto>
+        </resultado>
+        <resultado>
+            <url>views/main.pug</url>
+            <texto> pagina principal que o servidar vai mostrar</texto>
+        </resultado>
+        <resultado>
+            <url>views/classe.pug</url>
+            <texto> view que mostra a informacao a informacao relvante da classe em questao</texto>
+        </resultado>
+    </resultados>
+</doc>

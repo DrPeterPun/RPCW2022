@@ -7,36 +7,41 @@ const token = "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYyNGNiYTg0OWJhYmI2
 
 /* GET home page. */
 router.get('/', function(req, res, next) {
-  classe = axios.get("http://clav-api.di.uminho.pt/v2/classes" , {params : { nivel:2, apikey: token}}).then(response => {
+  classe = axios.get("http://clav-api.di.uminho.pt/v2/classes" , {params : { nivel:1, apikey: token}}).then(response => {
     console.log(response.data)
     res.render('main', { title: 'Express', classes: response.data})
   })
 });
 
 router.get('/classes/:id', function(req, res, next) {
+  console.log("classe :")
   console.log(req.params.id)
-  Promise.all([
-    // informacao base da classe
-    axios.get("http://clav-api.di.uminho.pt/v2/classes/c"+req.params.id, {params : { apikey: token}}),
-    axios.get("http://clav-api.di.uminho.pt/v2/classes/c"+req.params.id+"/descendencia", {params : { apikey: token}})
-  ]).then(function (responses) {
-    // Get a JSON object from each of the responses
-    return Promise.all(responses.map(function (response) {
-      console.log(response)
-      return response
-    }));
-  }).then(function (data) {
-    // Log the data to the console
-    // You would do something with both sets of data here
-    console.log("classes\n");
-    console.log(data[0].data);
-    console.log("descendencia \n" );
-    console.log(data[1].data);
-  }).catch(function (error) {
-    // if there's an error, log it
-    console.log(error);
-  });
-  res.end()
+  axios.get("http://clav-api.di.uminho.pt/v2/classes/c"+req.params.id, {params : { apikey: token, }}).then(response => {
+
+    const titulo = response.data.titulo
+    const codigo = response.data.codigo
+    const id = response.data.id
+    const status = response.data.status
+    const nivel = response.data.nivel
+    const filhos = response.data.filhos
+    const desc = response.data.descricao
+    const notasAp = response.data.notasAp
+    const notasEx = response.data.notasEx
+    //console.log(titulo + " " + codigo + " " +id + " " +status + " " +nivel)
+    //console.log(filhos)
+    console.log(notasAp)
+    console.log(notasEx)
+    
+    //console.log("classe inteira")
+    //console.log(response.data)
+    
+    //console.log(desc)
+    n = (codigo.lastIndexOf('.'))
+    prev = codigo.substring(0,n)
+
+    res.render('classe', { title: titulo, codigo:codigo, id: id, status:status, nivel:nivel, filhos:filhos, notasAp: notasAp, notasEx: notasEx, desc: desc, prev:prev})
+     
+  })
 });
 
 
