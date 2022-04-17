@@ -34,5 +34,22 @@ block content
         td= f.id
         td= f.status
   
-    
+  p Relacoes: 
+  table
+    tr
+      th Código
+      th Titulo
+      th Relacao
+      th Id 
+      th Status
+    each f in rel
+      tr
+        td
+          a(href='http://localhost:3123/classes/'+ f.codigo) #{f.codigo}
+        td= f.titulo
+        td= f.idRel
+        td= f.id
+        td= f.status
+  
+ 
         

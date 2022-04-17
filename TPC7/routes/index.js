@@ -28,18 +28,33 @@ router.get('/classes/:id', function(req, res, next) {
     const notasAp = response.data.notasAp
     const notasEx = response.data.notasEx
     //console.log(titulo + " " + codigo + " " +id + " " +status + " " +nivel)
-    //console.log(filhos)
-    console.log(notasAp)
-    console.log(notasEx)
+   
+    list = []
+
+    console.log("processos")
+    console.log(response.data.processosRelacionados)
+    n = 0
+    if (response.data.processosRelacionados){
+      n = response.data.processosRelacionados.length
+    }
+    for (let index = 0; index < n; index++) {
+      const element = response.data.processosRelacionados[index];
+      console.log(element.idRel)
+      if (element.idRel=='eCruzadoCom'   || element.idRel=='eComplementarDe' || 
+          element.idRel=='eSuplementoDe' || element.idRel=='SuplementoPara') {
+        list.push(element)
+      }
+    }
+    console.log(list)
     
     //console.log("classe inteira")
     //console.log(response.data)
     
     //console.log(desc)
-    n = (codigo.lastIndexOf('.'))
-    prev = codigo.substring(0,n)
+    i = (codigo.lastIndexOf('.'))
+    prev = codigo.substring(0,i)
 
-    res.render('classe', { title: titulo, codigo:codigo, id: id, status:status, nivel:nivel, filhos:filhos, notasAp: notasAp, notasEx: notasEx, desc: desc, prev:prev})
+    res.render('classe', { title: titulo, codigo:codigo, id: id, status:status, nivel:nivel, filhos:filhos, notasAp: notasAp, notasEx: notasEx, desc: desc, prev:prev, rel:list})
      
   })
 });
