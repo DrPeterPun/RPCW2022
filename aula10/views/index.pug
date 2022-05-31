@@ -1,0 +1,42 @@
+extends layout
+
+block content
+  .w3-card-4.w3-margin
+    header.w3-container.w3-blue
+      h2 Novo ficheiro
+    form.w3-container(action="/api/ficheiros" method="post" enctype="multipart/formdata")
+      .w3-container(id="Lista")
+        .w3-container(id="f1")
+          .w3-cell-row
+            label.w3-cell Descricao:
+            input.w3-input.w3-cell.w3-border(type="text" name="desc")
+          .w3-cell-row
+            label.w3-cell Ficheiro:
+            input.w3-input.w3-cell.w3-border(type="file" name="ficheiro")
+      .w3-cell-row
+        button.w3-button.w3-round-large.w3-indigo(id="mais1") +1
+      .w3-cell-row
+        button.w3-button.w3-round-large.w3-deep-purple(type="submit" id="submit") 
+
+    .w3-card-4.modal(id="display")
+
+    .w3-container 
+      if(lista.length > 0)
+        table.w3-table-all
+          tr
+            th Data
+            th Descricao 
+            th Tipo 
+            th Nome
+            th Tamanho
+          each f in lista
+            tr(id='f_'+f._id, class='ficheiro', onclick="showficheiro("+JSON()+")")
+              td= f.data
+              td= f.desc
+              td= f.mimetype
+              td= f.name
+              td= f.size
+      else 
+        p Nao ha ficheiros armazenados...
+    footer.w3-container.w3-blue
+      adress Generator by fileApp, 2022-04-26 by RPCW2022     

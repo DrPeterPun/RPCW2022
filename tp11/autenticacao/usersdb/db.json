@@ -1,0 +1,16 @@
+{
+ "users":[
+    {
+        "id": "A4140",
+        "email": "zeze@gmail.com",
+        "nome": "Carlos Leite",
+        "password" : "123"
+    },
+    {
+        "id": "A4145",
+        "email": "paulo@gmail.com",
+        "nome": "paulo PAUUUULO",
+        "password" : "456"
+    }
+ ]
+}

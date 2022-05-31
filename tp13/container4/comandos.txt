@@ -1,0 +1,14 @@
+docker build -t jcr/node-web-app-hello .
+
+docker images
+
+docker run -d -p 3000:7777 --name hello ID_imagem
+
+docker logs hello
+
+docker ps
+
+docker stop hello
+
+docker rm hello
+
